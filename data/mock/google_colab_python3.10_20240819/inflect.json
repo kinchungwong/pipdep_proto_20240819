@@ -1,0 +1,14 @@
+{
+    "Name": "inflect",
+    "Version": "7.3.1",
+    "Summary": "Correctly generate plurals, singular nouns, ordinals, indefinite articles",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Paul Dyson <pwdyson@yahoo.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "more-itertools, typeguard",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153017_771261",
+    "my_timing_stop_time": "20240819_153039_078491"
+}

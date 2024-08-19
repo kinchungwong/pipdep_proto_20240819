@@ -1,0 +1,14 @@
+{
+    "Name": "multidict",
+    "Version": "6.0.5",
+    "Summary": "multidict implementation",
+    "Home-page": "https://github.com/aio-libs/multidict",
+    "Author": "Andrew Svetlov",
+    "Author-email": "andrew.svetlov@gmail.com",
+    "License": "Apache 2",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "aiohttp, yarl",
+    "my_timing_start_time": "20240819_153331_064541",
+    "my_timing_stop_time": "20240819_153352_162606"
+}

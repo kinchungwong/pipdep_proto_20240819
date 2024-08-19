@@ -1,0 +1,14 @@
+{
+    "Name": "google-auth-oauthlib",
+    "Version": "1.2.1",
+    "Summary": "Google Authentication Library",
+    "Home-page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib",
+    "Author": "Google Cloud Platform",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-auth, requests-oauthlib",
+    "Required-by": "gcsfs, gspread, pandas-gbq, pydata-google-auth",
+    "my_timing_start_time": "20240819_152750_990136",
+    "my_timing_stop_time": "20240819_152811_798061"
+}

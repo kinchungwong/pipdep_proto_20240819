@@ -1,0 +1,14 @@
+{
+    "Name": "sqlparse",
+    "Version": "0.5.1",
+    "Summary": "A non-validating SQL parser.",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Andi Albrecht <albrecht.andi@gmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ipython-sql",
+    "my_timing_start_time": "20240819_154052_194461",
+    "my_timing_stop_time": "20240819_154114_368866"
+}

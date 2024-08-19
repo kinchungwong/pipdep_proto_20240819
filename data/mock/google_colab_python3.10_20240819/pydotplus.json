@@ -1,0 +1,14 @@
+{
+    "Name": "pydotplus",
+    "Version": "2.0.2",
+    "Summary": "Python interface to Graphviz's Dot language",
+    "Home-page": "http://pydotplus.readthedocs.org/",
+    "Author": "PyDotPlus Developers",
+    "Author-email": "carlos@jenkins.co.cr",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "pyparsing",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153727_042457",
+    "my_timing_stop_time": "20240819_153748_404114"
+}

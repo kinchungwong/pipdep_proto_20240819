@@ -1,0 +1,14 @@
+{
+    "Name": "protobuf",
+    "Version": "3.20.3",
+    "Summary": "Protocol Buffers",
+    "Home-page": "https://developers.google.com/protocol-buffers/",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "cudf-cu12, google-ai-generativelanguage, google-api-core, google-cloud-aiplatform, google-cloud-bigquery-connection, google-cloud-bigquery-storage, google-cloud-bigtable, google-cloud-datastore, google-cloud-firestore, google-cloud-functions, google-cloud-iam, google-cloud-language, google-cloud-pubsub, google-cloud-resource-manager, google-cloud-translate, google-generativeai, googleapis-common-protos, grpc-google-iam-v1, grpcio-status, orbax-checkpoint, proto-plus, tensorboard, tensorflow, tensorflow-datasets, tensorflow-hub, tensorflow-metadata",
+    "my_timing_start_time": "20240819_153632_929180",
+    "my_timing_stop_time": "20240819_153653_827238"
+}

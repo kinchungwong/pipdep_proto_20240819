@@ -1,0 +1,14 @@
+{
+    "Name": "blinker",
+    "Version": "1.4",
+    "Summary": "Fast, simple object-to-object and broadcast signaling",
+    "Home-page": "http://pythonhosted.org/blinker/",
+    "Author": "Jason Kirtland",
+    "Author-email": "jek@discorporate.us",
+    "License": "MIT License",
+    "Location": "/usr/lib/python3/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152305_108689",
+    "my_timing_stop_time": "20240819_152326_924818"
+}

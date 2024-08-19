@@ -1,0 +1,14 @@
+{
+    "Name": "torchvision",
+    "Version": "0.18.1+cu121",
+    "Summary": "image and video datasets and models for torch deep learning",
+    "Home-page": "https://github.com/pytorch/vision",
+    "Author": "PyTorch Core Team",
+    "Author-email": "soumith@pytorch.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, pillow, torch",
+    "Required-by": "fastai",
+    "my_timing_start_time": "20240819_154240_812361",
+    "my_timing_stop_time": "20240819_154302_038863"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "geographiclib",
+    "Version": "2.0",
+    "Summary": "The geodesic routines from GeographicLib",
+    "Home-page": "https://geographiclib.sourceforge.io/Python/2.0",
+    "Author": "Charles Karney",
+    "Author-email": "charles@karney.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "geopy",
+    "my_timing_start_time": "20240819_152724_947443",
+    "my_timing_stop_time": "20240819_152749_504540"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "polars",
+    "Version": "0.20.2",
+    "Summary": "Blazingly fast DataFrame library",
+    "Home-page": "https://www.pola.rs/",
+    "Author": "",
+    "Author-email": "Ritchie Vink <ritchie46@gmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153605_363642",
+    "my_timing_stop_time": "20240819_153625_661586"
+}

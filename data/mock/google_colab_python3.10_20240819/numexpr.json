@@ -1,0 +1,14 @@
+{
+    "Name": "numexpr",
+    "Version": "2.10.1",
+    "Summary": "Fast numerical expression evaluator for NumPy",
+    "Home-page": "https://github.com/pydata/numexpr",
+    "Author": "",
+    "Author-email": "\"David M. Cooke, Francesc Alted, and others\" <blosc@blosc.org>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "tables",
+    "my_timing_start_time": "20240819_153416_156843",
+    "my_timing_stop_time": "20240819_153437_194238"
+}

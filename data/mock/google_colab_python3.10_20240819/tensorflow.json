@@ -1,0 +1,14 @@
+{
+    "Name": "tensorflow",
+    "Version": "2.17.0",
+    "Summary": "TensorFlow is an open source machine learning framework for everyone.",
+    "Home-page": "https://www.tensorflow.org/",
+    "Author": "Google Inc.",
+    "Author-email": "packages@tensorflow.org",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, astunparse, flatbuffers, gast, google-pasta, grpcio, h5py, keras, libclang, ml-dtypes, numpy, opt-einsum, packaging, protobuf, requests, setuptools, six, tensorboard, tensorflow-io-gcs-filesystem, termcolor, typing-extensions, wrapt",
+    "Required-by": "dopamine_rl, tf_keras",
+    "my_timing_start_time": "20240819_154130_145449",
+    "my_timing_stop_time": "20240819_154153_372938"
+}

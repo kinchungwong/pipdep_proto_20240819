@@ -1,0 +1,14 @@
+{
+    "Name": "language_data",
+    "Version": "1.2.0",
+    "Summary": "Supplementary data about languages used by the langcodes module",
+    "Home-page": "https://github.com/georgkrause/language_data",
+    "Author": "",
+    "Author-email": "Elia Robyn Speer <rspeer@arborelia.net>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "marisa-trie",
+    "Required-by": "langcodes",
+    "my_timing_start_time": "20240819_153205_431701",
+    "my_timing_stop_time": "20240819_153226_265459"
+}

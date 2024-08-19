@@ -1,0 +1,14 @@
+{
+    "Name": "pyproject_hooks",
+    "Version": "1.1.0",
+    "Summary": "Wrappers to call pyproject.toml-based build backend hooks.",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Thomas Kluyver <thomas@kluyver.me.uk>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "build, pip-tools",
+    "my_timing_start_time": "20240819_153810_836257",
+    "my_timing_stop_time": "20240819_153834_919963"
+}

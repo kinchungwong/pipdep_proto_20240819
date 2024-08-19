@@ -1,0 +1,14 @@
+{
+    "Name": "rich",
+    "Version": "13.7.1",
+    "Summary": "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal",
+    "Home-page": "https://github.com/Textualize/rich",
+    "Author": "Will McGugan",
+    "Author-email": "willmcgugan@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "markdown-it-py, pygments",
+    "Required-by": "cudf-cu12, flax, ibis-framework, keras, typer",
+    "my_timing_start_time": "20240819_153903_127138",
+    "my_timing_stop_time": "20240819_153924_363379"
+}

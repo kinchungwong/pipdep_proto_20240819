@@ -1,0 +1,14 @@
+{
+    "Name": "gym-notices",
+    "Version": "0.0.8",
+    "Summary": "Notices for gym",
+    "Home-page": "https://github.com/Farama-Foundation/gym-notices",
+    "Author": "Jordan Terry",
+    "Author-email": "jkterry0@farama.org",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "gym",
+    "my_timing_start_time": "20240819_152915_288886",
+    "my_timing_stop_time": "20240819_152935_804945"
+}

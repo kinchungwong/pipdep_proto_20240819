@@ -1,0 +1,14 @@
+{
+    "Name": "msgpack",
+    "Version": "1.0.8",
+    "Summary": "MessagePack serializer",
+    "Home-page": "https://msgpack.org/",
+    "Author": "",
+    "Author-email": "Inada Naoki <songofacandy@gmail.com>",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "blosc2, CacheControl, distributed, flax, librosa, orbax-checkpoint",
+    "my_timing_start_time": "20240819_153330_465201",
+    "my_timing_stop_time": "20240819_153351_014615"
+}

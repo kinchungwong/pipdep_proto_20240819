@@ -1,0 +1,14 @@
+{
+    "Name": "httplib2",
+    "Version": "0.22.0",
+    "Summary": "A comprehensive HTTP client library.",
+    "Home-page": "https://github.com/httplib2/httplib2",
+    "Author": "Joe Gregorio",
+    "Author-email": "joe@bitworking.org",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "pyparsing",
+    "Required-by": "earthengine-api, google-api-python-client, google-auth-httplib2, launchpadlib, lazr.restfulclient, oauth2client",
+    "my_timing_start_time": "20240819_152935_227121",
+    "my_timing_stop_time": "20240819_152955_719233"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "llvmlite",
+    "Version": "0.43.0",
+    "Summary": "lightweight wrapper around basic LLVM functionality",
+    "Home-page": "http://llvmlite.readthedocs.io",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "numba",
+    "my_timing_start_time": "20240819_153226_279742",
+    "my_timing_stop_time": "20240819_153247_161965"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "lazr.restfulclient",
+    "Version": "0.14.4",
+    "Summary": "A programmable client library that takes advantage of the commonalities among",
+    "Home-page": "https://launchpad.net/lazr.restfulclient",
+    "Author": "",
+    "Author-email": "",
+    "License": "LGPL v3",
+    "Location": "/usr/lib/python3/dist-packages",
+    "Requires": "httplib2",
+    "Required-by": "launchpadlib",
+    "my_timing_start_time": "20240819_153206_210209",
+    "my_timing_stop_time": "20240819_153226_700410"
+}

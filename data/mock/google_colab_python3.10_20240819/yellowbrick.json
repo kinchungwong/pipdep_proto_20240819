@@ -1,0 +1,14 @@
+{
+    "Name": "yellowbrick",
+    "Version": "1.5",
+    "Summary": "A suite of visual analysis and diagnostic tools for machine learning.",
+    "Home-page": "http://scikit-yb.org/",
+    "Author": "The scikit-yb developers",
+    "Author-email": "yellowbrick@googlegroups.com",
+    "License": "Apache 2",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cycler, matplotlib, numpy, scikit-learn, scipy",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154426_165424",
+    "my_timing_stop_time": "20240819_154443_773620"
+}

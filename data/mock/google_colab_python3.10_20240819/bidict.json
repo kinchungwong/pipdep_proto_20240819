@@ -1,0 +1,14 @@
+{
+    "Name": "bidict",
+    "Version": "0.23.1",
+    "Summary": "The bidirectional mapping library for Python.",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Joshua Bronson <jabronson@gmail.com>",
+    "License": "MPL 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ibis-framework",
+    "my_timing_start_time": "20240819_152304_651343",
+    "my_timing_stop_time": "20240819_152325_686709"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "pycparser",
+    "Version": "2.22",
+    "Summary": "C parser in Python",
+    "Home-page": "https://github.com/eliben/pycparser",
+    "Author": "Eli Bendersky",
+    "Author-email": "eliben@gmail.com",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "cffi",
+    "my_timing_start_time": "20240819_153709_160486",
+    "my_timing_stop_time": "20240819_153729_217941"
+}

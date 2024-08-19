@@ -1,0 +1,14 @@
+{
+    "Name": "moviepy",
+    "Version": "1.0.3",
+    "Summary": "Video editing with Python",
+    "Home-page": "https://zulko.github.io/moviepy/",
+    "Author": "Zulko 2017",
+    "Author-email": "",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "decorator, imageio, imageio-ffmpeg, numpy, proglog, requests, tqdm",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153326_942474",
+    "my_timing_stop_time": "20240819_153348_283686"
+}

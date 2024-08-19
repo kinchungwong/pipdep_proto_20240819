@@ -1,0 +1,14 @@
+{
+    "Name": "ecos",
+    "Version": "2.0.14",
+    "Summary": "This is the Python package for ECOS: Embedded Cone Solver. See Github page for more information.",
+    "Home-page": "http://github.com/embotech/ecos",
+    "Author": "Alexander Domahidi, Eric Chu, Han Wang, Santiago Akle",
+    "Author-email": "domahidi@embotech.com, echu@cs.stanford.edu, hanwang2@stanford.edu, tiagoakle@gmail.com",
+    "License": "GPLv3",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, scipy",
+    "Required-by": "cvxpy",
+    "my_timing_start_time": "20240819_152557_135147",
+    "my_timing_stop_time": "20240819_152616_844918"
+}

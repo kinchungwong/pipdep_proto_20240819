@@ -1,0 +1,14 @@
+{
+    "Name": "pandas-gbq",
+    "Version": "0.23.1",
+    "Summary": "Google BigQuery connector for pandas",
+    "Home-page": "https://github.com/googleapis/python-bigquery-pandas",
+    "Author": "pandas-gbq authors",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "db-dtypes, google-api-core, google-auth, google-auth-oauthlib, google-cloud-bigquery, numpy, packaging, pandas, pyarrow, pydata-google-auth, setuptools",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153504_750607",
+    "my_timing_stop_time": "20240819_153527_334301"
+}

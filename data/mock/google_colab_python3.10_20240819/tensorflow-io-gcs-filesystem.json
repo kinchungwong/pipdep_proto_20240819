@@ -1,0 +1,14 @@
+{
+    "Name": "tensorflow-io-gcs-filesystem",
+    "Version": "0.37.1",
+    "Summary": "TensorFlow IO",
+    "Home-page": "https://github.com/tensorflow/io",
+    "Author": "Google Inc.",
+    "Author-email": "opensource@google.com",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "tensorflow",
+    "my_timing_start_time": "20240819_154135_819362",
+    "my_timing_stop_time": "20240819_154157_869518"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "tensorflow-metadata",
+    "Version": "1.15.0",
+    "Summary": "Library and standards for schema and statistics.",
+    "Home-page": "",
+    "Author": "Google Inc.",
+    "Author-email": "tensorflow-extended-dev@googlegroups.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, protobuf",
+    "Required-by": "tensorflow-datasets",
+    "my_timing_start_time": "20240819_154147_555649",
+    "my_timing_stop_time": "20240819_154211_795085"
+}

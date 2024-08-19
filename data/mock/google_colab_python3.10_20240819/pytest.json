@@ -1,0 +1,14 @@
+{
+    "Name": "pytest",
+    "Version": "7.4.4",
+    "Summary": "pytest: simple powerful testing with Python",
+    "Home-page": "https://docs.pytest.org/en/latest/",
+    "Author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin and others",
+    "Author-email": "",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "exceptiongroup, iniconfig, packaging, pluggy, tomli",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153814_632497",
+    "my_timing_stop_time": "20240819_153837_892514"
+}

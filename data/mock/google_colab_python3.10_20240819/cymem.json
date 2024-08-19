@@ -1,0 +1,14 @@
+{
+    "Name": "cymem",
+    "Version": "2.0.8",
+    "Summary": "Manage calls to calloc/free through Cython",
+    "Home-page": "https://github.com/explosion/cymem",
+    "Author": "Matthew Honnibal",
+    "Author-email": "matt@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "preshed, spacy, thinc",
+    "my_timing_start_time": "20240819_152454_069138",
+    "my_timing_stop_time": "20240819_152517_161463"
+}

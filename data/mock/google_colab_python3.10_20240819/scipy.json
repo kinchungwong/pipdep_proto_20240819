@@ -1,0 +1,14 @@
+{
+    "Name": "scipy",
+    "Version": "1.13.1",
+    "Summary": "Fundamental algorithms for scientific computing in Python",
+    "Home-page": "https://scipy.org/",
+    "Author": "",
+    "Author-email": "",
+    "License": "Copyright (c) 2001-2002 Enthought, Inc. 2003-2024, SciPy Developers.",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "albumentations, arviz, clarabel, cvxpy, datascience, ecos, fastai, gensim, hyperopt, imbalanced-learn, imgaug, jax, jaxlib, librosa, lightgbm, matplotlib-venn, missingno, mizani, mlxtend, osqp, plotnine, pymc, pytensor, qdldl, scikit-image, scikit-learn, scs, sklearn-pandas, statsmodels, xarray-einstats, xgboost, yellowbrick",
+    "my_timing_start_time": "20240819_153924_373207",
+    "my_timing_stop_time": "20240819_153945_706553"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "jellyfish",
+    "Version": "1.1.0",
+    "Summary": "Approximate and phonetic matching of strings.",
+    "Home-page": "https://jamesturk.github.io/jellyfish/",
+    "Author": "James Turk <dev@jamesturk.net>",
+    "Author-email": "James Turk <dev@jamesturk.net>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "bigframes",
+    "my_timing_start_time": "20240819_153059_657146",
+    "my_timing_stop_time": "20240819_153124_333898"
+}

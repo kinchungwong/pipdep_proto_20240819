@@ -1,0 +1,14 @@
+{
+    "Name": "dlib",
+    "Version": "19.24.2",
+    "Summary": "A toolkit for making real world machine learning and data analysis applications",
+    "Home-page": "https://github.com/davisking/dlib",
+    "Author": "Davis King",
+    "Author-email": "davis@dlib.net",
+    "License": "Boost Software License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152536_056382",
+    "my_timing_stop_time": "20240819_152557_128410"
+}

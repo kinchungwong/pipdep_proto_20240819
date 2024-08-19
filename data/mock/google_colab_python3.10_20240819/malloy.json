@@ -1,0 +1,14 @@
+{
+    "Name": "malloy",
+    "Version": "2024.1089",
+    "Summary": "Malloy is an experimental language for describing data relationships and transformations",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "",
+    "License": "Copyright 2023 Google LLC",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, duckdb, google-cloud-bigquery, snowflake-connector-python",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153227_565753",
+    "my_timing_stop_time": "20240819_153249_288196"
+}

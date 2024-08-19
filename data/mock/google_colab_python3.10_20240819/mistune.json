@@ -1,0 +1,14 @@
+{
+    "Name": "mistune",
+    "Version": "0.8.4",
+    "Summary": "The fastest markdown parser in pure Python",
+    "Home-page": "https://github.com/lepture/mistune",
+    "Author": "Hsiaoming Yang",
+    "Author-email": "me@lepture.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "nbconvert",
+    "my_timing_start_time": "20240819_153308_618217",
+    "my_timing_stop_time": "20240819_153329_711226"
+}

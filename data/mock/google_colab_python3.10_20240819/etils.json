@@ -1,0 +1,14 @@
+{
+    "Name": "etils",
+    "Version": "1.7.0",
+    "Summary": "Collection of common python utils",
+    "Home-page": "https://github.com/google/etils",
+    "Author": "",
+    "Author-email": "Conchylicultor <etils@google.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "array_record, orbax-checkpoint, tensorflow-datasets",
+    "my_timing_start_time": "20240819_152600_156182",
+    "my_timing_stop_time": "20240819_152622_393271"
+}

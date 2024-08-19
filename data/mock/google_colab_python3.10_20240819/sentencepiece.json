@@ -1,0 +1,14 @@
+{
+    "Name": "sentencepiece",
+    "Version": "0.1.99",
+    "Summary": "SentencePiece python wrapper",
+    "Home-page": "https://github.com/google/sentencepiece",
+    "Author": "Taku Kudo",
+    "Author-email": "taku@google.com",
+    "License": "Apache",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153942_849422",
+    "my_timing_stop_time": "20240819_154003_324362"
+}

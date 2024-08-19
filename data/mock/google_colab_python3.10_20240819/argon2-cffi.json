@@ -1,0 +1,14 @@
+{
+    "Name": "argon2-cffi",
+    "Version": "23.1.0",
+    "Summary": "Argon2 for Python",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Hynek Schlawack <hs@ox.cx>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "argon2-cffi-bindings",
+    "Required-by": "jupyter-server, notebook",
+    "my_timing_start_time": "20240819_152220_713198",
+    "my_timing_stop_time": "20240819_152241_754806"
+}

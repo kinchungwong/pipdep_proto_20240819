@@ -1,0 +1,14 @@
+{
+    "Name": "albumentations",
+    "Version": "1.4.13",
+    "Summary": "An efficient library for image augmentation, providing extensive transformations to support machine learning and computer vision tasks.",
+    "Home-page": "https://albumentations.ai",
+    "Author": "Vladimir I. Iglovikov, Mikhail Druzhinin, Alex Parinov, Alexander Buslaev, Eugene Khvedchenya",
+    "Author-email": "",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "albucore, eval-type-backport, numpy, opencv-python-headless, pydantic, PyYAML, scikit-image, scipy, typing-extensions",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152157_794315",
+    "my_timing_stop_time": "20240819_152220_921294"
+}

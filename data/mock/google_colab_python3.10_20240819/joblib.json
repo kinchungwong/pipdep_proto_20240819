@@ -1,0 +1,14 @@
+{
+    "Name": "joblib",
+    "Version": "1.4.2",
+    "Summary": "Lightweight pipelining with Python functions",
+    "Home-page": "https://joblib.readthedocs.io",
+    "Author": "",
+    "Author-email": "Gael Varoquaux <gael.varoquaux@normalesup.org>",
+    "License": "BSD 3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "imbalanced-learn, librosa, mlxtend, music21, nltk, scikit-learn",
+    "my_timing_start_time": "20240819_153121_583967",
+    "my_timing_stop_time": "20240819_153144_315338"
+}

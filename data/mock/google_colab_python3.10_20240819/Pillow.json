@@ -1,0 +1,14 @@
+{
+    "Name": "Pillow",
+    "Version": "9.4.0",
+    "Summary": "Python Imaging Library (Fork)",
+    "Home-page": "https://python-pillow.org",
+    "Author": "Alex Clark (PIL Fork Author)",
+    "Author-email": "aclark@python-pillow.org",
+    "License": "HPND",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "bokeh, dopamine_rl, fastai, imageio, imgaug, matplotlib, scikit-image, torchvision, wordcloud",
+    "my_timing_start_time": "20240819_153544_998510",
+    "my_timing_stop_time": "20240819_153605_862204"
+}

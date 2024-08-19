@@ -1,0 +1,14 @@
+{
+    "Name": "nvtx",
+    "Version": "0.2.10",
+    "Summary": "PyNVTX - Python code annotation library",
+    "Home-page": "https://github.com/NVIDIA/nvtx",
+    "Author": "NVIDIA Corporation",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "cudf-cu12",
+    "my_timing_start_time": "20240819_153419_015824",
+    "my_timing_stop_time": "20240819_153441_067120"
+}

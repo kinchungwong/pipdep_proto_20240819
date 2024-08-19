@@ -1,0 +1,14 @@
+{
+    "Name": "soxr",
+    "Version": "0.4.0",
+    "Summary": "High quality, one-dimensional sample-rate conversion library",
+    "Home-page": "https://github.com/dofuuz/python-soxr",
+    "Author": "Myungchul Keum",
+    "Author-email": "",
+    "License": "LGPLv2.1+",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "librosa",
+    "my_timing_start_time": "20240819_154026_330114",
+    "my_timing_stop_time": "20240819_154046_970836"
+}

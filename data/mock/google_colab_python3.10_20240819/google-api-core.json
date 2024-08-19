@@ -1,0 +1,14 @@
+{
+    "Name": "google-api-core",
+    "Version": "2.19.1",
+    "Summary": "Google API client core library",
+    "Home-page": "https://github.com/googleapis/python-api-core",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-auth, googleapis-common-protos, proto-plus, protobuf, requests",
+    "Required-by": "firebase-admin, google-ai-generativelanguage, google-api-python-client, google-cloud-aiplatform, google-cloud-bigquery, google-cloud-bigquery-connection, google-cloud-bigquery-storage, google-cloud-bigtable, google-cloud-core, google-cloud-datastore, google-cloud-firestore, google-cloud-functions, google-cloud-iam, google-cloud-language, google-cloud-pubsub, google-cloud-resource-manager, google-cloud-storage, google-cloud-translate, google-generativeai, pandas-gbq",
+    "my_timing_start_time": "20240819_152748_932542",
+    "my_timing_stop_time": "20240819_152809_390709"
+}

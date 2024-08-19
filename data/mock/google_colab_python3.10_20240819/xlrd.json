@@ -1,0 +1,14 @@
+{
+    "Name": "xlrd",
+    "Version": "2.0.1",
+    "Summary": "Library for developers to extract data from Microsoft Excel (tm) .xls spreadsheet files",
+    "Home-page": "http://www.python-excel.org/",
+    "Author": "Chris Withers",
+    "Author-email": "chris@withers.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154418_835194",
+    "my_timing_stop_time": "20240819_154439_920507"
+}

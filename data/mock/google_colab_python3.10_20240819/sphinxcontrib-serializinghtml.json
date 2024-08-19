@@ -1,0 +1,14 @@
+{
+    "Name": "sphinxcontrib-serializinghtml",
+    "Version": "2.0.0",
+    "Summary": "sphinxcontrib-serializinghtml is a sphinx extension which outputs \"serialized\" HTML files (json and pickle)",
+    "Home-page": "https://www.sphinx-doc.org/",
+    "Author": "",
+    "Author-email": "Georg Brandl <georg@python.org>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "Sphinx",
+    "my_timing_start_time": "20240819_154047_634362",
+    "my_timing_stop_time": "20240819_154108_398672"
+}

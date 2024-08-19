@@ -1,0 +1,14 @@
+{
+    "Name": "xarray-einstats",
+    "Version": "0.7.0",
+    "Summary": "Stats, linear algebra and einops for xarray",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "ArviZ team <arviz.devs@gmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, scipy, xarray",
+    "Required-by": "arviz",
+    "my_timing_start_time": "20240819_154406_919217",
+    "my_timing_stop_time": "20240819_154427_484667"
+}

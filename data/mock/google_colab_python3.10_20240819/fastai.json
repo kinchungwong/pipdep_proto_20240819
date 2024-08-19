@@ -1,0 +1,14 @@
+{
+    "Name": "fastai",
+    "Version": "2.7.16",
+    "Summary": "fastai simplifies training fast and accurate neural nets using modern best practices",
+    "Home-page": "https://github.com/fastai/fastai",
+    "Author": "Jeremy Howard, Sylvain Gugger, and contributors",
+    "Author-email": "info@fast.ai",
+    "License": "Apache Software License 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "fastcore, fastdownload, fastprogress, matplotlib, packaging, pandas, pillow, pip, pyyaml, requests, scikit-learn, scipy, spacy, torch, torchvision",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152620_571976",
+    "my_timing_stop_time": "20240819_152642_934822"
+}

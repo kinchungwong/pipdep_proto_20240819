@@ -1,0 +1,14 @@
+{
+    "Name": "thinc",
+    "Version": "8.2.5",
+    "Summary": "A refreshing functional take on deep learning, compatible with your favorite libraries",
+    "Home-page": "https://github.com/explosion/thinc",
+    "Author": "Explosion",
+    "Author-email": "contact@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "blis, catalogue, confection, cymem, murmurhash, numpy, packaging, preshed, pydantic, setuptools, srsly, wasabi",
+    "Required-by": "spacy",
+    "my_timing_start_time": "20240819_154212_650242",
+    "my_timing_stop_time": "20240819_154233_631770"
+}

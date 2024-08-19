@@ -1,0 +1,14 @@
+{
+    "Name": "GDAL",
+    "Version": "3.6.4",
+    "Summary": "GDAL: Geospatial Data Abstraction Library",
+    "Home-page": "http://www.gdal.org",
+    "Author": "Frank Warmerdam",
+    "Author-email": "warmerdam@pobox.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152704_039006",
+    "my_timing_stop_time": "20240819_152725_627653"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "pyarrow",
+    "Version": "14.0.2",
+    "Summary": "Python library for Apache Arrow",
+    "Home-page": "https://arrow.apache.org/",
+    "Author": "",
+    "Author-email": "",
+    "License": "Apache License, Version 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "bigframes, cudf-cu12, db-dtypes, ibis-framework, pandas-gbq, tensorflow-datasets",
+    "my_timing_start_time": "20240819_153650_033757",
+    "my_timing_stop_time": "20240819_153710_610796"
+}

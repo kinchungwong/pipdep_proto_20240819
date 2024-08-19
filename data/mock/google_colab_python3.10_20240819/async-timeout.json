@@ -1,0 +1,14 @@
+{
+    "Name": "async-timeout",
+    "Version": "4.0.3",
+    "Summary": "Timeout context manager for asyncio programs",
+    "Home-page": "https://github.com/aio-libs/async-timeout",
+    "Author": "Andrew Svetlov <andrew.svetlov@gmail.com>",
+    "Author-email": "andrew.svetlov@gmail.com",
+    "License": "Apache 2",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "aiohttp",
+    "my_timing_start_time": "20240819_152242_047842",
+    "my_timing_stop_time": "20240819_152304_743622"
+}

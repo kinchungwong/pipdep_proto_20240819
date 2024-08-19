@@ -1,0 +1,14 @@
+{
+    "Name": "PyOpenGL",
+    "Version": "3.1.7",
+    "Summary": "Standard OpenGL bindings for Python",
+    "Home-page": "http://pyopengl.sourceforge.net",
+    "Author": "Mike C. Fletcher",
+    "Author-email": "mcfletch@vrplumber.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153752_396818",
+    "my_timing_stop_time": "20240819_153814_355414"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "platformdirs",
+    "Version": "4.2.2",
+    "Summary": "A small Python package for determining appropriate platform-specific dirs, e.g. a `user data dir`.",
+    "Home-page": "https://github.com/platformdirs/platformdirs",
+    "Author": "",
+    "Author-email": "",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "jupyter_core, pooch, snowflake-connector-python, yfinance",
+    "my_timing_start_time": "20240819_153546_635593",
+    "my_timing_stop_time": "20240819_153606_449989"
+}

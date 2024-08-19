@@ -1,0 +1,14 @@
+{
+    "Name": "markdown-it-py",
+    "Version": "3.0.0",
+    "Summary": "Python port of markdown-it. Markdown parsing, done right!",
+    "Home-page": "https://github.com/executablebooks/markdown-it-py",
+    "Author": "",
+    "Author-email": "Chris Sewell <chrisj_sewell@hotmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "mdurl",
+    "Required-by": "mdit-py-plugins, panel, rich",
+    "my_timing_start_time": "20240819_153246_200114",
+    "my_timing_stop_time": "20240819_153308_480358"
+}

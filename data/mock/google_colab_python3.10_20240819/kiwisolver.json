@@ -1,0 +1,14 @@
+{
+    "Name": "kiwisolver",
+    "Version": "1.4.5",
+    "Summary": "A fast implementation of the Cassowary constraint solver",
+    "Home-page": "https://github.com/nucleic/kiwi",
+    "Author": "",
+    "Author-email": "The Nucleic Development Team <sccolbert@gmail.com>",
+    "License": "=========================",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "matplotlib",
+    "my_timing_start_time": "20240819_153147_323859",
+    "my_timing_stop_time": "20240819_153207_661682"
+}

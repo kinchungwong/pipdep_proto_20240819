@@ -1,0 +1,14 @@
+{
+    "Name": "pydantic_core",
+    "Version": "2.20.1",
+    "Summary": "Core functionality for Pydantic validation and serialization",
+    "Home-page": "https://github.com/pydantic/pydantic-core",
+    "Author": "",
+    "Author-email": "Samuel Colvin <s@muelcolvin.com>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "typing-extensions",
+    "Required-by": "pydantic",
+    "my_timing_start_time": "20240819_153710_512392",
+    "my_timing_stop_time": "20240819_153730_332128"
+}

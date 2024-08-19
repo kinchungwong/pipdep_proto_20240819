@@ -1,0 +1,14 @@
+{
+    "Name": "scikit-learn",
+    "Version": "1.3.2",
+    "Summary": "A set of python modules for machine learning and data mining",
+    "Home-page": "http://scikit-learn.org",
+    "Author": "",
+    "Author-email": "",
+    "License": "new BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "joblib, numpy, scipy, threadpoolctl",
+    "Required-by": "bigframes, fastai, imbalanced-learn, librosa, mlxtend, sklearn-pandas, yellowbrick",
+    "my_timing_start_time": "20240819_153922_210759",
+    "my_timing_stop_time": "20240819_153942_834906"
+}

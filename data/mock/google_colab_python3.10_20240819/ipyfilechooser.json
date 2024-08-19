@@ -1,0 +1,14 @@
+{
+    "Name": "ipyfilechooser",
+    "Version": "0.6.0",
+    "Summary": "Python file chooser widget for use in Jupyter/IPython in conjunction with ipywidgets",
+    "Home-page": "https://github.com/crahan/ipyfilechooser",
+    "Author": "Thomas Bouve (@crahan)",
+    "Author-email": "crahan@n00.be",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ipywidgets",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_153037_146870",
+    "my_timing_stop_time": "20240819_153057_453127"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "textblob",
+    "Version": "0.17.1",
+    "Summary": "Simple, Pythonic text processing. Sentiment analysis, part-of-speech tagging, noun phrase parsing, and more.",
+    "Home-page": "https://github.com/sloria/TextBlob",
+    "Author": "Steven Loria",
+    "Author-email": "sloria1@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "nltk",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154154_040771",
+    "my_timing_stop_time": "20240819_154216_617428"
+}

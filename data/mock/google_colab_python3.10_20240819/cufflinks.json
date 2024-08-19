@@ -1,0 +1,14 @@
+{
+    "Name": "cufflinks",
+    "Version": "0.17.3",
+    "Summary": "Productivity Tools for Plotly + Pandas",
+    "Home-page": "https://github.com/santosjorge/cufflinks",
+    "Author": "Jorge Santos",
+    "Author-email": "santos.jorge@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "colorlover, ipython, ipywidgets, numpy, pandas, plotly, setuptools, six",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152452_451729",
+    "my_timing_stop_time": "20240819_152514_311005"
+}

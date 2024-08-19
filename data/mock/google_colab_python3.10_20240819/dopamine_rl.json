@@ -1,0 +1,14 @@
+{
+    "Name": "dopamine_rl",
+    "Version": "4.0.9",
+    "Summary": "Dopamine: A framework for flexible Reinforcement Learning research",
+    "Home-page": "https://github.com/google/dopamine",
+    "Author": "The Dopamine Team",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, flax, gin-config, gym, jax, jaxlib, numpy, opencv-python, pandas, Pillow, pygame, tensorflow, tensorflow-probability, tf-slim, tqdm",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152537_916259",
+    "my_timing_stop_time": "20240819_152558_315239"
+}

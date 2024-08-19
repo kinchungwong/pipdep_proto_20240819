@@ -1,0 +1,14 @@
+{
+    "Name": "accelerate",
+    "Version": "0.32.1",
+    "Summary": "Accelerate",
+    "Home-page": "https://github.com/huggingface/accelerate",
+    "Author": "The HuggingFace team",
+    "Author-email": "zach.mueller@huggingface.co",
+    "License": "Apache",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "huggingface-hub, numpy, packaging, psutil, pyyaml, safetensors, torch",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152157_788422",
+    "my_timing_stop_time": "20240819_152220_888312"
+}

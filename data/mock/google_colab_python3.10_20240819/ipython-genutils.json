@@ -1,0 +1,14 @@
+{
+    "Name": "ipython-genutils",
+    "Version": "0.2.0",
+    "Summary": "Vestigial utilities from IPython",
+    "Home-page": "http://ipython.org",
+    "Author": "IPython Development Team",
+    "Author-email": "ipython-dev@scipy.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ipykernel, ipython-sql, ipywidgets, nbclassic, notebook",
+    "my_timing_start_time": "20240819_153039_565883",
+    "my_timing_stop_time": "20240819_153059_587559"
+}

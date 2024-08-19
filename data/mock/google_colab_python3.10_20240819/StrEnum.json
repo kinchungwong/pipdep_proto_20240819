@@ -1,0 +1,14 @@
+{
+    "Name": "StrEnum",
+    "Version": "0.4.15",
+    "Summary": "An Enum that inherits from str.",
+    "Home-page": "https://github.com/irgeek/StrEnum",
+    "Author": "James Sinclair",
+    "Author-email": "james@nurfherder.com",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "gspread",
+    "my_timing_start_time": "20240819_154107_730138",
+    "my_timing_stop_time": "20240819_154130_127127"
+}

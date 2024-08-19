@@ -1,0 +1,14 @@
+{
+    "Name": "google-cloud-bigtable",
+    "Version": "2.25.0",
+    "Summary": "Google Cloud Bigtable API client library",
+    "Home-page": "https://github.com/googleapis/python-bigtable",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-api-core, google-auth, google-cloud-core, grpc-google-iam-v1, proto-plus, protobuf",
+    "Required-by": "bigframes",
+    "my_timing_start_time": "20240819_152810_109225",
+    "my_timing_stop_time": "20240819_152830_177301"
+}

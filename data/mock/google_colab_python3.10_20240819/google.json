@@ -1,0 +1,14 @@
+{
+    "Name": "google",
+    "Version": "2.0.3",
+    "Summary": "Python bindings to the Google search engine.",
+    "Home-page": "http://breakingcode.wordpress.com/",
+    "Author": "Mario Vilas",
+    "Author-email": "mvilas@gmail.com",
+    "License": "UNKNOWN",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "beautifulsoup4",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152745_430373",
+    "my_timing_stop_time": "20240819_152807_722067"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "ipython-sql",
+    "Version": "0.5.0",
+    "Summary": "RDBMS access via IPython",
+    "Home-page": "https://github.com/catherinedevlin/ipython-sql",
+    "Author": "Catherine Devlin",
+    "Author-email": "catherine.devlin@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ipython, ipython-genutils, prettytable, six, sqlalchemy, sqlparse",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153039_948637",
+    "my_timing_stop_time": "20240819_153059_984272"
+}

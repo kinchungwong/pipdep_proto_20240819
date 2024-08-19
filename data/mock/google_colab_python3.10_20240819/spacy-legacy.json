@@ -1,0 +1,14 @@
+{
+    "Name": "spacy-legacy",
+    "Version": "3.0.12",
+    "Summary": "Legacy registered functions for spaCy backwards compatibility",
+    "Home-page": "https://spacy.io",
+    "Author": "Explosion",
+    "Author-email": "contact@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "spacy",
+    "my_timing_start_time": "20240819_154026_864506",
+    "my_timing_stop_time": "20240819_154047_308490"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "prefetch_generator",
+    "Version": "1.0.3",
+    "Summary": "a simple tool to compute arbitrary generator in a background thread",
+    "Home-page": "https://github.com/justheuristic/prefetch_generator",
+    "Author": "",
+    "Author-email": "justheuristic@gmail.com",
+    "License": "The Unlicense",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153606_462681",
+    "my_timing_stop_time": "20240819_153627_238613"
+}

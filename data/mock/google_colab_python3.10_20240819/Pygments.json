@@ -1,0 +1,14 @@
+{
+    "Name": "Pygments",
+    "Version": "2.16.1",
+    "Summary": "Pygments is a syntax highlighting package written in Python.",
+    "Home-page": "https://pygments.org",
+    "Author": "",
+    "Author-email": "Georg Brandl <georg@python.org>",
+    "License": "BSD-2-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ipython, jupyter-console, nbconvert, rich, Sphinx",
+    "my_timing_start_time": "20240819_153730_870980",
+    "my_timing_stop_time": "20240819_153753_749481"
+}

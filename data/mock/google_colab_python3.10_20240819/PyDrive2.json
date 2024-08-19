@@ -1,0 +1,14 @@
+{
+    "Name": "PyDrive2",
+    "Version": "1.6.3",
+    "Summary": "Google Drive API made easy. Maintained fork of PyDrive.",
+    "Home-page": "https://github.com/iterative/PyDrive2",
+    "Author": "JunYoung Gwak",
+    "Author-email": "jgwak@dreamylab.com",
+    "License": "Apache License 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-api-python-client, oauth2client, pyOpenSSL, PyYAML, six",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153729_241308",
+    "my_timing_stop_time": "20240819_153751_762638"
+}

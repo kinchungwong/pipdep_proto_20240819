@@ -1,0 +1,14 @@
+{
+    "Name": "setuptools",
+    "Version": "71.0.4",
+    "Summary": "Easily download, build, install, upgrade, and uninstall Python packages",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Python Packaging Authority <distutils-sig@python.org>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "arviz, cufflinks, datascience, imageio-ffmpeg, ipython, marisa-trie, nibabel, pandas-gbq, pip-tools, pydata-google-auth, pytensor, spacy, tensorboard, tensorflow, thinc",
+    "my_timing_start_time": "20240819_153942_898376",
+    "my_timing_stop_time": "20240819_154003_132347"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "orbax-checkpoint",
+    "Version": "0.5.23",
+    "Summary": "Orbax Checkpoint",
+    "Home-page": "http://github.com/google/orbax",
+    "Author": "",
+    "Author-email": "Orbax Authors <orbax-dev@google.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, etils, jax, jaxlib, msgpack, nest_asyncio, numpy, protobuf, pyyaml, tensorstore, typing_extensions",
+    "Required-by": "flax",
+    "my_timing_start_time": "20240819_153500_746750",
+    "my_timing_stop_time": "20240819_153523_518988"
+}

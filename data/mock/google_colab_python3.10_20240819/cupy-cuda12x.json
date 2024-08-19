@@ -1,0 +1,14 @@
+{
+    "Name": "cupy-cuda12x",
+    "Version": "12.2.0",
+    "Summary": "CuPy: NumPy & SciPy for GPU",
+    "Home-page": "https://cupy.dev/",
+    "Author": "Seiya Tokui",
+    "Author-email": "tokui@preferred.jp",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "fastrlock, numpy",
+    "Required-by": "cudf-cu12",
+    "my_timing_start_time": "20240819_152452_606133",
+    "my_timing_stop_time": "20240819_152515_653191"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "weasel",
+    "Version": "0.4.1",
+    "Summary": "Weasel: A small and easy workflow system",
+    "Home-page": "https://github.com/explosion/weasel/",
+    "Author": "Explosion",
+    "Author-email": "contact@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cloudpathlib, confection, packaging, pydantic, requests, smart-open, srsly, typer, wasabi",
+    "Required-by": "spacy",
+    "my_timing_start_time": "20240819_154342_626853",
+    "my_timing_stop_time": "20240819_154405_617702"
+}

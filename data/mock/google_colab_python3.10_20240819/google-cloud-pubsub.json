@@ -1,0 +1,14 @@
+{
+    "Name": "google-cloud-pubsub",
+    "Version": "2.23.0",
+    "Summary": "Google Cloud Pub/Sub API client library",
+    "Home-page": "https://github.com/googleapis/python-pubsub",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-api-core, google-auth, grpc-google-iam-v1, grpcio, grpcio-status, proto-plus, protobuf",
+    "Required-by": "bigframes",
+    "my_timing_start_time": "20240819_152830_111066",
+    "my_timing_stop_time": "20240819_152850_857797"
+}

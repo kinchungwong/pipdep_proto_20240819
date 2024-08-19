@@ -1,0 +1,14 @@
+{
+    "Name": "imageio",
+    "Version": "2.34.2",
+    "Summary": "Library for reading and writing a wide range of image, video, scientific, and volumetric data formats.",
+    "Home-page": "https://github.com/imageio/imageio",
+    "Author": "imageio contributors",
+    "Author-email": "almar.klein@gmail.com",
+    "License": "BSD-2-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, pillow",
+    "Required-by": "imgaug, moviepy, scikit-image",
+    "my_timing_start_time": "20240819_152953_917963",
+    "my_timing_stop_time": "20240819_153016_377854"
+}

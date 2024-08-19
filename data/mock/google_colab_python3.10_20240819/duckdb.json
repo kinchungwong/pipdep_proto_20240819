@@ -1,0 +1,14 @@
+{
+    "Name": "duckdb",
+    "Version": "0.10.3",
+    "Summary": "DuckDB in-process database",
+    "Home-page": "https://www.duckdb.org",
+    "Author": "",
+    "Author-email": "",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "malloy",
+    "my_timing_start_time": "20240819_152538_524481",
+    "my_timing_stop_time": "20240819_152559_430492"
+}

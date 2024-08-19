@@ -1,0 +1,14 @@
+{
+    "Name": "py4j",
+    "Version": "0.10.9.7",
+    "Summary": "Enables Python programs to dynamically access arbitrary Java objects",
+    "Home-page": "https://www.py4j.org/",
+    "Author": "Barthelemy Dagenais",
+    "Author-email": "barthelemy@infobart.com",
+    "License": "BSD License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "hyperopt",
+    "my_timing_start_time": "20240819_153649_944076",
+    "my_timing_stop_time": "20240819_153710_078675"
+}

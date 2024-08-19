@@ -1,0 +1,14 @@
+{
+    "Name": "parso",
+    "Version": "0.8.4",
+    "Summary": "A Python Parser",
+    "Home-page": "https://github.com/davidhalter/parso",
+    "Author": "David Halter",
+    "Author-email": "davidhalter88@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153523_975667",
+    "my_timing_stop_time": "20240819_153544_967370"
+}

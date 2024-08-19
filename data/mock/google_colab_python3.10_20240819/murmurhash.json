@@ -1,0 +1,14 @@
+{
+    "Name": "murmurhash",
+    "Version": "1.0.10",
+    "Summary": "Cython bindings for MurmurHash",
+    "Home-page": "https://github.com/explosion/murmurhash",
+    "Author": "Explosion",
+    "Author-email": "contact@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "preshed, spacy, thinc",
+    "my_timing_start_time": "20240819_153332_507676",
+    "my_timing_stop_time": "20240819_153353_455595"
+}

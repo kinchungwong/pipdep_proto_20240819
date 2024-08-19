@@ -1,0 +1,14 @@
+{
+    "Name": "librosa",
+    "Version": "0.10.2.post1",
+    "Summary": "Python module for audio and music processing",
+    "Home-page": "https://librosa.org",
+    "Author": "Brian McFee, librosa development team",
+    "Author-email": "brian.mcfee@nyu.edu",
+    "License": "ISC",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "audioread, decorator, joblib, lazy-loader, msgpack, numba, numpy, pooch, scikit-learn, scipy, soundfile, soxr, typing-extensions",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153207_789793",
+    "my_timing_stop_time": "20240819_153228_030078"
+}

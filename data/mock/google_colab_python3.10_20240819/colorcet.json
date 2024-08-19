@@ -1,0 +1,14 @@
+{
+    "Name": "colorcet",
+    "Version": "3.1.0",
+    "Summary": "Collection of perceptually uniform colormaps",
+    "Home-page": "https://colorcet.holoviz.org",
+    "Author": "",
+    "Author-email": "\"James A. Bednar\" <jbednar@anaconda.com>",
+    "License": "CC-BY License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "holoviews",
+    "my_timing_start_time": "20240819_152413_004452",
+    "my_timing_stop_time": "20240819_152433_923406"
+}

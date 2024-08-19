@@ -1,0 +1,14 @@
+{
+    "Name": "google-resumable-media",
+    "Version": "2.7.2",
+    "Summary": "Utilities for Google Media Downloads and Resumable Uploads",
+    "Home-page": "https://github.com/googleapis/google-resumable-media-python",
+    "Author": "Google Cloud Platform",
+    "Author-email": "googleapis-publisher@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-crc32c",
+    "Required-by": "google-cloud-bigquery, google-cloud-storage",
+    "my_timing_start_time": "20240819_152850_864863",
+    "my_timing_stop_time": "20240819_152913_370529"
+}

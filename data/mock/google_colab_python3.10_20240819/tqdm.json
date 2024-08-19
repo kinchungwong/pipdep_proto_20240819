@@ -1,0 +1,14 @@
+{
+    "Name": "tqdm",
+    "Version": "4.66.5",
+    "Summary": "Fast, Extensible Progress Meter",
+    "Home-page": "https://tqdm.github.io",
+    "Author": "",
+    "Author-email": "",
+    "License": "MPL-2.0 AND MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "cmdstanpy, dopamine_rl, gdown, google-generativeai, huggingface-hub, hyperopt, ipyparallel, kaggle, kagglehub, moviepy, nltk, panel, proglog, prophet, spacy, tensorflow-datasets, torchtext, transformers",
+    "my_timing_start_time": "20240819_154253_521359",
+    "my_timing_stop_time": "20240819_154315_729499"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "Jinja2",
+    "Version": "3.1.4",
+    "Summary": "A very fast and expressive template engine.",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "MarkupSafe",
+    "Required-by": "altair, bokeh, branca, distributed, Flask, folium, jupyter-server, nbconvert, notebook, rpy2, spacy, Sphinx, torch",
+    "my_timing_start_time": "20240819_153118_725471",
+    "my_timing_stop_time": "20240819_153139_415066"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "rsa",
+    "Version": "4.9",
+    "Summary": "Pure-Python RSA implementation",
+    "Home-page": "https://stuvel.eu/rsa",
+    "Author": "Sybren A. St\u00fcvel",
+    "Author-email": "sybren@stuvel.eu",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "pyasn1",
+    "Required-by": "google-auth, oauth2client",
+    "my_timing_start_time": "20240819_153921_232355",
+    "my_timing_stop_time": "20240819_153942_241059"
+}

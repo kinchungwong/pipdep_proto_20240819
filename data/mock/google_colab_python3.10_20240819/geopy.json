@@ -1,0 +1,14 @@
+{
+    "Name": "geopy",
+    "Version": "2.4.1",
+    "Summary": "Python Geocoding Toolbox",
+    "Home-page": "https://github.com/geopy/geopy",
+    "Author": "",
+    "Author-email": "",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "geographiclib",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152725_659459",
+    "my_timing_stop_time": "20240819_152748_905526"
+}

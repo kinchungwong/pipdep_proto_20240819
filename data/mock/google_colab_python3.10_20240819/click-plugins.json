@@ -1,0 +1,14 @@
+{
+    "Name": "click-plugins",
+    "Version": "1.1.1",
+    "Summary": "An extension module for click to enable registering CLI commands via setuptools entry-points.",
+    "Home-page": "https://github.com/click-contrib/click-plugins",
+    "Author": "Kevin Wurster, Sean Gillies",
+    "Author-email": "wursterk@gmail.com, sean.gillies@gmail.com",
+    "License": "New BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "click",
+    "Required-by": "fiona",
+    "my_timing_start_time": "20240819_152352_404344",
+    "my_timing_stop_time": "20240819_152414_049554"
+}

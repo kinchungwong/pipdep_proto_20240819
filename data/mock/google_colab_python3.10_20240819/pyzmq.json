@@ -1,0 +1,14 @@
+{
+    "Name": "pyzmq",
+    "Version": "24.0.1",
+    "Summary": "Python bindings for 0MQ",
+    "Home-page": "https://pyzmq.readthedocs.org",
+    "Author": "Brian E. Granger, Min Ragan-Kelley",
+    "Author-email": "zeromq-dev@lists.zeromq.org",
+    "License": "LGPL+BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ipyparallel, jupyter-client, jupyter-server, notebook",
+    "my_timing_start_time": "20240819_153839_666406",
+    "my_timing_stop_time": "20240819_153903_110101"
+}

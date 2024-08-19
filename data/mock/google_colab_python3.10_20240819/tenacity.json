@@ -1,0 +1,14 @@
+{
+    "Name": "tenacity",
+    "Version": "9.0.0",
+    "Summary": "Retry code until it succeeds",
+    "Home-page": "https://github.com/jd/tenacity",
+    "Author": "Julien Danjou",
+    "Author-email": "julien@danjou.info",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "plotly",
+    "my_timing_start_time": "20240819_154125_841801",
+    "my_timing_stop_time": "20240819_154149_102823"
+}

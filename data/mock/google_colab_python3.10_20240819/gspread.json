@@ -1,0 +1,14 @@
+{
+    "Name": "gspread",
+    "Version": "6.0.2",
+    "Summary": "Google Spreadsheets Python API",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Anton Burnashev <fuss.here@gmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-auth, google-auth-oauthlib, StrEnum",
+    "Required-by": "gspread-dataframe",
+    "my_timing_start_time": "20240819_152913_384160",
+    "my_timing_stop_time": "20240819_152933_386966"
+}

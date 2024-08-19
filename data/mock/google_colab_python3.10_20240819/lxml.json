@@ -1,0 +1,14 @@
+{
+    "Name": "lxml",
+    "Version": "4.9.4",
+    "Summary": "Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.",
+    "Home-page": "https://lxml.de/",
+    "Author": "lxml dev team",
+    "Author-email": "lxml-dev@lxml.de",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "nbconvert, pandas-datareader, yfinance",
+    "my_timing_start_time": "20240819_153226_719271",
+    "my_timing_stop_time": "20240819_153248_348615"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "earthengine-api",
+    "Version": "0.1.415",
+    "Summary": "Earth Engine Python API",
+    "Home-page": "http://code.google.com/p/earthengine-api",
+    "Author": "",
+    "Author-email": "Google LLC <noreply@google.com>",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-api-python-client, google-auth, google-auth-httplib2, google-cloud-storage, httplib2, requests",
+    "Required-by": "eerepr, geemap",
+    "my_timing_start_time": "20240819_152538_667888",
+    "my_timing_stop_time": "20240819_152559_323632"
+}

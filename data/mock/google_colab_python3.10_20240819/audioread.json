@@ -1,0 +1,14 @@
+{
+    "Name": "audioread",
+    "Version": "3.0.1",
+    "Summary": "Multi-library, cross-platform audio decoding.",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Adrian Sampson <adrian@radbox.org>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "librosa",
+    "my_timing_start_time": "20240819_152242_560701",
+    "my_timing_stop_time": "20240819_152305_101002"
+}

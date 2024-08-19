@@ -1,0 +1,14 @@
+{
+    "Name": "sympy",
+    "Version": "1.13.1",
+    "Summary": "Computer algebra system (CAS) in Python",
+    "Home-page": "https://sympy.org",
+    "Author": "SymPy development team",
+    "Author-email": "sympy@googlegroups.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "mpmath",
+    "Required-by": "torch",
+    "my_timing_start_time": "20240819_154107_844214",
+    "my_timing_stop_time": "20240819_154130_601395"
+}

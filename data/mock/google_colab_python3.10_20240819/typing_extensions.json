@@ -1,0 +1,14 @@
+{
+    "Name": "typing_extensions",
+    "Version": "4.12.2",
+    "Summary": "Backported and Experimental Type Hints for Python 3.8+",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "\"Guido van Rossum, Jukka Lehtosalo, \u0141ukasz Langa, Michael Lee\" <levkivskyi@gmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "albucore, albumentations, arviz, chex, cloudpathlib, cudf-cu12, flax, google-generativeai, huggingface-hub, ibis-framework, librosa, optree, orbax-checkpoint, panel, pydantic, pydantic_core, pymc, pytensor, python-utils, simple_parsing, snowflake-connector-python, SQLAlchemy, tensorflow, torch, typeguard, typer",
+    "my_timing_start_time": "20240819_154318_340326",
+    "my_timing_stop_time": "20240819_154339_500432"
+}

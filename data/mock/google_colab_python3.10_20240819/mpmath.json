@@ -1,0 +1,14 @@
+{
+    "Name": "mpmath",
+    "Version": "1.3.0",
+    "Summary": "Python library for arbitrary-precision floating-point arithmetic",
+    "Home-page": "http://mpmath.org/",
+    "Author": "Fredrik Johansson",
+    "Author-email": "fredrik.johansson@gmail.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "sympy",
+    "my_timing_start_time": "20240819_153329_725617",
+    "my_timing_stop_time": "20240819_153350_695937"
+}

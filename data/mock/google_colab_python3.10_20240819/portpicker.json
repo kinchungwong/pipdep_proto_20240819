@@ -1,0 +1,14 @@
+{
+    "Name": "portpicker",
+    "Version": "1.5.2",
+    "Summary": "A library to choose unique available network ports.",
+    "Home-page": "https://github.com/google/python_portpicker",
+    "Author": "",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "psutil",
+    "Required-by": "google-colab",
+    "my_timing_start_time": "20240819_153606_250362",
+    "my_timing_stop_time": "20240819_153627_134258"
+}

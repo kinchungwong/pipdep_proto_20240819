@@ -1,0 +1,14 @@
+{
+    "Name": "cloudpickle",
+    "Version": "2.2.1",
+    "Summary": "Extended pickling support for Python objects",
+    "Home-page": "https://github.com/cloudpipe/cloudpickle",
+    "Author": "Cloudpipe",
+    "Author-email": "cloudpipe@googlegroups.com",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "bigframes, dask, distributed, gym, hyperopt, pymc, tensorflow-probability",
+    "my_timing_start_time": "20240819_152412_401145",
+    "my_timing_stop_time": "20240819_152432_730167"
+}

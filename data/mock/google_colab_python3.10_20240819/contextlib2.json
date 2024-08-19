@@ -1,0 +1,14 @@
+{
+    "Name": "contextlib2",
+    "Version": "21.6.0",
+    "Summary": "Backports and enhancements for the contextlib module",
+    "Home-page": "http://contextlib2.readthedocs.org",
+    "Author": "Nick Coghlan",
+    "Author-email": "ncoghlan@gmail.com",
+    "License": "PSF License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152433_158275",
+    "my_timing_stop_time": "20240819_152453_767761"
+}

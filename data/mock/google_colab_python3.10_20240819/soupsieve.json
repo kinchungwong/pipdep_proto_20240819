@@ -1,0 +1,14 @@
+{
+    "Name": "soupsieve",
+    "Version": "2.5",
+    "Summary": "A modern CSS selector implementation for Beautiful Soup.",
+    "Home-page": "https://github.com/facelessuser/soupsieve",
+    "Author": "",
+    "Author-email": "Isaac Muse <Isaac.Muse@gmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "beautifulsoup4",
+    "my_timing_start_time": "20240819_154024_456189",
+    "my_timing_stop_time": "20240819_154045_362787"
+}

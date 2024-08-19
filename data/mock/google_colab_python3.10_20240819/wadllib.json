@@ -1,0 +1,14 @@
+{
+    "Name": "wadllib",
+    "Version": "1.3.6",
+    "Summary": "Navigate HTTP resources using WADL files as guides.",
+    "Home-page": "https://launchpad.net/wadllib",
+    "Author": "",
+    "Author-email": "",
+    "License": "LGPL v3",
+    "Location": "/usr/lib/python3/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154338_966492",
+    "my_timing_stop_time": "20240819_154400_244291"
+}

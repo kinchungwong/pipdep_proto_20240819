@@ -1,0 +1,14 @@
+{
+    "Name": "vega-datasets",
+    "Version": "0.9.0",
+    "Summary": "A Python package for offline access to Vega datasets",
+    "Home-page": "http://github.com/altair-viz/vega_datasets",
+    "Author": "Jake VanderPlas",
+    "Author-email": "jakevdp@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "pandas",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154336_916714",
+    "my_timing_stop_time": "20240819_154357_103156"
+}

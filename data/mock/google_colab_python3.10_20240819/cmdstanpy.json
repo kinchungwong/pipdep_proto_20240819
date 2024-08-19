@@ -1,0 +1,14 @@
+{
+    "Name": "cmdstanpy",
+    "Version": "1.2.4",
+    "Summary": "Python interface to CmdStan",
+    "Home-page": "https://github.com/stan-dev/cmdstanpy",
+    "Author": "Stan Dev Team",
+    "Author-email": "",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, pandas, stanio, tqdm",
+    "Required-by": "prophet",
+    "my_timing_start_time": "20240819_152412_823800",
+    "my_timing_stop_time": "20240819_152433_150769"
+}

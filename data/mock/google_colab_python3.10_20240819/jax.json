@@ -1,0 +1,14 @@
+{
+    "Name": "jax",
+    "Version": "0.4.26",
+    "Summary": "Differentiate, compile, and transform Numpy code.",
+    "Home-page": "https://github.com/google/jax",
+    "Author": "JAX team",
+    "Author-email": "jax-dev@google.com",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ml-dtypes, numpy, opt-einsum, scipy",
+    "Required-by": "chex, dopamine_rl, flax, optax, orbax-checkpoint",
+    "my_timing_start_time": "20240819_153058_631806",
+    "my_timing_stop_time": "20240819_153121_887839"
+}

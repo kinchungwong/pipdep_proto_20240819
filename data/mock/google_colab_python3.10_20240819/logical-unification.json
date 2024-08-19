@@ -1,0 +1,14 @@
+{
+    "Name": "logical-unification",
+    "Version": "0.4.6",
+    "Summary": "Logical unification in Python",
+    "Home-page": "http://github.com/pythological/unification/",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "multipledispatch, toolz",
+    "Required-by": "cons, miniKanren, pytensor",
+    "my_timing_start_time": "20240819_153226_551606",
+    "my_timing_stop_time": "20240819_153247_644638"
+}

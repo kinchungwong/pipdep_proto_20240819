@@ -1,0 +1,14 @@
+{
+    "Name": "importlib_metadata",
+    "Version": "8.2.0",
+    "Summary": "Read metadata from Python packages",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "\"Jason R. Coombs\" <jaraco@jaraco.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "zipp",
+    "Required-by": "dask",
+    "my_timing_start_time": "20240819_153014_667877",
+    "my_timing_stop_time": "20240819_153037_134915"
+}

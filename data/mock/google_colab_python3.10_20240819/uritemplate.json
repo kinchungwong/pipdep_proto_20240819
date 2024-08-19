@@ -1,0 +1,14 @@
+{
+    "Name": "uritemplate",
+    "Version": "4.1.1",
+    "Summary": "Implementation of RFC 6570 URI Templates",
+    "Home-page": "https://uritemplate.readthedocs.org",
+    "Author": "Ian Stapleton Cordasco",
+    "Author-email": "graffatcolmingov@gmail.com",
+    "License": "BSD 3-Clause License or Apache License, Version 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "google-api-python-client",
+    "my_timing_start_time": "20240819_154323_326208",
+    "my_timing_stop_time": "20240819_154345_723127"
+}

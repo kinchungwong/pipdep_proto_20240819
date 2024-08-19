@@ -1,0 +1,14 @@
+{
+    "Name": "pyOpenSSL",
+    "Version": "24.2.1",
+    "Summary": "Python wrapper module around the OpenSSL library",
+    "Home-page": "https://pyopenssl.org/",
+    "Author": "The pyOpenSSL developers",
+    "Author-email": "cryptography-dev@python.org",
+    "License": "Apache License, Version 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cryptography",
+    "Required-by": "PyDrive2, snowflake-connector-python",
+    "my_timing_start_time": "20240819_153753_774372",
+    "my_timing_stop_time": "20240819_153814_610073"
+}

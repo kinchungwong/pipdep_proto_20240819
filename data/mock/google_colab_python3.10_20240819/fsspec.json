@@ -1,0 +1,14 @@
+{
+    "Name": "fsspec",
+    "Version": "2024.6.1",
+    "Summary": "File-system specification",
+    "Home-page": "https://github.com/fsspec/filesystem_spec",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "bigframes, cudf-cu12, dask, gcsfs, huggingface-hub, torch",
+    "my_timing_start_time": "20240819_152703_217881",
+    "my_timing_stop_time": "20240819_152724_616555"
+}

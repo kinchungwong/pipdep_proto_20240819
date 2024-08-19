@@ -1,0 +1,14 @@
+{
+    "Name": "chex",
+    "Version": "0.1.86",
+    "Summary": "Chex: Testing made fun, in JAX!",
+    "Home-page": "https://github.com/deepmind/chex",
+    "Author": "DeepMind",
+    "Author-email": "chex-dev@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, jax, jaxlib, numpy, toolz, typing-extensions",
+    "Required-by": "optax",
+    "my_timing_start_time": "20240819_152349_436317",
+    "my_timing_stop_time": "20240819_152412_996965"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "geocoder",
+    "Version": "1.38.1",
+    "Summary": "Geocoder is a simple and consistent geocoding library.",
+    "Home-page": "https://github.com/DenisCarriere/geocoder",
+    "Author": "Denis Carriere",
+    "Author-email": "carriere.denis@gmail.com",
+    "License": "The MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "click, future, ratelim, requests, six",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_152724_644397",
+    "my_timing_stop_time": "20240819_152749_501748"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "networkx",
+    "Version": "3.3",
+    "Summary": "Python package for creating and manipulating graphs and networks",
+    "Home-page": "https://networkx.org/",
+    "Author": "",
+    "Author-email": "Aric Hagberg <hagberg@lanl.gov>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "hyperopt, python-louvain, scikit-image, torch",
+    "my_timing_start_time": "20240819_153355_136416",
+    "my_timing_stop_time": "20240819_153419_004492"
+}

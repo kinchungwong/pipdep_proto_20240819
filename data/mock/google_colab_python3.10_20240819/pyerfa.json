@@ -1,0 +1,14 @@
+{
+    "Name": "pyerfa",
+    "Version": "2.0.1.4",
+    "Summary": "Python bindings for ERFA",
+    "Home-page": "https://github.com/liberfa/pyerfa",
+    "Author": "The PyERFA Developers",
+    "Author-email": "",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "astropy",
+    "my_timing_start_time": "20240819_153730_348125",
+    "my_timing_stop_time": "20240819_153752_382539"
+}

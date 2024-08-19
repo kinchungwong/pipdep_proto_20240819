@@ -1,0 +1,14 @@
+{
+    "Name": "holoviews",
+    "Version": "1.18.3",
+    "Summary": "Stop plotting your data - annotate your data and let it visualize itself.",
+    "Home-page": "https://www.holoviews.org",
+    "Author": "Jean-Luc Stevens and Philipp Rudiger",
+    "Author-email": "holoviews@gmail.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "colorcet, numpy, packaging, pandas, panel, param, pyviz-comms",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152932_773716",
+    "my_timing_stop_time": "20240819_152953_066645"
+}

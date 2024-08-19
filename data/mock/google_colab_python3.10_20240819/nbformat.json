@@ -1,0 +1,14 @@
+{
+    "Name": "nbformat",
+    "Version": "5.10.4",
+    "Summary": "The Jupyter Notebook format",
+    "Home-page": "https://jupyter.org",
+    "Author": "",
+    "Author-email": "Jupyter Development Team <jupyter@googlegroups.com>",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "fastjsonschema, jsonschema, jupyter-core, traitlets",
+    "Required-by": "jupyter-server, nbclient, nbconvert, notebook",
+    "my_timing_start_time": "20240819_153352_387933",
+    "my_timing_stop_time": "20240819_153416_137323"
+}

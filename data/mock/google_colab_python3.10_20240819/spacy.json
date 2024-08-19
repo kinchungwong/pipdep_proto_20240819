@@ -1,0 +1,14 @@
+{
+    "Name": "spacy",
+    "Version": "3.7.5",
+    "Summary": "Industrial-strength Natural Language Processing (NLP) in Python",
+    "Home-page": "https://spacy.io",
+    "Author": "Explosion",
+    "Author-email": "contact@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "catalogue, cymem, jinja2, langcodes, murmurhash, numpy, packaging, preshed, pydantic, requests, setuptools, spacy-legacy, spacy-loggers, srsly, thinc, tqdm, typer, wasabi, weasel",
+    "Required-by": "en-core-web-sm, fastai",
+    "my_timing_start_time": "20240819_154026_589465",
+    "my_timing_stop_time": "20240819_154047_611674"
+}

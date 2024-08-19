@@ -1,0 +1,14 @@
+{
+    "Name": "confection",
+    "Version": "0.1.5",
+    "Summary": "The sweetest config system for Python",
+    "Home-page": "https://github.com/explosion/confection",
+    "Author": "Explosion",
+    "Author-email": "contact@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "pydantic, srsly",
+    "Required-by": "thinc, weasel",
+    "my_timing_start_time": "20240819_152432_471271",
+    "my_timing_stop_time": "20240819_152452_441479"
+}

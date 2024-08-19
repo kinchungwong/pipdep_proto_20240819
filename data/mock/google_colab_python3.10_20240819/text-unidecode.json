@@ -1,0 +1,14 @@
+{
+    "Name": "text-unidecode",
+    "Version": "1.3",
+    "Summary": "The most basic Text::Unidecode port",
+    "Home-page": "https://github.com/kmike/text-unidecode/",
+    "Author": "Mikhail Korobov",
+    "Author-email": "kmike84@gmail.com",
+    "License": "Artistic License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "python-slugify",
+    "my_timing_start_time": "20240819_154153_387330",
+    "my_timing_stop_time": "20240819_154216_667552"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "idna",
+    "Version": "3.7",
+    "Summary": "Internationalized Domain Names in Applications (IDNA)",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Kim Davies <kim+pypi@gumleaf.org>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "anyio, requests, snowflake-connector-python, yarl",
+    "my_timing_start_time": "20240819_152953_558535",
+    "my_timing_stop_time": "20240819_153015_014423"
+}

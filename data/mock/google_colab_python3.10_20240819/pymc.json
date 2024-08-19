@@ -1,0 +1,14 @@
+{
+    "Name": "pymc",
+    "Version": "5.10.4",
+    "Summary": "Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with PyTensor",
+    "Home-page": "http://github.com/pymc-devs/pymc",
+    "Author": "",
+    "Author-email": "",
+    "License": "Apache License, Version 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "arviz, cachetools, cloudpickle, fastprogress, numpy, pandas, pytensor, scipy, typing-extensions",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153748_185669",
+    "my_timing_stop_time": "20240819_153811_625498"
+}

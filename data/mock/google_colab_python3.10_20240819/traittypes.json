@@ -1,0 +1,14 @@
+{
+    "Name": "traittypes",
+    "Version": "0.2.1",
+    "Summary": "Scipy trait types",
+    "Home-page": "http://ipython.org",
+    "Author": "IPython Development Team",
+    "Author-email": "ipython-dev@scipy.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "traitlets",
+    "Required-by": "bqplot, ipyleaflet",
+    "my_timing_start_time": "20240819_154258_032427",
+    "my_timing_stop_time": "20240819_154318_327507"
+}

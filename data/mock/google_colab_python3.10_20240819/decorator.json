@@ -1,0 +1,14 @@
+{
+    "Name": "decorator",
+    "Version": "4.4.2",
+    "Summary": "Decorators for Humans",
+    "Home-page": "https://github.com/micheles/decorator",
+    "Author": "Michele Simionato",
+    "Author-email": "michele.simionato@gmail.com",
+    "License": "new BSD License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "gcsfs, ipyparallel, ipython, librosa, moviepy, ratelim, tensorflow-probability",
+    "my_timing_start_time": "20240819_152516_360896",
+    "my_timing_stop_time": "20240819_152537_906659"
+}

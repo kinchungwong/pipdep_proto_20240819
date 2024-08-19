@@ -1,0 +1,14 @@
+{
+    "Name": "imutils",
+    "Version": "0.5.4",
+    "Summary": "A series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, displaying Matplotlib images, sorting contours, detecting edges, and much more easier with OpenCV and both Python 2.7 and Python 3.",
+    "Home-page": "https://github.com/jrosebr1/imutils",
+    "Author": "Adrian Rosebrock",
+    "Author-email": "adrian@pyimagesearch.com",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153016_448482",
+    "my_timing_stop_time": "20240819_153038_215971"
+}

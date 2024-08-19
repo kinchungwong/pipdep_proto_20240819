@@ -1,0 +1,14 @@
+{
+    "Name": "pickleshare",
+    "Version": "0.7.5",
+    "Summary": "Tiny 'shelve'-like database with concurrency support",
+    "Home-page": "https://github.com/pickleshare/pickleshare",
+    "Author": "Ville Vainio",
+    "Author-email": "vivainio@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ipython",
+    "my_timing_start_time": "20240819_153544_847061",
+    "my_timing_stop_time": "20240819_153605_355726"
+}

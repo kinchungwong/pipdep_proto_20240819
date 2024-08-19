@@ -1,0 +1,14 @@
+{
+    "Name": "pydot",
+    "Version": "1.4.2",
+    "Summary": "Python interface to Graphviz's Dot",
+    "Home-page": "https://github.com/pydot/pydot",
+    "Author": "Ero Carrera",
+    "Author-email": "ero.carrera@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "pyparsing",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153710_678801",
+    "my_timing_stop_time": "20240819_153730_614973"
+}

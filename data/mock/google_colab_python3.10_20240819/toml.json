@@ -1,0 +1,14 @@
+{
+    "Name": "toml",
+    "Version": "0.10.2",
+    "Summary": "Python Library for Tom's Obvious, Minimal Language",
+    "Home-page": "https://github.com/uiri/toml",
+    "Author": "William Pearson",
+    "Author-email": "uiri@xqz.ca",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "tensorflow-datasets",
+    "my_timing_start_time": "20240819_154216_679815",
+    "my_timing_stop_time": "20240819_154240_795604"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "torchsummary",
+    "Version": "1.5.1",
+    "Summary": "Model summary in PyTorch similar to `model.summary()` in Keras",
+    "Home-page": "https://github.com/sksq96/pytorch-summary",
+    "Author": "Shubham Chandel @sksq96",
+    "Author-email": "shubham.zeez@gmail.com",
+    "License": "UNKNOWN",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154238_077076",
+    "my_timing_stop_time": "20240819_154259_756760"
+}

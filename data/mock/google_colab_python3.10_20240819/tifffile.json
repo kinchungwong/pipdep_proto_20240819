@@ -1,0 +1,14 @@
+{
+    "Name": "tifffile",
+    "Version": "2024.7.24",
+    "Summary": "Read and write TIFF files",
+    "Home-page": "https://www.cgohlke.com",
+    "Author": "Christoph Gohlke",
+    "Author-email": "cgohlke@cgohlke.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "scikit-image",
+    "my_timing_start_time": "20240819_154215_772419",
+    "my_timing_stop_time": "20240819_154238_063587"
+}

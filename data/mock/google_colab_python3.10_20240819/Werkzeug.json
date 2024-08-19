@@ -1,0 +1,14 @@
+{
+    "Name": "Werkzeug",
+    "Version": "3.0.3",
+    "Summary": "The comprehensive WSGI web application library.",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "MarkupSafe",
+    "Required-by": "Flask, tensorboard",
+    "my_timing_start_time": "20240819_154357_135805",
+    "my_timing_stop_time": "20240819_154418_828162"
+}

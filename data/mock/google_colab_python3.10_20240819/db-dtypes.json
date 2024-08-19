@@ -1,0 +1,14 @@
+{
+    "Name": "db-dtypes",
+    "Version": "1.2.0",
+    "Summary": "Pandas Data Types for SQL systems (BigQuery, Spanner)",
+    "Home-page": "https://github.com/googleapis/python-db-dtypes-pandas",
+    "Author": "The db-dtypes Authors",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, packaging, pandas, pyarrow",
+    "Required-by": "pandas-gbq",
+    "my_timing_start_time": "20240819_152515_077216",
+    "my_timing_stop_time": "20240819_152536_378640"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "et-xmlfile",
+    "Version": "1.1.0",
+    "Summary": "An implementation of lxml.xmlfile for the standard library",
+    "Home-page": "https://foss.heptapod.net/openpyxl/et_xmlfile",
+    "Author": "See ATUHORS.txt",
+    "Author-email": "charlie.clark@clark-consulting.eu",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "openpyxl",
+    "my_timing_start_time": "20240819_152559_442148",
+    "my_timing_stop_time": "20240819_152621_845467"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "transformers",
+    "Version": "4.42.4",
+    "Summary": "State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow",
+    "Home-page": "https://github.com/huggingface/transformers",
+    "Author": "The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)",
+    "Author-email": "transformers@huggingface.co",
+    "License": "Apache 2.0 License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "filelock, huggingface-hub, numpy, packaging, pyyaml, regex, requests, safetensors, tokenizers, tqdm",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154259_785284",
+    "my_timing_stop_time": "20240819_154320_654836"
+}

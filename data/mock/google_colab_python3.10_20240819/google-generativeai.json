@@ -1,0 +1,14 @@
+{
+    "Name": "google-generativeai",
+    "Version": "0.7.2",
+    "Summary": "Google Generative AI High level API client library and tools.",
+    "Home-page": "https://github.com/google/generative-ai-python",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-ai-generativelanguage, google-api-core, google-api-python-client, google-auth, protobuf, pydantic, tqdm, typing-extensions",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152848_534240",
+    "my_timing_stop_time": "20240819_152911_005946"
+}

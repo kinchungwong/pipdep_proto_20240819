@@ -1,0 +1,14 @@
+{
+    "Name": "itsdangerous",
+    "Version": "2.2.0",
+    "Summary": "Safely pass data to untrusted environments and back.",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "Flask",
+    "my_timing_start_time": "20240819_153057_697902",
+    "my_timing_stop_time": "20240819_153121_571099"
+}

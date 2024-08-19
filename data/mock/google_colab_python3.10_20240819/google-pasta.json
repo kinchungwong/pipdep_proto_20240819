@@ -1,0 +1,14 @@
+{
+    "Name": "google-pasta",
+    "Version": "0.2.0",
+    "Summary": "pasta is an AST-based Python refactoring library",
+    "Home-page": "https://github.com/google/pasta",
+    "Author": "Nick Smith",
+    "Author-email": "smithnick@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "six",
+    "Required-by": "tensorflow",
+    "my_timing_start_time": "20240819_152850_129778",
+    "my_timing_stop_time": "20240819_152911_894580"
+}

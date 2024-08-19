@@ -1,0 +1,14 @@
+{
+    "Name": "pydot-ng",
+    "Version": "2.0.0",
+    "Summary": "Python interface to Graphviz's Dot",
+    "Home-page": "https://github.com/pydot/pydot-ng",
+    "Author": "Ero Carrera",
+    "Author-email": "ero@dkbza.org",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "pyparsing",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153714_310457",
+    "my_timing_stop_time": "20240819_153735_868976"
+}

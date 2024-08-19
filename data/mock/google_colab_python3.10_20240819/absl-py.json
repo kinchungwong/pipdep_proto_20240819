@@ -1,0 +1,14 @@
+{
+    "Name": "absl-py",
+    "Version": "1.4.0",
+    "Summary": "Abseil Python Common Libraries, see https://github.com/abseil/abseil-py.",
+    "Home-page": "https://github.com/abseil/abseil-py",
+    "Author": "The Abseil Authors",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "array_record, chex, dopamine_rl, keras, malloy, optax, orbax-checkpoint, tensorboard, tensorflow, tensorflow-datasets, tensorflow-metadata, tensorflow-probability, tf-slim",
+    "my_timing_start_time": "20240819_152157_784868",
+    "my_timing_stop_time": "20240819_152220_704873"
+}

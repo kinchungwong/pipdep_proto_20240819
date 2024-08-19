@@ -1,0 +1,14 @@
+{
+    "Name": "prompt_toolkit",
+    "Version": "3.0.47",
+    "Summary": "Library for building powerful interactive command lines in Python",
+    "Home-page": "https://github.com/prompt-toolkit/python-prompt-toolkit",
+    "Author": "Jonathan Slenders",
+    "Author-email": "",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "wcwidth",
+    "Required-by": "ipython, jupyter-console",
+    "my_timing_start_time": "20240819_153627_156079",
+    "my_timing_stop_time": "20240819_153650_026107"
+}

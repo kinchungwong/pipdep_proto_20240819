@@ -1,0 +1,14 @@
+{
+    "Name": "matplotlib",
+    "Version": "3.7.1",
+    "Summary": "Python plotting package",
+    "Home-page": "https://matplotlib.org",
+    "Author": "John D. Hunter, Michael Droettboom",
+    "Author-email": "matplotlib-users@python.org",
+    "License": "PSF",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "contourpy, cycler, fonttools, kiwisolver, numpy, packaging, pillow, pyparsing, python-dateutil",
+    "Required-by": "arviz, bigframes, datascience, fastai, geemap, imgaug, matplotlib-venn, missingno, mizani, mlxtend, music21, plotnine, prophet, pycocotools, seaborn, wordcloud, yellowbrick",
+    "my_timing_start_time": "20240819_153247_176394",
+    "my_timing_stop_time": "20240819_153310_849339"
+}

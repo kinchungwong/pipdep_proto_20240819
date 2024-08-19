@@ -1,0 +1,14 @@
+{
+    "Name": "cryptography",
+    "Version": "42.0.8",
+    "Summary": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+    "Home-page": "https://github.com/pyca/cryptography",
+    "Author": "",
+    "Author-email": "The Python Cryptographic Authority and individual contributors <cryptography-dev@python.org>",
+    "License": "Apache-2.0 OR BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cffi",
+    "Required-by": "pyOpenSSL, snowflake-connector-python",
+    "my_timing_start_time": "20240819_152433_601483",
+    "my_timing_stop_time": "20240819_152454_046887"
+}

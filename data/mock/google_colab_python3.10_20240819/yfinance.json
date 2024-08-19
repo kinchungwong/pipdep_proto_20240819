@@ -1,0 +1,14 @@
+{
+    "Name": "yfinance",
+    "Version": "0.2.41",
+    "Summary": "Download market data from Yahoo! Finance API",
+    "Home-page": "https://github.com/ranaroussi/yfinance",
+    "Author": "Ran Aroussi",
+    "Author-email": "ran@aroussi.com",
+    "License": "Apache",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "beautifulsoup4, frozendict, html5lib, lxml, multitasking, numpy, pandas, peewee, platformdirs, pytz, requests",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154426_171133",
+    "my_timing_stop_time": "20240819_154443_872509"
+}

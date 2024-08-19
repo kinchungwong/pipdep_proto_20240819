@@ -1,0 +1,14 @@
+{
+    "Name": "websocket-client",
+    "Version": "1.8.0",
+    "Summary": "WebSocket client for Python with low level API options",
+    "Home-page": "https://github.com/websocket-client/websocket-client.git",
+    "Author": "liris",
+    "Author-email": "liris.pp@gmail.com",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "jupyter-server",
+    "my_timing_start_time": "20240819_154349_237591",
+    "my_timing_stop_time": "20240819_154409_276856"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "zipp",
+    "Version": "3.19.2",
+    "Summary": "Backport of pathlib-compatible object wrapper for zip files",
+    "Home-page": "https://github.com/jaraco/zipp",
+    "Author": "",
+    "Author-email": "\"Jason R. Coombs\" <jaraco@jaraco.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "importlib_metadata",
+    "my_timing_start_time": "20240819_154427_504765",
+    "my_timing_stop_time": "20240819_154444_083644"
+}

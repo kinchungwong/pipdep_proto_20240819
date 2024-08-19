@@ -1,0 +1,14 @@
+{
+    "Name": "google-ai-generativelanguage",
+    "Version": "0.6.6",
+    "Summary": "Google Ai Generativelanguage API client library",
+    "Home-page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-ai-generativelanguage",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-api-core, google-auth, proto-plus, protobuf",
+    "Required-by": "google-generativeai",
+    "my_timing_start_time": "20240819_152748_548703",
+    "my_timing_stop_time": "20240819_152810_440185"
+}

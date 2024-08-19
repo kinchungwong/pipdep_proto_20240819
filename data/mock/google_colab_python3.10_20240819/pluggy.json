@@ -1,0 +1,14 @@
+{
+    "Name": "pluggy",
+    "Version": "1.5.0",
+    "Summary": "plugin and hook calling mechanisms for python",
+    "Home-page": "https://github.com/pytest-dev/pluggy",
+    "Author": "Holger Krekel",
+    "Author-email": "holger@merlinux.eu",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "pytest",
+    "my_timing_start_time": "20240819_153604_612179",
+    "my_timing_stop_time": "20240819_153624_929123"
+}

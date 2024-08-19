@@ -1,0 +1,14 @@
+{
+    "Name": "plotly",
+    "Version": "5.15.0",
+    "Summary": "An open-source, interactive data visualization library for Python",
+    "Home-page": "https://plotly.com/python/",
+    "Author": "Chris P",
+    "Author-email": "chris@plot.ly",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "packaging, tenacity",
+    "Required-by": "cufflinks, datascience, geemap",
+    "my_timing_start_time": "20240819_153548_366980",
+    "my_timing_stop_time": "20240819_153609_731782"
+}

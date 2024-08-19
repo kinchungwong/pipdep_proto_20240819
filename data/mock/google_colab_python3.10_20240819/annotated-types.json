@@ -1,0 +1,14 @@
+{
+    "Name": "annotated-types",
+    "Version": "0.7.0",
+    "Summary": "Reusable constraint types to use with typing.Annotated",
+    "Home-page": "https://github.com/annotated-types/annotated-types",
+    "Author": "",
+    "Author-email": "Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Samuel Colvin <s@muelcolvin.com>, Zac Hatfield-Dodds <zac@zhd.dev>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "pydantic",
+    "my_timing_start_time": "20240819_152220_087597",
+    "my_timing_stop_time": "20240819_152240_921952"
+}

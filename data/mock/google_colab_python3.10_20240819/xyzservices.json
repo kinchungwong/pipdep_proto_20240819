@@ -1,0 +1,14 @@
+{
+    "Name": "xyzservices",
+    "Version": "2024.6.0",
+    "Summary": "Source of XYZ tiles providers",
+    "Home-page": "https://github.com/geopandas/xyzservices",
+    "Author": "Dani Arribas-Bel, Martin Fleischmann",
+    "Author-email": "daniel.arribas.bel@gmail.com, martin@martinfleischmann.net",
+    "License": "3-Clause BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "bokeh, folium, ipyleaflet, panel",
+    "my_timing_start_time": "20240819_154422_703773",
+    "my_timing_stop_time": "20240819_154442_370405"
+}

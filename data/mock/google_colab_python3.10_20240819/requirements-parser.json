@@ -1,0 +1,14 @@
+{
+    "Name": "requirements-parser",
+    "Version": "0.9.0",
+    "Summary": "This is a small Python module for parsing Pip requirement files.",
+    "Home-page": "https://github.com/madpah/requirements-parser/#readme",
+    "Author": "Paul Horton",
+    "Author-email": "paul@hogr.dev",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "types-setuptools",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153900_091554",
+    "my_timing_stop_time": "20240819_153922_072637"
+}

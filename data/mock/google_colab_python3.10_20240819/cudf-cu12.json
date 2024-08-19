@@ -1,0 +1,14 @@
+{
+    "Name": "cudf-cu12",
+    "Version": "24.4.1",
+    "Summary": "cuDF - GPU Dataframe",
+    "Home-page": "https://github.com/rapidsai/cudf",
+    "Author": "NVIDIA Corporation",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cachetools, cuda-python, cupy-cuda12x, fsspec, numba, numpy, nvtx, packaging, pandas, protobuf, pyarrow, pynvjitlink-cu12, rich, rmm-cu12, typing_extensions",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152434_305535",
+    "my_timing_stop_time": "20240819_152455_585535"
+}

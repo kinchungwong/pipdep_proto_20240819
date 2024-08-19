@@ -1,0 +1,14 @@
+{
+    "Name": "Markdown",
+    "Version": "3.6",
+    "Summary": "Python implementation of John Gruber's Markdown.",
+    "Home-page": "https://Python-Markdown.github.io/",
+    "Author": "Manfred Stienstra, Yuri Takhteyev",
+    "Author-email": "Waylan limberg <python.markdown@gmail.com>",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "panel, tensorboard",
+    "my_timing_start_time": "20240819_153243_736590",
+    "my_timing_stop_time": "20240819_153304_744182"
+}

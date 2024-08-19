@@ -1,0 +1,14 @@
+{
+    "Name": "promise",
+    "Version": "2.3",
+    "Summary": "Promises/A+ implementation for Python",
+    "Home-page": "https://github.com/syrusakbary/promise",
+    "Author": "Syrus Akbary",
+    "Author-email": "me@syrusakbary.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "six",
+    "Required-by": "tensorflow-datasets",
+    "my_timing_start_time": "20240819_153626_718772",
+    "my_timing_stop_time": "20240819_153649_932077"
+}

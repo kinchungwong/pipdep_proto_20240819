@@ -1,0 +1,14 @@
+{
+    "Name": "threadpoolctl",
+    "Version": "3.5.0",
+    "Summary": "threadpoolctl",
+    "Home-page": "https://github.com/joblib/threadpoolctl",
+    "Author": "Thomas Moreau",
+    "Author-email": "thomas.moreau.2010@gmail.com",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "imbalanced-learn, scikit-learn",
+    "my_timing_start_time": "20240819_154213_068490",
+    "my_timing_stop_time": "20240819_154233_372377"
+}

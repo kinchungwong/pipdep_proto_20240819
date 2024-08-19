@@ -1,0 +1,14 @@
+{
+    "Name": "immutabledict",
+    "Version": "4.2.0",
+    "Summary": "Immutable wrapper around dictionaries (a fork of frozendict)",
+    "Home-page": "https://github.com/corenting/immutabledict",
+    "Author": "Corentin Garcia",
+    "Author-email": "corenting@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "tensorflow-datasets",
+    "my_timing_start_time": "20240819_153012_515615",
+    "my_timing_stop_time": "20240819_153035_369752"
+}

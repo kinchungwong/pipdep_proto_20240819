@@ -1,0 +1,14 @@
+{
+    "Name": "cvxpy",
+    "Version": "1.5.2",
+    "Summary": "A domain-specific language for modeling convex optimization problems in Python.",
+    "Home-page": "https://github.com/cvxpy/cvxpy",
+    "Author": "",
+    "Author-email": "Steven Diamond <stevend2@stanford.edu>, akshayka@cs.stanford.edu, Eric Chu <echu508@stanford.edu>, Stephen Boyd <boyd@stanford.edu>",
+    "License": "Apache License, Version 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "clarabel, ecos, numpy, osqp, scipy, scs",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152453_560888",
+    "my_timing_stop_time": "20240819_152515_433077"
+}

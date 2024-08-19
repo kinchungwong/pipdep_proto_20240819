@@ -1,0 +1,14 @@
+{
+    "Name": "cycler",
+    "Version": "0.12.1",
+    "Summary": "Composable style cycles",
+    "Home-page": "https://matplotlib.org/cycler/",
+    "Author": "",
+    "Author-email": "Thomas A Caswell <matplotlib-users@python.org>",
+    "License": "Copyright (c) 2015, matplotlib project",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "matplotlib, yellowbrick",
+    "my_timing_start_time": "20240819_152453_777233",
+    "my_timing_stop_time": "20240819_152516_320615"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "dm-tree",
+    "Version": "0.1.8",
+    "Summary": "Tree is a library for working with nested data structures.",
+    "Home-page": "https://github.com/deepmind/tree",
+    "Author": "DeepMind",
+    "Author-email": "tree-copybara@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "arviz, tensorflow-datasets, tensorflow-probability",
+    "my_timing_start_time": "20240819_152536_392785",
+    "my_timing_stop_time": "20240819_152557_659487"
+}

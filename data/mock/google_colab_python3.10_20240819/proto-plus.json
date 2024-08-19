@@ -1,0 +1,14 @@
+{
+    "Name": "proto-plus",
+    "Version": "1.24.0",
+    "Summary": "Beautiful, Pythonic protocol buffers.",
+    "Home-page": "https://github.com/googleapis/proto-plus-python.git",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "protobuf",
+    "Required-by": "google-ai-generativelanguage, google-api-core, google-cloud-aiplatform, google-cloud-bigquery-connection, google-cloud-bigquery-storage, google-cloud-bigtable, google-cloud-datastore, google-cloud-firestore, google-cloud-functions, google-cloud-iam, google-cloud-language, google-cloud-pubsub, google-cloud-resource-manager, google-cloud-translate",
+    "my_timing_start_time": "20240819_153628_223516",
+    "my_timing_stop_time": "20240819_153650_406501"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "mdurl",
+    "Version": "0.1.2",
+    "Summary": "Markdown URL utilities",
+    "Home-page": "https://github.com/executablebooks/mdurl",
+    "Author": "",
+    "Author-email": "Taneli Hukkinen <hukkin@users.noreply.github.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "markdown-it-py",
+    "my_timing_start_time": "20240819_153249_938321",
+    "my_timing_stop_time": "20240819_153312_701583"
+}

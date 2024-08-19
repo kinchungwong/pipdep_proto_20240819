@@ -1,0 +1,14 @@
+{
+    "Name": "Flask",
+    "Version": "2.2.5",
+    "Summary": "A simple framework for building complex web applications.",
+    "Home-page": "https://palletsprojects.com/p/flask",
+    "Author": "Armin Ronacher",
+    "Author-email": "armin.ronacher@active-4.com",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "click, itsdangerous, Jinja2, Werkzeug",
+    "Required-by": "community",
+    "my_timing_start_time": "20240819_152643_654632",
+    "my_timing_stop_time": "20240819_152703_921161"
+}

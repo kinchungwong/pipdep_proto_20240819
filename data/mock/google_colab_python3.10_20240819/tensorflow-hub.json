@@ -1,0 +1,14 @@
+{
+    "Name": "tensorflow-hub",
+    "Version": "0.16.1",
+    "Summary": "TensorFlow Hub is a library to foster the publication, discovery, and consumption of reusable parts of machine learning models.",
+    "Home-page": "https://github.com/tensorflow/hub",
+    "Author": "Google LLC",
+    "Author-email": "packages@tensorflow.org",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, protobuf, tf-keras",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154133_323680",
+    "my_timing_stop_time": "20240819_154154_031461"
+}

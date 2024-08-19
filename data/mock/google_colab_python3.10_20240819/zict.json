@@ -1,0 +1,14 @@
+{
+    "Name": "zict",
+    "Version": "3.0.0",
+    "Summary": "Mutable mapping tools",
+    "Home-page": "http://zict.readthedocs.io/en/latest/",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "distributed",
+    "my_timing_start_time": "20240819_154426_599269",
+    "my_timing_stop_time": "20240819_154443_997755"
+}

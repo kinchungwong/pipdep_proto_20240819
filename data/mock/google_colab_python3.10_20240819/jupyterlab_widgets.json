@@ -1,0 +1,14 @@
+{
+    "Name": "jupyterlab_widgets",
+    "Version": "3.0.11",
+    "Summary": "Jupyter interactive widgets for JupyterLab",
+    "Home-page": "https://github.com/jupyter-widgets/ipywidgets",
+    "Author": "Jupyter Development Team",
+    "Author-email": "jupyter@googlegroups.com",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ipywidgets",
+    "my_timing_start_time": "20240819_153144_045977",
+    "my_timing_stop_time": "20240819_153206_220192"
+}

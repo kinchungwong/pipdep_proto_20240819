@@ -1,0 +1,14 @@
+{
+    "Name": "proglog",
+    "Version": "0.1.10",
+    "Summary": "Log and progress bar manager for console, notebooks, web...",
+    "Home-page": "",
+    "Author": "Zulko",
+    "Author-email": "",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "tqdm",
+    "Required-by": "moviepy",
+    "my_timing_start_time": "20240819_153623_148896",
+    "my_timing_stop_time": "20240819_153644_689826"
+}

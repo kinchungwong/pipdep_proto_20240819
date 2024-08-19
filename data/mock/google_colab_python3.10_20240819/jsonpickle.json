@@ -1,0 +1,14 @@
+{
+    "Name": "jsonpickle",
+    "Version": "3.2.2",
+    "Summary": "Python library for serializing arbitrary object graphs into JSON",
+    "Home-page": "https://github.com/jsonpickle/jsonpickle",
+    "Author": "David Aguilar",
+    "Author-email": "davvid@gmail.com",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "music21",
+    "my_timing_start_time": "20240819_153121_746000",
+    "my_timing_stop_time": "20240819_153143_874344"
+}

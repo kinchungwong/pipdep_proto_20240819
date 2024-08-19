@@ -1,0 +1,14 @@
+{
+    "Name": "altair",
+    "Version": "4.2.2",
+    "Summary": "Altair: A declarative statistical visualization library for Python.",
+    "Home-page": "http://altair-viz.github.io",
+    "Author": "Brian E. Granger / Jake VanderPlas",
+    "Author-email": "jakevdp@gmail.com",
+    "License": "BSD 3-clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "entrypoints, jinja2, jsonschema, numpy, pandas, toolz",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152220_044827",
+    "my_timing_stop_time": "20240819_152242_018815"
+}

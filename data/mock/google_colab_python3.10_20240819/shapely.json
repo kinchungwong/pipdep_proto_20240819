@@ -1,0 +1,14 @@
+{
+    "Name": "shapely",
+    "Version": "2.0.5",
+    "Summary": "Manipulation and analysis of geometric objects",
+    "Home-page": "",
+    "Author": "Sean Gillies",
+    "Author-email": "",
+    "License": "BSD 3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "geopandas, google-cloud-aiplatform, imgaug",
+    "my_timing_start_time": "20240819_153945_741227",
+    "my_timing_stop_time": "20240819_154008_004288"
+}

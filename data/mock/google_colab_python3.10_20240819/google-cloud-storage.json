@@ -1,0 +1,14 @@
+{
+    "Name": "google-cloud-storage",
+    "Version": "2.8.0",
+    "Summary": "Google Cloud Storage API client library",
+    "Home-page": "https://github.com/googleapis/python-storage",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-api-core, google-auth, google-cloud-core, google-resumable-media, requests",
+    "Required-by": "bigframes, earthengine-api, firebase-admin, gcsfs, google-cloud-aiplatform",
+    "my_timing_start_time": "20240819_152830_832267",
+    "my_timing_stop_time": "20240819_152852_161198"
+}

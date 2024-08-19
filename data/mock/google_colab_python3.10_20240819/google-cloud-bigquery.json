@@ -1,0 +1,14 @@
+{
+    "Name": "google-cloud-bigquery",
+    "Version": "3.25.0",
+    "Summary": "Google BigQuery API client library",
+    "Home-page": "https://github.com/googleapis/python-bigquery",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-api-core, google-auth, google-cloud-core, google-resumable-media, packaging, python-dateutil, requests",
+    "Required-by": "bigframes, google-cloud-aiplatform, malloy, pandas-gbq",
+    "my_timing_start_time": "20240819_152807_729711",
+    "my_timing_stop_time": "20240819_152827_794016"
+}

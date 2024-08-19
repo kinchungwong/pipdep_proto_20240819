@@ -1,0 +1,14 @@
+{
+    "Name": "sphinxcontrib-htmlhelp",
+    "Version": "2.1.0",
+    "Summary": "sphinxcontrib-htmlhelp is a sphinx extension which renders HTML help files",
+    "Home-page": "https://www.sphinx-doc.org/",
+    "Author": "",
+    "Author-email": "Georg Brandl <georg@python.org>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "Sphinx",
+    "my_timing_start_time": "20240819_154045_374128",
+    "my_timing_stop_time": "20240819_154105_169597"
+}

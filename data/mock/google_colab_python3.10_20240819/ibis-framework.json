@@ -1,0 +1,14 @@
+{
+    "Name": "ibis-framework",
+    "Version": "8.0.0",
+    "Summary": "Productivity-centric Python Big Data Framework",
+    "Home-page": "https://ibis-project.org",
+    "Author": "Ibis Maintainers",
+    "Author-email": "maintainers@ibis-project.org",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "atpublic, bidict, multipledispatch, numpy, pandas, parsy, pyarrow, pyarrow-hotfix, python-dateutil, pytz, rich, sqlglot, toolz, typing-extensions",
+    "Required-by": "bigframes",
+    "my_timing_start_time": "20240819_152953_080204",
+    "my_timing_stop_time": "20240819_153014_659820"
+}

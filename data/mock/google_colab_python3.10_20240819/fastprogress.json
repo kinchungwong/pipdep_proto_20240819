@@ -1,0 +1,14 @@
+{
+    "Name": "fastprogress",
+    "Version": "1.0.3",
+    "Summary": "A nested progress with plotting options for fastai",
+    "Home-page": "https://github.com/fastai/fastprogress",
+    "Author": "Sylvain Gugger",
+    "Author-email": "info@fast.ai",
+    "License": "Apache Software License 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "fastai, fastdownload, pymc",
+    "my_timing_start_time": "20240819_152622_419474",
+    "my_timing_stop_time": "20240819_152643_706192"
+}

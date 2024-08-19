@@ -1,0 +1,14 @@
+{
+    "Name": "ipyparallel",
+    "Version": "8.8.0",
+    "Summary": "Interactive Parallel Computing with IPython",
+    "Home-page": "https://ipython.org",
+    "Author": "",
+    "Author-email": "IPython Development Team <ipython-dev@scipy.org>",
+    "License": "# Licensing terms",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "decorator, entrypoints, ipykernel, ipython, jupyter-client, psutil, python-dateutil, pyzmq, tornado, tqdm, traitlets",
+    "Required-by": "google-colab",
+    "my_timing_start_time": "20240819_153039_086387",
+    "my_timing_stop_time": "20240819_153059_627934"
+}

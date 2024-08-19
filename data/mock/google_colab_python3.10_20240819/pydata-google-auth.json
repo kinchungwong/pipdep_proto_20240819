@@ -1,0 +1,14 @@
+{
+    "Name": "pydata-google-auth",
+    "Version": "1.8.2",
+    "Summary": "PyData helpers for authenticating to Google APIs",
+    "Home-page": "https://github.com/pydata/pydata-google-auth",
+    "Author": "The PyData Development Team",
+    "Author-email": "pydata@googlegroups.com",
+    "License": "BSD License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-auth, google-auth-oauthlib, setuptools",
+    "Required-by": "bigframes, pandas-gbq",
+    "my_timing_start_time": "20240819_153710_625577",
+    "my_timing_stop_time": "20240819_153731_118995"
+}

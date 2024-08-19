@@ -1,0 +1,14 @@
+{
+    "Name": "pytz",
+    "Version": "2024.1",
+    "Summary": "World timezone definitions, modern and historical",
+    "Home-page": "http://pythonhosted.org/pytz",
+    "Author": "Stuart Bishop",
+    "Author-email": "stuart@stuartbishop.net",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ibis-framework, pandas, rpy2, snowflake-connector-python, yfinance",
+    "my_timing_start_time": "20240819_153837_907801",
+    "my_timing_stop_time": "20240819_153859_852759"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "tf_keras",
+    "Version": "2.17.0",
+    "Summary": "Deep learning for humans.",
+    "Home-page": "https://keras.io/",
+    "Author": "Keras team",
+    "Author-email": "keras-users@googlegroups.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "tensorflow",
+    "Required-by": "tensorflow-hub",
+    "my_timing_start_time": "20240819_154157_879957",
+    "my_timing_stop_time": "20240819_154222_178798"
+}

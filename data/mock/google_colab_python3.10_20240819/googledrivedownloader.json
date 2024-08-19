@@ -1,0 +1,14 @@
+{
+    "Name": "googledrivedownloader",
+    "Version": "0.4",
+    "Summary": "Minimal class to download shared files from Google Drive.",
+    "Home-page": "https://github.com/ndrplz/google-drive-downloader",
+    "Author": "Davide Abati and Andrea Palazzi",
+    "Author-email": "ndrplz@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152852_205497",
+    "my_timing_stop_time": "20240819_152914_335586"
+}

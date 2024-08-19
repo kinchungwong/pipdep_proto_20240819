@@ -1,0 +1,14 @@
+{
+    "Name": "pyparsing",
+    "Version": "3.1.2",
+    "Summary": "pyparsing module - Classes and methods to define and execute parsing grammars",
+    "Home-page": "https://github.com/pyparsing/pyparsing/",
+    "Author": "",
+    "Author-email": "Paul McGuire <ptmcg.gm+pyparsing@gmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "httplib2, matplotlib, pydot, pydot-ng, pydotplus",
+    "my_timing_start_time": "20240819_153753_849810",
+    "my_timing_stop_time": "20240819_153814_864140"
+}

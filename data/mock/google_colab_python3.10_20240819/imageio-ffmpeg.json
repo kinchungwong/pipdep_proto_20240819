@@ -1,0 +1,14 @@
+{
+    "Name": "imageio-ffmpeg",
+    "Version": "0.5.1",
+    "Summary": "FFMPEG wrapper for Python",
+    "Home-page": "https://github.com/imageio/imageio-ffmpeg",
+    "Author": "imageio contributors",
+    "Author-email": "almar.klein@gmail.com",
+    "License": "BSD-2-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "setuptools",
+    "Required-by": "moviepy",
+    "my_timing_start_time": "20240819_152955_498424",
+    "my_timing_stop_time": "20240819_153017_763257"
+}

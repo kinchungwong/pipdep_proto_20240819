@@ -1,0 +1,14 @@
+{
+    "Name": "imgaug",
+    "Version": "0.4.0",
+    "Summary": "Image augmentation library for deep neural networks",
+    "Home-page": "https://github.com/aleju/imgaug",
+    "Author": "Alexander Jung",
+    "Author-email": "kontakt@ajung.name",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "imageio, matplotlib, numpy, opencv-python, Pillow, scikit-image, scipy, Shapely, six",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152956_717846",
+    "my_timing_stop_time": "20240819_153019_501788"
+}

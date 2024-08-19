@@ -1,0 +1,14 @@
+{
+    "Name": "dask",
+    "Version": "2024.7.1",
+    "Summary": "Parallel PyData with Task Scheduling",
+    "Home-page": "https://github.com/dask/dask/",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "click, cloudpickle, fsspec, importlib-metadata, packaging, partd, pyyaml, toolz",
+    "Required-by": "distributed",
+    "my_timing_start_time": "20240819_152455_598053",
+    "my_timing_stop_time": "20240819_152518_263693"
+}

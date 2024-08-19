@@ -1,0 +1,14 @@
+{
+    "Name": "ipykernel",
+    "Version": "5.5.6",
+    "Summary": "IPython Kernel for Jupyter",
+    "Home-page": "https://ipython.org",
+    "Author": "IPython Development Team",
+    "Author-email": "ipython-dev@scipy.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ipython, ipython-genutils, jupyter-client, tornado, traitlets",
+    "Required-by": "google-colab, ipyparallel, ipywidgets, jupyter-console, nbclassic, notebook",
+    "my_timing_start_time": "20240819_153037_322462",
+    "my_timing_stop_time": "20240819_153057_684789"
+}

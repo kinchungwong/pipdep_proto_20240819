@@ -1,0 +1,14 @@
+{
+    "Name": "jupyter-client",
+    "Version": "6.1.12",
+    "Summary": "Jupyter protocol implementation and client libraries",
+    "Home-page": "https://jupyter.org",
+    "Author": "Jupyter Development Team",
+    "Author-email": "jupyter@googlegroups.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "jupyter-core, python-dateutil, pyzmq, tornado, traitlets",
+    "Required-by": "ipykernel, ipyparallel, jupyter-console, jupyter-server, nbclient, notebook",
+    "my_timing_start_time": "20240819_153123_186806",
+    "my_timing_stop_time": "20240819_153144_399053"
+}

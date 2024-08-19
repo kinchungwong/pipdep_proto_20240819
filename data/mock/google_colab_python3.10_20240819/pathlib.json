@@ -1,0 +1,14 @@
+{
+    "Name": "pathlib",
+    "Version": "1.0.1",
+    "Summary": "Object-oriented filesystem paths",
+    "Home-page": "https://pathlib.readthedocs.org/",
+    "Author": "Antoine Pitrou",
+    "Author-email": "solipsis@pitrou.net",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153526_621407",
+    "my_timing_stop_time": "20240819_153546_618528"
+}

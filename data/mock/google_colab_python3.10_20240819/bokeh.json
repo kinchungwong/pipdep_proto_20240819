@@ -1,0 +1,14 @@
+{
+    "Name": "bokeh",
+    "Version": "3.4.3",
+    "Summary": "Interactive plots and applications in the browser from Python",
+    "Home-page": "https://bokeh.org",
+    "Author": "Bokeh Team",
+    "Author-email": "info@bokeh.org",
+    "License": "Copyright (c) Anaconda, Inc., and Bokeh Contributors",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "contourpy, Jinja2, numpy, packaging, pandas, pillow, PyYAML, tornado, xyzservices",
+    "Required-by": "panel",
+    "my_timing_start_time": "20240819_152324_966849",
+    "my_timing_stop_time": "20240819_152349_301565"
+}

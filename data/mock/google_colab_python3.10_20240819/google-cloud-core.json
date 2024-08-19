@@ -1,0 +1,14 @@
+{
+    "Name": "google-cloud-core",
+    "Version": "2.4.1",
+    "Summary": "Google Cloud API client core library",
+    "Home-page": "https://github.com/googleapis/python-cloud-core",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-api-core, google-auth",
+    "Required-by": "google-cloud-bigquery, google-cloud-bigtable, google-cloud-datastore, google-cloud-firestore, google-cloud-storage, google-cloud-translate",
+    "my_timing_start_time": "20240819_152810_452790",
+    "my_timing_stop_time": "20240819_152830_793244"
+}

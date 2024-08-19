@@ -1,0 +1,14 @@
+{
+    "Name": "tf-slim",
+    "Version": "1.1.0",
+    "Summary": "TensorFlow-Slim: A lightweight library for defining, training and evaluating complex models in TensorFlow",
+    "Home-page": "https://github.com/google-research/tf-slim",
+    "Author": "The TF-Slim Team",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py",
+    "Required-by": "dopamine_rl",
+    "my_timing_start_time": "20240819_154211_802711",
+    "my_timing_stop_time": "20240819_154232_739161"
+}

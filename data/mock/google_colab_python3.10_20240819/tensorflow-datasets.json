@@ -1,0 +1,14 @@
+{
+    "Name": "tensorflow-datasets",
+    "Version": "4.9.6",
+    "Summary": "tensorflow/datasets is a library of datasets ready to use with TensorFlow.",
+    "Home-page": "https://github.com/tensorflow/datasets",
+    "Author": "Google Inc.",
+    "Author-email": "packages@tensorflow.org",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, array-record, click, dm-tree, etils, immutabledict, numpy, promise, protobuf, psutil, pyarrow, requests, simple-parsing, tensorflow-metadata, termcolor, toml, tqdm, wrapt",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154130_647846",
+    "my_timing_stop_time": "20240819_154152_679954"
+}

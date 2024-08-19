@@ -1,0 +1,14 @@
+{
+    "Name": "natsort",
+    "Version": "8.4.0",
+    "Summary": "Simple yet flexible natural sorting in Python.",
+    "Home-page": "https://github.com/SethMMorton/natsort",
+    "Author": "Seth M. Morton",
+    "Author-email": "drtuba78@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153350_709399",
+    "my_timing_stop_time": "20240819_153414_448355"
+}

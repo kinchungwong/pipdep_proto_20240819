@@ -1,0 +1,14 @@
+{
+    "Name": "fonttools",
+    "Version": "4.53.1",
+    "Summary": "Tools to manipulate font files",
+    "Home-page": "http://github.com/fonttools/fonttools",
+    "Author": "Just van Rossum",
+    "Author-email": "just@letterror.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "matplotlib",
+    "my_timing_start_time": "20240819_152701_225235",
+    "my_timing_stop_time": "20240819_152721_376351"
+}

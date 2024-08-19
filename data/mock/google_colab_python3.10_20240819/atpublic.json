@@ -1,0 +1,14 @@
+{
+    "Name": "atpublic",
+    "Version": "4.1.0",
+    "Summary": "Keep all y'all's __all__'s in sync",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Barry Warsaw <barry@python.org>",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ibis-framework",
+    "my_timing_start_time": "20240819_152242_283903",
+    "my_timing_stop_time": "20240819_152304_580780"
+}

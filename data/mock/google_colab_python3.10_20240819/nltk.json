@@ -1,0 +1,14 @@
+{
+    "Name": "nltk",
+    "Version": "3.8.1",
+    "Summary": "Natural Language Toolkit",
+    "Home-page": "https://www.nltk.org/",
+    "Author": "NLTK Team",
+    "Author-email": "nltk.team@gmail.com",
+    "License": "Apache License, Version 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "click, joblib, regex, tqdm",
+    "Required-by": "textblob",
+    "my_timing_start_time": "20240819_153413_792819",
+    "my_timing_stop_time": "20240819_153436_219802"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "albucore",
+    "Version": "0.0.13",
+    "Summary": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision who require efficient and scalable image augmentation.",
+    "Home-page": "https://github.com/albumentations-team/albucore",
+    "Author": "Vladimir I. Iglovikov",
+    "Author-email": "",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, opencv-python-headless, tomli, typing-extensions",
+    "Required-by": "albumentations",
+    "my_timing_start_time": "20240819_152157_792875",
+    "my_timing_stop_time": "20240819_152220_030329"
+}

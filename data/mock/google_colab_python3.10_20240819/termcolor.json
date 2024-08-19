@@ -1,0 +1,14 @@
+{
+    "Name": "termcolor",
+    "Version": "2.4.0",
+    "Summary": "ANSI color formatting for output in terminal",
+    "Home-page": "https://github.com/termcolor/termcolor",
+    "Author": "",
+    "Author-email": "Konstantin Lepa <konstantin.lepa@gmail.com>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "tensorflow, tensorflow-datasets",
+    "my_timing_start_time": "20240819_154152_660798",
+    "my_timing_stop_time": "20240819_154215_808159"
+}

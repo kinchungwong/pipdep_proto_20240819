@@ -1,0 +1,14 @@
+{
+    "Name": "backcall",
+    "Version": "0.2.0",
+    "Summary": "Specifications for callback functions passed in to an API",
+    "Home-page": "https://github.com/takluyver/backcall",
+    "Author": "Thomas Kluyver",
+    "Author-email": "thomas@kluyver.me.uk",
+    "License": "UNKNOWN",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ipython",
+    "my_timing_start_time": "20240819_152304_347778",
+    "my_timing_stop_time": "20240819_152324_959911"
+}

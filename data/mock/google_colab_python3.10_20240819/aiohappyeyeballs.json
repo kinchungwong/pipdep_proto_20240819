@@ -1,0 +1,14 @@
+{
+    "Name": "aiohappyeyeballs",
+    "Version": "2.3.5",
+    "Summary": "Happy Eyeballs for asyncio",
+    "Home-page": "https://github.com/aio-libs/aiohappyeyeballs",
+    "Author": "J. Nick Koston",
+    "Author-email": "nick@koston.org",
+    "License": "Python-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "aiohttp",
+    "my_timing_start_time": "20240819_152157_788570",
+    "my_timing_stop_time": "20240819_152220_078660"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "wcwidth",
+    "Version": "0.2.13",
+    "Summary": "Measures the displayed width of unicode strings in a terminal",
+    "Home-page": "https://github.com/jquast/wcwidth",
+    "Author": "Jeff Quast",
+    "Author-email": "contact@jeffquast.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "prettytable, prompt_toolkit",
+    "my_timing_start_time": "20240819_154341_976326",
+    "my_timing_stop_time": "20240819_154405_036592"
+}

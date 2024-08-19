@@ -1,0 +1,14 @@
+{
+    "Name": "pyviz_comms",
+    "Version": "3.0.3",
+    "Summary": "A JupyterLab extension for rendering HoloViz content.",
+    "Home-page": "https://github.com/holoviz/pyviz_comms",
+    "Author": "Philipp Rudiger",
+    "Author-email": "",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "param",
+    "Required-by": "holoviews, panel",
+    "my_timing_start_time": "20240819_153838_210931",
+    "my_timing_stop_time": "20240819_153900_027967"
+}

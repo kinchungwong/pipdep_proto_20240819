@@ -1,0 +1,14 @@
+{
+    "Name": "lightgbm",
+    "Version": "4.4.0",
+    "Summary": "LightGBM Python Package",
+    "Home-page": "https://github.com/microsoft/LightGBM",
+    "Author": "",
+    "Author-email": "",
+    "License": "The MIT License (MIT)",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, scipy",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153223_125625",
+    "my_timing_stop_time": "20240819_153243_719302"
+}

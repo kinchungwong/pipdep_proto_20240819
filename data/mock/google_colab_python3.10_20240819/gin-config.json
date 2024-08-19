@@ -1,0 +1,14 @@
+{
+    "Name": "gin-config",
+    "Version": "0.5.0",
+    "Summary": "Gin-Config: A lightweight configuration library for Python",
+    "Home-page": "https://github.com/google/gin-config",
+    "Author": "The Gin-Config Team",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "dopamine_rl",
+    "my_timing_start_time": "20240819_152726_779499",
+    "my_timing_stop_time": "20240819_152750_978077"
+}

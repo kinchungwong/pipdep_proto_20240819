@@ -1,0 +1,14 @@
+{
+    "Name": "partd",
+    "Version": "1.4.2",
+    "Summary": "Appendable key-value storage",
+    "Home-page": "http://github.com/dask/partd/",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "locket, toolz",
+    "Required-by": "dask",
+    "my_timing_start_time": "20240819_153525_486975",
+    "my_timing_stop_time": "20240819_153546_223431"
+}

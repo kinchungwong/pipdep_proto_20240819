@@ -1,0 +1,14 @@
+{
+    "Name": "pyasn1",
+    "Version": "0.6.0",
+    "Summary": "Pure-Python implementation of ASN.1 types and DER/BER/CER codecs (X.208)",
+    "Home-page": "https://github.com/pyasn1/pyasn1",
+    "Author": "Ilya Etingof",
+    "Author-email": "etingof@gmail.com",
+    "License": "BSD-2-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "oauth2client, pyasn1_modules, rsa",
+    "my_timing_start_time": "20240819_153653_834991",
+    "my_timing_stop_time": "20240819_153714_302915"
+}

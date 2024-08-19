@@ -1,0 +1,14 @@
+{
+    "Name": "miniKanren",
+    "Version": "1.0.3",
+    "Summary": "Relational programming in Python",
+    "Home-page": "http://github.com/pythological/kanren",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cons, etuples, logical-unification, multipledispatch, toolz",
+    "Required-by": "pytensor",
+    "my_timing_start_time": "20240819_153304_875277",
+    "my_timing_stop_time": "20240819_153326_873157"
+}

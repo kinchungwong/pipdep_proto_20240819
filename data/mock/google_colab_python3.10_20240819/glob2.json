@@ -1,0 +1,14 @@
+{
+    "Name": "glob2",
+    "Version": "0.7",
+    "Summary": "Version of the glob module that can capture patterns and supports recursive wildcards",
+    "Home-page": "http://github.com/miracle2k/python-glob2/",
+    "Author": "Michael Elsdoerfer",
+    "Author-email": "michael@elsdoerfer.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152744_940549",
+    "my_timing_stop_time": "20240819_152807_453228"
+}

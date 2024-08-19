@@ -1,0 +1,14 @@
+{
+    "Name": "sphinxcontrib-devhelp",
+    "Version": "2.0.0",
+    "Summary": "sphinxcontrib-devhelp is a sphinx extension which outputs Devhelp documents",
+    "Home-page": "https://www.sphinx-doc.org/",
+    "Author": "",
+    "Author-email": "Georg Brandl <georg@python.org>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "Sphinx",
+    "my_timing_start_time": "20240819_154043_133740",
+    "my_timing_stop_time": "20240819_154103_990407"
+}

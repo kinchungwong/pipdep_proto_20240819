@@ -1,0 +1,14 @@
+{
+    "Name": "fastcore",
+    "Version": "1.5.55",
+    "Summary": "Python supercharged for fastai development",
+    "Home-page": "https://github.com/fastai/fastcore/",
+    "Author": "Jeremy Howard and Sylvain Gugger",
+    "Author-email": "infos@fast.ai",
+    "License": "Apache Software License 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "packaging",
+    "Required-by": "fastai, fastdownload",
+    "my_timing_start_time": "20240819_152621_713254",
+    "my_timing_stop_time": "20240819_152643_646491"
+}

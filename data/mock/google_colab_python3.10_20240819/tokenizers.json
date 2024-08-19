@@ -1,0 +1,14 @@
+{
+    "Name": "tokenizers",
+    "Version": "0.19.1",
+    "Summary": "",
+    "Home-page": "https://github.com/huggingface/tokenizers",
+    "Author": "Anthony MOI <m.anthony.moi@gmail.com>",
+    "Author-email": "Nicolas Patry <patry.nicolas@protonmail.com>, Anthony Moi <anthony@huggingface.co>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "huggingface-hub",
+    "Required-by": "transformers",
+    "my_timing_start_time": "20240819_154216_624815",
+    "my_timing_stop_time": "20240819_154239_564232"
+}

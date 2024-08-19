@@ -1,0 +1,14 @@
+{
+    "Name": "langcodes",
+    "Version": "3.4.0",
+    "Summary": "Tools for labeling human languages with IETF language tags",
+    "Home-page": "https://github.com/georgkrause/langcodes",
+    "Author": "",
+    "Author-email": "Elia Robyn Speer <rspeer@arborelia.net>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "language-data",
+    "Required-by": "spacy",
+    "my_timing_start_time": "20240819_153201_772339",
+    "my_timing_stop_time": "20240819_153223_117272"
+}

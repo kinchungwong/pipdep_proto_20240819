@@ -1,0 +1,14 @@
+{
+    "Name": "astunparse",
+    "Version": "1.6.3",
+    "Summary": "An AST unparser for Python",
+    "Home-page": "https://github.com/simonpercivall/astunparse",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "six, wheel",
+    "Required-by": "tensorflow",
+    "my_timing_start_time": "20240819_152242_036691",
+    "my_timing_stop_time": "20240819_152304_329151"
+}

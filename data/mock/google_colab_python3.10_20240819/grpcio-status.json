@@ -1,0 +1,14 @@
+{
+    "Name": "grpcio-status",
+    "Version": "1.48.2",
+    "Summary": "Status proto mapping for gRPC",
+    "Home-page": "https://grpc.io",
+    "Author": "The gRPC Authors",
+    "Author-email": "grpc-io@googlegroups.com",
+    "License": "Apache License 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "googleapis-common-protos, grpcio, protobuf",
+    "Required-by": "google-cloud-pubsub",
+    "my_timing_start_time": "20240819_152911_920302",
+    "my_timing_stop_time": "20240819_152932_760482"
+}

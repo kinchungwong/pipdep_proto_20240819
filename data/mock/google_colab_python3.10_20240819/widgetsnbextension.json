@@ -1,0 +1,14 @@
+{
+    "Name": "widgetsnbextension",
+    "Version": "3.6.8",
+    "Summary": "IPython HTML widgets for Jupyter",
+    "Home-page": "http://ipython.org",
+    "Author": "IPython Development Team",
+    "Author-email": "ipython-dev@scipy.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "notebook",
+    "Required-by": "ipywidgets",
+    "my_timing_start_time": "20240819_154401_805385",
+    "my_timing_stop_time": "20240819_154424_241048"
+}

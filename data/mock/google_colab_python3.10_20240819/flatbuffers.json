@@ -1,0 +1,14 @@
+{
+    "Name": "flatbuffers",
+    "Version": "24.3.25",
+    "Summary": "The FlatBuffers serialization format for Python",
+    "Home-page": "https://google.github.io/flatbuffers/",
+    "Author": "Derek Bailey",
+    "Author-email": "derekbailey@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "tensorflow",
+    "my_timing_start_time": "20240819_152643_732144",
+    "my_timing_stop_time": "20240819_152704_031553"
+}

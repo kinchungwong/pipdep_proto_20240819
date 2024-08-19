@@ -1,0 +1,14 @@
+{
+    "Name": "jupyterlab_pygments",
+    "Version": "0.3.0",
+    "Summary": "Pygments theme using JupyterLab CSS variables",
+    "Home-page": "https://github.com/jupyterlab/jupyterlab_pygments",
+    "Author": "",
+    "Author-email": "Jupyter Development Team <jupyter@googlegroups.com>",
+    "License": "Copyright (c) 2015 Project Jupyter Contributors",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "nbconvert",
+    "my_timing_start_time": "20240819_153143_898252",
+    "my_timing_stop_time": "20240819_153205_417094"
+}

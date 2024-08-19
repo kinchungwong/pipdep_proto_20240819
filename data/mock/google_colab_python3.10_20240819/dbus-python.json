@@ -1,0 +1,14 @@
+{
+    "Name": "dbus-python",
+    "Version": "1.2.18",
+    "Summary": "Python bindings for libdbus",
+    "Home-page": "http://www.freedesktop.org/wiki/Software/DBusBindings/#python",
+    "Author": "",
+    "Author-email": "",
+    "License": "Expat (MIT/X11)",
+    "Location": "/usr/lib/python3/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152515_459359",
+    "my_timing_stop_time": "20240819_152537_293408"
+}

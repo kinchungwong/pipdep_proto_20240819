@@ -1,0 +1,14 @@
+{
+    "Name": "optax",
+    "Version": "0.2.2",
+    "Summary": "A gradient processing and optimisation library in JAX.",
+    "Home-page": "https://github.com/google-deepmind/optax",
+    "Author": "",
+    "Author-email": "Google DeepMind <optax-dev@google.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, chex, jax, jaxlib, numpy",
+    "Required-by": "flax",
+    "my_timing_start_time": "20240819_153441_090253",
+    "my_timing_stop_time": "20240819_153504_822304"
+}

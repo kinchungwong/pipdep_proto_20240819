@@ -1,0 +1,14 @@
+{
+    "Name": "safetensors",
+    "Version": "0.4.4",
+    "Summary": "",
+    "Home-page": "https://github.com/huggingface/safetensors",
+    "Author": "",
+    "Author-email": "Nicolas Patry <patry.nicolas@protonmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "accelerate, transformers",
+    "my_timing_start_time": "20240819_153921_943591",
+    "my_timing_stop_time": "20240819_153942_872277"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "sphinxcontrib-jsmath",
+    "Version": "1.0.1",
+    "Summary": "A sphinx extension which renders display math in HTML via JavaScript",
+    "Home-page": "http://sphinx-doc.org/",
+    "Author": "Georg Brandl",
+    "Author-email": "georg@python.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "Sphinx",
+    "my_timing_start_time": "20240819_154047_028777",
+    "my_timing_stop_time": "20240819_154106_654579"
+}

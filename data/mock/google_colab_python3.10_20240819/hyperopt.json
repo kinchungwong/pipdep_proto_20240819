@@ -1,0 +1,14 @@
+{
+    "Name": "hyperopt",
+    "Version": "0.2.7",
+    "Summary": "Distributed Asynchronous Hyperparameter Optimization",
+    "Home-page": "https://hyperopt.github.io/hyperopt",
+    "Author": "James Bergstra",
+    "Author-email": "james.bergstra@gmail.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cloudpickle, future, networkx, numpy, py4j, scipy, six, tqdm",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152951_484703",
+    "my_timing_stop_time": "20240819_153012_495514"
+}

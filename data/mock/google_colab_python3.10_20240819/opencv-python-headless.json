@@ -1,0 +1,14 @@
+{
+    "Name": "opencv-python-headless",
+    "Version": "4.10.0.84",
+    "Summary": "Wrapper package for OpenCV python bindings.",
+    "Home-page": "https://github.com/opencv/opencv-python",
+    "Author": "",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "albucore, albumentations",
+    "my_timing_start_time": "20240819_153437_660621",
+    "my_timing_stop_time": "20240819_153501_580514"
+}

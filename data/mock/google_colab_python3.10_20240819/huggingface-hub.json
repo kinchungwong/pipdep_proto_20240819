@@ -1,0 +1,14 @@
+{
+    "Name": "huggingface-hub",
+    "Version": "0.23.5",
+    "Summary": "Client library to download and publish models, datasets and other repos on the huggingface.co hub",
+    "Home-page": "https://github.com/huggingface/huggingface_hub",
+    "Author": "Hugging Face, Inc.",
+    "Author-email": "julien@huggingface.co",
+    "License": "Apache",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "filelock, fsspec, packaging, pyyaml, requests, tqdm, typing-extensions",
+    "Required-by": "accelerate, tokenizers, transformers",
+    "my_timing_start_time": "20240819_152935_812479",
+    "my_timing_stop_time": "20240819_152956_353493"
+}

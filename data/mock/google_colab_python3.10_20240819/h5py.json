@@ -1,0 +1,14 @@
+{
+    "Name": "h5py",
+    "Version": "3.11.0",
+    "Summary": "Read and write HDF5 files from Python",
+    "Home-page": "https://www.h5py.org/",
+    "Author": "",
+    "Author-email": "Andrew Collette <andrew.collette@gmail.com>",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "h5netcdf, keras, tensorflow",
+    "my_timing_start_time": "20240819_152931_456110",
+    "my_timing_stop_time": "20240819_152951_477278"
+}

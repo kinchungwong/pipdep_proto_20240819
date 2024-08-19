@@ -1,0 +1,14 @@
+{
+    "Name": "statsmodels",
+    "Version": "0.14.2",
+    "Summary": "Statistical computations and models for Python",
+    "Home-page": "https://www.statsmodels.org/",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, packaging, pandas, patsy, scipy",
+    "Required-by": "plotnine",
+    "my_timing_start_time": "20240819_154106_661357",
+    "my_timing_stop_time": "20240819_154127_501518"
+}

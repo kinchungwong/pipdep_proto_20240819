@@ -1,0 +1,14 @@
+{
+    "Name": "entrypoints",
+    "Version": "0.4",
+    "Summary": "Discover and load entry points from installed packages.",
+    "Home-page": "https://github.com/takluyver/entrypoints",
+    "Author": "Thomas Kluyver",
+    "Author-email": "thomas@kluyver.me.uk",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "altair, ipyparallel, nbconvert",
+    "my_timing_start_time": "20240819_152559_396328",
+    "my_timing_stop_time": "20240819_152622_083357"
+}

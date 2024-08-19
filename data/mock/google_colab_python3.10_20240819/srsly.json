@@ -1,0 +1,14 @@
+{
+    "Name": "srsly",
+    "Version": "2.4.8",
+    "Summary": "Modern high-performance serialization utilities for Python",
+    "Home-page": "https://github.com/explosion/srsly",
+    "Author": "Explosion",
+    "Author-email": "contact@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "catalogue",
+    "Required-by": "confection, spacy, thinc, weasel",
+    "my_timing_start_time": "20240819_154103_996916",
+    "my_timing_stop_time": "20240819_154124_646619"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "google-cloud-bigquery-storage",
+    "Version": "2.25.0",
+    "Summary": "Google Cloud Bigquery Storage API client library",
+    "Home-page": "https://github.com/googleapis/python-bigquery-storage",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-api-core, google-auth, proto-plus, protobuf",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152809_615977",
+    "my_timing_stop_time": "20240819_152829_933713"
+}

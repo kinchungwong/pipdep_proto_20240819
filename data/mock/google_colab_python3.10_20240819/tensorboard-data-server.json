@@ -1,0 +1,14 @@
+{
+    "Name": "tensorboard-data-server",
+    "Version": "0.7.2",
+    "Summary": "Fast data loading for TensorBoard",
+    "Home-page": "https://github.com/tensorflow/tensorboard/tree/master/tensorboard/data/server",
+    "Author": "Google Inc.",
+    "Author-email": "packages@tensorflow.org",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "tensorboard",
+    "my_timing_start_time": "20240819_154130_097377",
+    "my_timing_stop_time": "20240819_154152_651294"
+}

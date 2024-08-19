@@ -1,0 +1,14 @@
+{
+    "Name": "urllib3",
+    "Version": "2.0.7",
+    "Summary": "HTTP library with thread-safe connection pooling, file post, and more.",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Andrey Petrov <andrey.petrov@shazow.net>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "distributed, kaggle, requests",
+    "my_timing_start_time": "20240819_154326_063650",
+    "my_timing_stop_time": "20240819_154349_220194"
+}

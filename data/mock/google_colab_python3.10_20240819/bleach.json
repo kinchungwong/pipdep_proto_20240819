@@ -1,0 +1,14 @@
+{
+    "Name": "bleach",
+    "Version": "6.1.0",
+    "Summary": "An easy safelist-based HTML-sanitizing tool.",
+    "Home-page": "https://github.com/mozilla/bleach",
+    "Author": "",
+    "Author-email": "",
+    "License": "Apache Software License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "six, webencodings",
+    "Required-by": "kaggle, nbconvert, panel",
+    "my_timing_start_time": "20240819_152304_816801",
+    "my_timing_stop_time": "20240819_152325_599692"
+}

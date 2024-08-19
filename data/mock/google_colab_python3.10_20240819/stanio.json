@@ -1,0 +1,14 @@
+{
+    "Name": "stanio",
+    "Version": "0.5.1",
+    "Summary": "Utilities for preparing Stan inputs and processing Stan outputs",
+    "Home-page": "https://github.com/stan-dev/stanio",
+    "Author": "Stan Dev Team",
+    "Author-email": "",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "cmdstanpy",
+    "my_timing_start_time": "20240819_154105_195883",
+    "my_timing_stop_time": "20240819_154125_834718"
+}

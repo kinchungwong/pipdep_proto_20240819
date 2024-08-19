@@ -1,0 +1,14 @@
+{
+    "Name": "missingno",
+    "Version": "0.5.2",
+    "Summary": "Missing data visualization module for Python.",
+    "Home-page": "https://github.com/ResidentMario/missingno",
+    "Author": "Aleksey Bilogur",
+    "Author-email": "aleksey.bilogur@gmail.com",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "matplotlib, numpy, scipy, seaborn",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153308_499231",
+    "my_timing_stop_time": "20240819_153330_452701"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "CacheControl",
+    "Version": "0.14.0",
+    "Summary": "httplib2 caching for requests",
+    "Home-page": "https://pypi.org/project/CacheControl/",
+    "Author": "",
+    "Author-email": "Eric Larson <ericlarson@ionrock.com>, Frost Ming <me@frostming.com>, William Woodruff <william@yossarian.net>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "msgpack, requests",
+    "Required-by": "firebase-admin",
+    "my_timing_start_time": "20240819_152325_885900",
+    "my_timing_stop_time": "20240819_152349_384521"
+}

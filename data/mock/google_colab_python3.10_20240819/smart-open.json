@@ -1,0 +1,14 @@
+{
+    "Name": "smart-open",
+    "Version": "7.0.4",
+    "Summary": "Utils for streaming large files (S3, HDFS, GCS, Azure Blob Storage, gzip, bz2...)",
+    "Home-page": "https://github.com/piskvorky/smart_open",
+    "Author": "Radim Rehurek",
+    "Author-email": "me@radimrehurek.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "wrapt",
+    "Required-by": "gensim, weasel",
+    "my_timing_start_time": "20240819_154003_282683",
+    "my_timing_stop_time": "20240819_154026_314337"
+}

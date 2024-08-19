@@ -1,0 +1,14 @@
+{
+    "Name": "pyperclip",
+    "Version": "1.9.0",
+    "Summary": "A cross-platform clipboard module for Python. (Only handles plain text for now.)",
+    "Home-page": "https://github.com/asweigart/pyperclip",
+    "Author": "Al Sweigart",
+    "Author-email": "al@inventwithpython.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_153754_091752",
+    "my_timing_stop_time": "20240819_153816_201843"
+}

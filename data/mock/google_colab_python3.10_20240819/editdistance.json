@@ -1,0 +1,14 @@
+{
+    "Name": "editdistance",
+    "Version": "0.8.1",
+    "Summary": "Fast implementation of the edit distance (Levenshtein distance)",
+    "Home-page": "https://github.com/roy-ht/editdistance",
+    "Author": "",
+    "Author-email": "Hiroyuki Tanaka <aflc0x@gmail.com>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152557_668810",
+    "my_timing_stop_time": "20240819_152620_556677"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "tblib",
+    "Version": "3.0.0",
+    "Summary": "Traceback serialization library.",
+    "Home-page": "https://github.com/ionelmc/python-tblib",
+    "Author": "Ionel Cristian M\u0103rie\u0219",
+    "Author-email": "contact@ionelmc.ro",
+    "License": "BSD-2-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "distributed",
+    "my_timing_start_time": "20240819_154124_668716",
+    "my_timing_stop_time": "20240819_154147_475496"
+}

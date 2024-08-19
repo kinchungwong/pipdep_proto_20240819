@@ -1,0 +1,14 @@
+{
+    "Name": "param",
+    "Version": "2.1.1",
+    "Summary": "Make your Python code clearer and more reliable by declaring Parameters.",
+    "Home-page": "https://param.holoviz.org/",
+    "Author": "",
+    "Author-email": "HoloViz <developers@holoviz.org>",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "holoviews, panel, pyviz_comms",
+    "my_timing_start_time": "20240819_153523_531260",
+    "my_timing_stop_time": "20240819_153544_838382"
+}

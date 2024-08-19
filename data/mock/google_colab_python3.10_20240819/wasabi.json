@@ -1,0 +1,14 @@
+{
+    "Name": "wasabi",
+    "Version": "1.1.3",
+    "Summary": "A lightweight console printing and formatting toolkit",
+    "Home-page": "https://github.com/explosion/wasabi",
+    "Author": "Explosion",
+    "Author-email": "contact@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "spacy, thinc, weasel",
+    "my_timing_start_time": "20240819_154339_516914",
+    "my_timing_stop_time": "20240819_154401_775857"
+}

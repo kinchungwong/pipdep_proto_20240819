@@ -1,0 +1,14 @@
+{
+    "Name": "mizani",
+    "Version": "0.9.3",
+    "Summary": "Scales for Python",
+    "Home-page": "https://mizani.readthedocs.io/en/stable",
+    "Author": "",
+    "Author-email": "Hassan Kibirige <has2k1@gmail.com>",
+    "License": "Copyright (c) 2016, Hassan Kibirige",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "matplotlib, numpy, pandas, scipy",
+    "Required-by": "plotnine",
+    "my_timing_start_time": "20240819_153310_787184",
+    "my_timing_stop_time": "20240819_153331_347948"
+}

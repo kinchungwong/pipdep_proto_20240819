@@ -1,0 +1,14 @@
+{
+    "Name": "locket",
+    "Version": "1.0.0",
+    "Summary": "File-based locks for Python on Linux and Windows",
+    "Home-page": "http://github.com/mwilliamson/locket.py",
+    "Author": "Michael Williamson",
+    "Author-email": "mike@zwobble.org",
+    "License": "BSD-2-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "distributed, partd",
+    "my_timing_start_time": "20240819_153226_358191",
+    "my_timing_stop_time": "20240819_153246_731256"
+}

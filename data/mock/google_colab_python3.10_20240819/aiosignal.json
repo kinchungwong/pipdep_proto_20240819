@@ -1,0 +1,14 @@
+{
+    "Name": "aiosignal",
+    "Version": "1.3.1",
+    "Summary": "aiosignal: a list of registered asynchronous callbacks",
+    "Home-page": "https://github.com/aio-libs/aiosignal",
+    "Author": "",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "frozenlist",
+    "Required-by": "aiohttp",
+    "my_timing_start_time": "20240819_152157_790944",
+    "my_timing_stop_time": "20240819_152220_866670"
+}

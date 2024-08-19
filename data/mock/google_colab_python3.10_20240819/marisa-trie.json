@@ -1,0 +1,14 @@
+{
+    "Name": "marisa-trie",
+    "Version": "1.2.0",
+    "Summary": "Static memory-efficient and fast Trie-like structures for Python.",
+    "Home-page": "https://github.com/pytries/marisa-trie",
+    "Author": "Mikhail Korobov",
+    "Author-email": "kmike84@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "setuptools",
+    "Required-by": "language_data",
+    "my_timing_start_time": "20240819_153228_060126",
+    "my_timing_stop_time": "20240819_153249_903214"
+}

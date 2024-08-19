@@ -1,0 +1,14 @@
+{
+    "Name": "python-dateutil",
+    "Version": "2.8.2",
+    "Summary": "Extensions to the standard Python datetime module",
+    "Home-page": "https://github.com/dateutil/dateutil",
+    "Author": "Gustavo Niemeyer",
+    "Author-email": "gustavo@niemeyer.net",
+    "License": "Dual License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "six",
+    "Required-by": "google-cloud-bigquery, holidays, ibis-framework, ipyparallel, jupyter-client, kaggle, matplotlib, pandas",
+    "my_timing_start_time": "20240819_153820_400737",
+    "my_timing_stop_time": "20240819_153844_454546"
+}

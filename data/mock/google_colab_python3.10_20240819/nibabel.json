@@ -1,0 +1,14 @@
+{
+    "Name": "nibabel",
+    "Version": "5.0.1",
+    "Summary": "Access a multitude of neuroimaging data formats",
+    "Home-page": "https://nipy.org/nibabel",
+    "Author": "",
+    "Author-email": "NiBabel developers <neuroimaging@python.org>",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, packaging, setuptools",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153409_744366",
+    "my_timing_stop_time": "20240819_153432_542801"
+}

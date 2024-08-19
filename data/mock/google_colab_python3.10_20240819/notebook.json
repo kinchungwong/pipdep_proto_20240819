@@ -1,0 +1,14 @@
+{
+    "Name": "notebook",
+    "Version": "6.5.5",
+    "Summary": "A web-based notebook environment for interactive computing",
+    "Home-page": "http://jupyter.org",
+    "Author": "Jupyter Development Team",
+    "Author-email": "jupyter@googlegroups.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "argon2-cffi, ipykernel, ipython-genutils, jinja2, jupyter-client, jupyter-core, nbclassic, nbconvert, nbformat, nest-asyncio, prometheus-client, pyzmq, Send2Trash, terminado, tornado, traitlets",
+    "Required-by": "google-colab, widgetsnbextension",
+    "my_timing_start_time": "20240819_153414_459926",
+    "my_timing_stop_time": "20240819_153437_568429"
+}

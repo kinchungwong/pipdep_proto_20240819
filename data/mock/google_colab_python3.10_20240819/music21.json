@@ -1,0 +1,14 @@
+{
+    "Name": "music21",
+    "Version": "9.1.0",
+    "Summary": "A Toolkit for Computer-Aided Musical Analysis and Computational Musicology.",
+    "Home-page": "https://github.com/cuthbertLab/music21",
+    "Author": "",
+    "Author-email": "Michael Scott Asato Cuthbert <michael.asato.cuthbert@gmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "chardet, joblib, jsonpickle, matplotlib, more-itertools, numpy, requests, webcolors",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153333_126492",
+    "my_timing_stop_time": "20240819_153354_950849"
+}

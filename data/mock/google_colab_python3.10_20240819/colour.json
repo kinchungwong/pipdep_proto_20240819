@@ -1,0 +1,14 @@
+{
+    "Name": "colour",
+    "Version": "0.1.5",
+    "Summary": "converts and manipulates various color representation (HSL, RVB, web, X11, ...)",
+    "Home-page": "http://github.com/vaab/colour",
+    "Author": "Valentin LAB",
+    "Author-email": "valentin.lab@kalysto.org",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_152414_058109",
+    "my_timing_stop_time": "20240819_152434_298571"
+}

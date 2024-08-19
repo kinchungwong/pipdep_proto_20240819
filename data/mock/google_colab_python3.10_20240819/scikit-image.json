@@ -1,0 +1,14 @@
+{
+    "Name": "scikit-image",
+    "Version": "0.23.2",
+    "Summary": "Image processing in Python",
+    "Home-page": "https://scikit-image.org",
+    "Author": "",
+    "Author-email": "",
+    "License": "Files: *",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "imageio, lazy-loader, networkx, numpy, packaging, pillow, scipy, tifffile",
+    "Required-by": "albumentations, imgaug",
+    "my_timing_start_time": "20240819_153922_080210",
+    "my_timing_stop_time": "20240819_153942_567747"
+}

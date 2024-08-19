@@ -1,0 +1,14 @@
+{
+    "Name": "tomlkit",
+    "Version": "0.13.0",
+    "Summary": "Style preserving TOML library",
+    "Home-page": "https://github.com/sdispater/tomlkit",
+    "Author": "S\u00e9bastien Eustace",
+    "Author-email": "sebastien@eustace.io",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "snowflake-connector-python",
+    "my_timing_start_time": "20240819_154232_758577",
+    "my_timing_stop_time": "20240819_154253_496115"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "multitasking",
+    "Version": "0.0.11",
+    "Summary": "Non-blocking Python methods using decorators",
+    "Home-page": "https://github.com/ranaroussi/multitasking",
+    "Author": "Ran Aroussi",
+    "Author-email": "ran@aroussi.com",
+    "License": "Apache",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "yfinance",
+    "my_timing_start_time": "20240819_153331_365472",
+    "my_timing_stop_time": "20240819_153352_380463"
+}

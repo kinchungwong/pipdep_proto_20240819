@@ -1,0 +1,14 @@
+{
+    "Name": "fastdownload",
+    "Version": "0.0.7",
+    "Summary": "A general purpose data downloading library.",
+    "Home-page": "https://github.com/fastai/fastdownload/tree/master/",
+    "Author": "Jeremy Howard",
+    "Author-email": "info@fast.ai",
+    "License": "Apache Software License 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "fastcore, fastprogress",
+    "Required-by": "fastai",
+    "my_timing_start_time": "20240819_152621_886766",
+    "my_timing_stop_time": "20240819_152643_713065"
+}

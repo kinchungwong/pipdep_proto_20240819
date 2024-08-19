@@ -1,0 +1,14 @@
+{
+    "Name": "terminado",
+    "Version": "0.18.1",
+    "Summary": "Tornado websocket backend for the Xterm.js Javascript terminal emulator library.",
+    "Home-page": "https://github.com/jupyter/terminado",
+    "Author": "",
+    "Author-email": "Jupyter Development Team <jupyter@googlegroups.com>",
+    "License": "BSD 2-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ptyprocess, tornado",
+    "Required-by": "jupyter-server, notebook",
+    "my_timing_start_time": "20240819_154152_701100",
+    "my_timing_stop_time": "20240819_154215_765494"
+}

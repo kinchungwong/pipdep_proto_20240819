@@ -1,0 +1,14 @@
+{
+    "Name": "jeepney",
+    "Version": "0.7.1",
+    "Summary": "Low-level, pure Python DBus protocol wrapper.",
+    "Home-page": "https://gitlab.com/takluyver/jeepney",
+    "Author": "Thomas Kluyver",
+    "Author-email": "thomas@kluyver.me.uk",
+    "License": "",
+    "Location": "/usr/lib/python3/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153059_609192",
+    "my_timing_stop_time": "20240819_153123_303382"
+}

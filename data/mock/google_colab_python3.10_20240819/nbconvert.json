@@ -1,0 +1,14 @@
+{
+    "Name": "nbconvert",
+    "Version": "6.5.4",
+    "Summary": "Converting Jupyter Notebooks",
+    "Home-page": "https://jupyter.org",
+    "Author": "Jupyter Development Team",
+    "Author-email": "jupyter@googlegroups.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "beautifulsoup4, bleach, defusedxml, entrypoints, jinja2, jupyter-core, jupyterlab-pygments, lxml, MarkupSafe, mistune, nbclient, nbformat, packaging, pandocfilters, pygments, tinycss2, traitlets",
+    "Required-by": "jupyter-server, notebook",
+    "my_timing_start_time": "20240819_153352_181934",
+    "my_timing_stop_time": "20240819_153415_854637"
+}

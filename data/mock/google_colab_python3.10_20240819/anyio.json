@@ -1,0 +1,14 @@
+{
+    "Name": "anyio",
+    "Version": "3.7.1",
+    "Summary": "High level compatibility layer for multiple asynchronous event loop implementations",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Alex Gr\u00f6nholm <alex.gronholm@nextday.fi>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "exceptiongroup, idna, sniffio",
+    "Required-by": "jupyter-server",
+    "my_timing_start_time": "20240819_152220_605347",
+    "my_timing_stop_time": "20240819_152242_469452"
+}

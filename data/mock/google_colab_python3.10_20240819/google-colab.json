@@ -1,0 +1,14 @@
+{
+    "Name": "google-colab",
+    "Version": "1.0.0",
+    "Summary": "Google Colaboratory tools",
+    "Home-page": "https://colaboratory.research.google.com/",
+    "Author": "Google Colaboratory team",
+    "Author-email": "colaboratory-team@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-auth, ipykernel, ipyparallel, ipython, notebook, pandas, portpicker, requests, tornado",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152832_563442",
+    "my_timing_stop_time": "20240819_152853_809063"
+}

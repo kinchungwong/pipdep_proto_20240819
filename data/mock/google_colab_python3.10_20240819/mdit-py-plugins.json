@@ -1,0 +1,14 @@
+{
+    "Name": "mdit-py-plugins",
+    "Version": "0.4.1",
+    "Summary": "Collection of plugins for markdown-it-py",
+    "Home-page": "https://github.com/executablebooks/mdit-py-plugins",
+    "Author": "",
+    "Author-email": "Chris Sewell <chrisj_sewell@hotmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "markdown-it-py",
+    "Required-by": "panel",
+    "my_timing_start_time": "20240819_153249_296871",
+    "my_timing_stop_time": "20240819_153311_821561"
+}

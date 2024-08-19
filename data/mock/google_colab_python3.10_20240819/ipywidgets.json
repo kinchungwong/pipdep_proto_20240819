@@ -1,0 +1,14 @@
+{
+    "Name": "ipywidgets",
+    "Version": "7.7.1",
+    "Summary": "IPython HTML widgets for Jupyter",
+    "Home-page": "http://ipython.org",
+    "Author": "IPython Development Team",
+    "Author-email": "ipython-dev@scipy.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ipykernel, ipython, ipython-genutils, jupyterlab-widgets, traitlets, widgetsnbextension",
+    "Required-by": "bigframes, bqplot, cufflinks, ipyevents, ipyfilechooser, ipyleaflet, ipytree",
+    "my_timing_start_time": "20240819_153057_462661",
+    "my_timing_stop_time": "20240819_153121_722614"
+}

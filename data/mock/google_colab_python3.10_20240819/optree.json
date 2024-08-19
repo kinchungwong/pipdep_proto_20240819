@@ -1,0 +1,14 @@
+{
+    "Name": "optree",
+    "Version": "0.12.1",
+    "Summary": "Optimized PyTree Utilities.",
+    "Home-page": "https://github.com/metaopt/optree",
+    "Author": "OpTree Contributors",
+    "Author-email": "Xuehai Pan <XuehaiPan@pku.edu.cn>, Jie Ren <jieren9806@gmail.com>",
+    "License": "Apache License, Version 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "typing-extensions",
+    "Required-by": "keras",
+    "my_timing_start_time": "20240819_153457_119427",
+    "my_timing_stop_time": "20240819_153518_714071"
+}

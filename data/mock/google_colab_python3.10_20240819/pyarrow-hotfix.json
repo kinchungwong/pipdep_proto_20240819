@@ -1,0 +1,14 @@
+{
+    "Name": "pyarrow-hotfix",
+    "Version": "0.6",
+    "Summary": "",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Antoine Pitrou <antoine@python.org>",
+    "License": "Apache License, Version 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ibis-framework",
+    "my_timing_start_time": "20240819_153650_412741",
+    "my_timing_stop_time": "20240819_153710_657169"
+}

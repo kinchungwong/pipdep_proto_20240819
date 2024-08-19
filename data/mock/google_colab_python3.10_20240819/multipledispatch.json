@@ -1,0 +1,14 @@
+{
+    "Name": "multipledispatch",
+    "Version": "1.0.0",
+    "Summary": "Multiple dispatch",
+    "Home-page": "http://github.com/mrocklin/multipledispatch/",
+    "Author": "Matthew Rocklin",
+    "Author-email": "mrocklin@gmail.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "etuples, ibis-framework, logical-unification, miniKanren",
+    "my_timing_start_time": "20240819_153331_152309",
+    "my_timing_stop_time": "20240819_153351_913510"
+}

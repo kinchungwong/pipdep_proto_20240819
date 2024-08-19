@@ -1,0 +1,14 @@
+{
+    "Name": "docutils",
+    "Version": "0.18.1",
+    "Summary": "Docutils -- Python Documentation Utilities",
+    "Home-page": "http://docutils.sourceforge.net/",
+    "Author": "David Goodger",
+    "Author-email": "goodger@python.org",
+    "License": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "Sphinx",
+    "my_timing_start_time": "20240819_152537_600058",
+    "my_timing_stop_time": "20240819_152559_386413"
+}

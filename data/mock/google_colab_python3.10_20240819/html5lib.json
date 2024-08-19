@@ -1,0 +1,14 @@
+{
+    "Name": "html5lib",
+    "Version": "1.1",
+    "Summary": "HTML parser based on the WHATWG HTML specification",
+    "Home-page": "https://github.com/html5lib/html5lib-python",
+    "Author": "",
+    "Author-email": "",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "six, webencodings",
+    "Required-by": "yfinance",
+    "my_timing_start_time": "20240819_152933_404601",
+    "my_timing_stop_time": "20240819_152953_910944"
+}

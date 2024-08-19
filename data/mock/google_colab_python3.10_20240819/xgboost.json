@@ -1,0 +1,14 @@
+{
+    "Name": "xgboost",
+    "Version": "2.1.1",
+    "Summary": "XGBoost Python Package",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Hyunsu Cho <chohyu01@cs.washington.edu>, Jiaming Yuan <jm.yuan@outlook.com>",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, nvidia-nccl-cu12, scipy",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154409_298881",
+    "my_timing_stop_time": "20240819_154429_840607"
+}

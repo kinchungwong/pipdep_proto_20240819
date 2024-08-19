@@ -1,0 +1,14 @@
+{
+    "Name": "greenlet",
+    "Version": "3.0.3",
+    "Summary": "Lightweight in-process concurrent programming",
+    "Home-page": "https://greenlet.readthedocs.io/",
+    "Author": "Alexey Borzenkov",
+    "Author-email": "snaury@gmail.com",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "SQLAlchemy",
+    "my_timing_start_time": "20240819_152853_992987",
+    "my_timing_stop_time": "20240819_152915_274990"
+}

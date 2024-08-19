@@ -1,0 +1,14 @@
+{
+    "Name": "grpcio",
+    "Version": "1.64.1",
+    "Summary": "HTTP/2-based RPC framework",
+    "Home-page": "https://grpc.io",
+    "Author": "The gRPC Authors",
+    "Author-email": "grpc-io@googlegroups.com",
+    "License": "Apache License 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "google-cloud-pubsub, grpc-google-iam-v1, grpcio-status, tensorboard, tensorflow",
+    "my_timing_start_time": "20240819_152911_014322",
+    "my_timing_stop_time": "20240819_152932_469569"
+}

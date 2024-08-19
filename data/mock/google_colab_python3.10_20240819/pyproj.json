@@ -1,0 +1,14 @@
+{
+    "Name": "pyproj",
+    "Version": "3.6.1",
+    "Summary": "Python interface to PROJ (cartographic projections and coordinate transformations library)",
+    "Home-page": "https://github.com/pyproj4/pyproj",
+    "Author": "",
+    "Author-email": "Jeff Whitaker <jeffrey.s.whitaker@noaa.gov>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "certifi",
+    "Required-by": "geopandas",
+    "my_timing_start_time": "20240819_153758_155114",
+    "my_timing_stop_time": "20240819_153820_392223"
+}

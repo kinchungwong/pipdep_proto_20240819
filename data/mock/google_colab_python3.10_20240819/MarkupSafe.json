@@ -1,0 +1,14 @@
+{
+    "Name": "MarkupSafe",
+    "Version": "2.1.5",
+    "Summary": "Safely add untrusted strings to HTML/XML markup.",
+    "Home-page": "https://palletsprojects.com/p/markupsafe/",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "Jinja2, nbconvert, Werkzeug",
+    "my_timing_start_time": "20240819_153246_743603",
+    "my_timing_stop_time": "20240819_153308_584513"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "nbclient",
+    "Version": "0.10.0",
+    "Summary": "A client library for executing notebooks. Formerly nbconvert's ExecutePreprocessor.",
+    "Home-page": "https://jupyter.org",
+    "Author": "",
+    "Author-email": "Jupyter Development Team <jupyter@googlegroups.com>",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "jupyter-client, jupyter-core, nbformat, traitlets",
+    "Required-by": "nbconvert",
+    "my_timing_start_time": "20240819_153351_924719",
+    "my_timing_stop_time": "20240819_153414_874016"
+}

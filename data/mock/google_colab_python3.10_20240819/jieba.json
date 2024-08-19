@@ -1,0 +1,14 @@
+{
+    "Name": "jieba",
+    "Version": "0.42.1",
+    "Summary": "Chinese Words Segmentation Utilities",
+    "Home-page": "https://github.com/fxsjy/jieba",
+    "Author": "Sun, Junyi",
+    "Author-email": "ccnusjy@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153059_999243",
+    "my_timing_stop_time": "20240819_153123_161699"
+}

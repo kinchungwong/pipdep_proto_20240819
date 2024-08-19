@@ -1,0 +1,14 @@
+{
+    "Name": "uc-micro-py",
+    "Version": "1.0.3",
+    "Summary": "Micro subset of unicode data files for linkify-it-py projects.",
+    "Home-page": "https://github.com/tsutsu3/uc.micro-py",
+    "Author": "tsutsu3",
+    "Author-email": "",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "linkify-it-py",
+    "my_timing_start_time": "20240819_154321_743250",
+    "my_timing_stop_time": "20240819_154342_929439"
+}

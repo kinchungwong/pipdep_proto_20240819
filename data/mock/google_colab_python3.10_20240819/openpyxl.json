@@ -1,0 +1,14 @@
+{
+    "Name": "openpyxl",
+    "Version": "3.1.5",
+    "Summary": "A Python library to read/write Excel 2010 xlsx/xlsm files",
+    "Home-page": "https://openpyxl.readthedocs.io",
+    "Author": "See AUTHORS",
+    "Author-email": "charlie.clark@clark-consulting.eu",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "et-xmlfile",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153438_414381",
+    "my_timing_stop_time": "20240819_153502_256930"
+}

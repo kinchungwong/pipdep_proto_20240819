@@ -1,0 +1,14 @@
+{
+    "Name": "cloudpathlib",
+    "Version": "0.18.1",
+    "Summary": "pathlib-style classes for cloud storage services.",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "DrivenData <info@drivendata.org>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "typing_extensions",
+    "Required-by": "weasel",
+    "my_timing_start_time": "20240819_152411_686651",
+    "my_timing_stop_time": "20240819_152432_072607"
+}

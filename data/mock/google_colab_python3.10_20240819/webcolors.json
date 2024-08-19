@@ -1,0 +1,14 @@
+{
+    "Name": "webcolors",
+    "Version": "24.6.0",
+    "Summary": "A library for working with the color formats defined by HTML and CSS.",
+    "Home-page": "https://github.com/ubernostrum/webcolors",
+    "Author": "",
+    "Author-email": "James Bennett <james@b-list.org>",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "music21",
+    "my_timing_start_time": "20240819_154342_987436",
+    "my_timing_stop_time": "20240819_154405_506603"
+}

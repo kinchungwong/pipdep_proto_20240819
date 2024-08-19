@@ -1,0 +1,14 @@
+{
+    "Name": "attrs",
+    "Version": "24.2.0",
+    "Summary": "Classes Without Boilerplate",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Hynek Schlawack <hs@ox.cx>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "aiohttp, fiona, jsonschema, referencing",
+    "my_timing_start_time": "20240819_152242_477994",
+    "my_timing_stop_time": "20240819_152305_111257"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "py-cpuinfo",
+    "Version": "9.0.0",
+    "Summary": "Get CPU info with pure Python",
+    "Home-page": "https://github.com/workhorsy/py-cpuinfo",
+    "Author": "Matthew Brennan Jones",
+    "Author-email": "matthew.brennan.jones@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "tables",
+    "my_timing_start_time": "20240819_153649_815978",
+    "my_timing_stop_time": "20240819_153710_498435"
+}

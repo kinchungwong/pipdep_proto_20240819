@@ -1,0 +1,14 @@
+{
+    "Name": "array_record",
+    "Version": "0.5.1",
+    "Summary": "A file format that achieves a new frontier of IO efficiency",
+    "Home-page": "https://github.com/google/array_record",
+    "Author": "ArrayRecord team",
+    "Author-email": "no-reply@google.com",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, etils",
+    "Required-by": "tensorflow-datasets",
+    "my_timing_start_time": "20240819_152220_894854",
+    "my_timing_stop_time": "20240819_152242_552283"
+}

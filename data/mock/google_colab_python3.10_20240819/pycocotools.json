@@ -1,0 +1,14 @@
+{
+    "Name": "pycocotools",
+    "Version": "2.0.8",
+    "Summary": "Official APIs for the MS-COCO dataset",
+    "Home-page": "https://github.com/ppwwyyxx/cocoapi",
+    "Author": "",
+    "Author-email": "",
+    "License": "FreeBSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "matplotlib, numpy",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153707_958230",
+    "my_timing_stop_time": "20240819_153727_961846"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "python-utils",
+    "Version": "3.8.2",
+    "Summary": "Python Utils is a module with some convenient utilities not included with the standard Python install",
+    "Home-page": "https://github.com/WoLpH/python-utils",
+    "Author": "Rick van Hattem",
+    "Author-email": "Wolph@wol.ph",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "typing-extensions",
+    "Required-by": "progressbar2",
+    "my_timing_start_time": "20240819_153837_441968",
+    "my_timing_stop_time": "20240819_153858_937940"
+}

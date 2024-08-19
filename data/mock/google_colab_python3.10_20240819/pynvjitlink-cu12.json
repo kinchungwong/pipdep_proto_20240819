@@ -1,0 +1,14 @@
+{
+    "Name": "pynvjitlink-cu12",
+    "Version": "0.3.0",
+    "Summary": "nvJitLink Python binding",
+    "Home-page": "https://rapids.ai/",
+    "Author": "NVIDIA Corporation",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "cudf-cu12",
+    "my_timing_start_time": "20240819_153751_789625",
+    "my_timing_stop_time": "20240819_153813_845932"
+}

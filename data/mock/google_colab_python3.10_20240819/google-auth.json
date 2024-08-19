@@ -1,0 +1,14 @@
+{
+    "Name": "google-auth",
+    "Version": "2.27.0",
+    "Summary": "Google Authentication Library",
+    "Home-page": "https://github.com/googleapis/google-auth-library-python",
+    "Author": "Google Cloud Platform",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cachetools, pyasn1-modules, rsa",
+    "Required-by": "bigframes, earthengine-api, gcsfs, google-ai-generativelanguage, google-api-core, google-api-python-client, google-auth-httplib2, google-auth-oauthlib, google-cloud-aiplatform, google-cloud-bigquery, google-cloud-bigquery-connection, google-cloud-bigquery-storage, google-cloud-bigtable, google-cloud-core, google-cloud-firestore, google-cloud-functions, google-cloud-iam, google-cloud-language, google-cloud-pubsub, google-cloud-resource-manager, google-cloud-storage, google-cloud-translate, google-colab, google-generativeai, gspread, pandas-gbq, pydata-google-auth",
+    "my_timing_start_time": "20240819_152749_534917",
+    "my_timing_stop_time": "20240819_152810_795948"
+}

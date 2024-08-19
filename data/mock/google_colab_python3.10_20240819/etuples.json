@@ -1,0 +1,14 @@
+{
+    "Name": "etuples",
+    "Version": "0.3.9",
+    "Summary": "Python S-expression emulation using tuple-like objects.",
+    "Home-page": "http://github.com/pythological/etuples",
+    "Author": "",
+    "Author-email": "",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cons, multipledispatch",
+    "Required-by": "miniKanren, pytensor",
+    "my_timing_start_time": "20240819_152616_851593",
+    "my_timing_stop_time": "20240819_152640_821799"
+}

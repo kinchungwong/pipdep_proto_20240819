@@ -1,0 +1,14 @@
+{
+    "Name": "clarabel",
+    "Version": "0.9.0",
+    "Summary": "Clarabel Conic Interior Point Solver for Rust / Python",
+    "Home-page": "",
+    "Author": "Paul Goulart <paul.goulart@eng.ox.ac.uk>",
+    "Author-email": "Paul Goulart <paul.goulart@eng.ox.ac.uk>",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, scipy",
+    "Required-by": "cvxpy",
+    "my_timing_start_time": "20240819_152349_920286",
+    "my_timing_stop_time": "20240819_152412_808971"
+}

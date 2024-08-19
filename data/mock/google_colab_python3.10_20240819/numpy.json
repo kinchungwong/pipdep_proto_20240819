@@ -1,0 +1,14 @@
+{
+    "Name": "numpy",
+    "Version": "1.26.4",
+    "Summary": "Fundamental package for array computing in Python",
+    "Home-page": "https://numpy.org",
+    "Author": "Travis E. Oliphant et al.",
+    "Author-email": "",
+    "License": "Copyright (c) 2005-2023, NumPy Developers.",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "accelerate, albucore, albumentations, altair, arviz, astropy, autograd, blis, bokeh, bqplot, chex, clarabel, cmdstanpy, contourpy, cudf-cu12, cufflinks, cupy-cuda12x, cvxpy, datascience, db-dtypes, dopamine_rl, ecos, flax, folium, geemap, gensim, geopandas, gym, h5py, holoviews, hyperopt, ibis-framework, imageio, imbalanced-learn, imgaug, jax, jaxlib, keras, librosa, lightgbm, matplotlib, matplotlib-venn, missingno, mizani, ml-dtypes, mlxtend, moviepy, music21, nibabel, numba, numexpr, opencv-contrib-python, opencv-python, opencv-python-headless, opt-einsum, optax, orbax-checkpoint, osqp, pandas, pandas-gbq, pandas-stubs, patsy, plotnine, prophet, pyarrow, pycocotools, pyerfa, pymc, pytensor, python-louvain, qdldl, rmm-cu12, scikit-image, scikit-learn, scipy, scs, seaborn, shapely, sklearn-pandas, soxr, spacy, stanio, statsmodels, tables, tensorboard, tensorflow, tensorflow-datasets, tensorflow-hub, tensorflow-probability, tensorstore, thinc, tifffile, torchtext, torchvision, transformers, wordcloud, xarray, xarray-einstats, xgboost, yellowbrick, yfinance",
+    "my_timing_start_time": "20240819_153417_975651",
+    "my_timing_stop_time": "20240819_153440_450599"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "tensorflow-probability",
+    "Version": "0.24.0",
+    "Summary": "Probabilistic modeling and statistical inference in TensorFlow",
+    "Home-page": "http://github.com/tensorflow/probability",
+    "Author": "Google LLC",
+    "Author-email": "no-reply@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, cloudpickle, decorator, dm-tree, gast, numpy, six",
+    "Required-by": "dopamine_rl",
+    "my_timing_start_time": "20240819_154149_133467",
+    "my_timing_stop_time": "20240819_154213_061879"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "PyJWT",
+    "Version": "2.9.0",
+    "Summary": "JSON Web Token implementation in Python",
+    "Home-page": "https://github.com/jpadilla/pyjwt",
+    "Author": "Jose Padilla",
+    "Author-email": "hello@jpadilla.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "firebase-admin, snowflake-connector-python",
+    "my_timing_start_time": "20240819_153735_878774",
+    "my_timing_stop_time": "20240819_153758_145894"
+}

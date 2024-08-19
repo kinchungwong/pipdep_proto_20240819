@@ -1,0 +1,14 @@
+{
+    "Name": "tinycss2",
+    "Version": "1.3.0",
+    "Summary": "A tiny CSS parser",
+    "Home-page": "https://www.courtbouillon.org/tinycss2",
+    "Author": "",
+    "Author-email": "Simon Sapin <simon.sapin@exyr.org>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "webencodings",
+    "Required-by": "nbconvert",
+    "my_timing_start_time": "20240819_154215_826326",
+    "my_timing_stop_time": "20240819_154237_701080"
+}

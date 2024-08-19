@@ -1,0 +1,14 @@
+{
+    "Name": "branca",
+    "Version": "0.7.2",
+    "Summary": "Generate complex HTML+JS pages with Python",
+    "Home-page": "https://github.com/python-visualization/branca",
+    "Author": "Martin Journois",
+    "Author-email": "",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "jinja2",
+    "Required-by": "datascience, folium, ipyleaflet",
+    "my_timing_start_time": "20240819_152325_607548",
+    "my_timing_stop_time": "20240819_152349_049930"
+}

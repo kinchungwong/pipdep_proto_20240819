@@ -1,0 +1,14 @@
+{
+    "Name": "datascience",
+    "Version": "0.17.6",
+    "Summary": "A Jupyter notebook Python library for introductory data science",
+    "Home-page": "https://github.com/data-8/datascience",
+    "Author": "John DeNero, David Culler, Alvin Wan, Sam Lau",
+    "Author-email": "ds8-instructors@berkeley.edu",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "branca, folium, ipython, matplotlib, numpy, pandas, plotly, scipy, setuptools",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152514_334068",
+    "my_timing_stop_time": "20240819_152536_030308"
+}

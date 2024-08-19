@@ -1,0 +1,14 @@
+{
+    "Name": "argon2-cffi-bindings",
+    "Version": "21.2.0",
+    "Summary": "Low-level CFFI bindings for Argon2",
+    "Home-page": "https://github.com/hynek/argon2-cffi-bindings",
+    "Author": "Hynek Schlawack",
+    "Author-email": "hs@ox.cx",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cffi",
+    "Required-by": "argon2-cffi",
+    "my_timing_start_time": "20240819_152220_796150",
+    "my_timing_stop_time": "20240819_152242_275643"
+}

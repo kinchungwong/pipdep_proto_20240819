@@ -1,0 +1,14 @@
+{
+    "Name": "tomli",
+    "Version": "2.0.1",
+    "Summary": "A lil' TOML parser",
+    "Home-page": "https://github.com/hukkin/tomli",
+    "Author": "",
+    "Author-email": "Taneli Hukkinen <hukkin@users.noreply.github.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "albucore, build, pip-tools, pytest",
+    "my_timing_start_time": "20240819_154222_216327",
+    "my_timing_stop_time": "20240819_154244_308509"
+}

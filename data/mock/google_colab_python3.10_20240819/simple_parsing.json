@@ -1,0 +1,14 @@
+{
+    "Name": "simple_parsing",
+    "Version": "0.1.5",
+    "Summary": "A small utility for simplifying and cleaning up argument parsing scripts.",
+    "Home-page": "https://github.com/lebrice/SimpleParsing",
+    "Author": "Fabrice Normandin",
+    "Author-email": "fabrice.normandin@gmail.com",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "docstring-parser, typing-extensions",
+    "Required-by": "tensorflow-datasets",
+    "my_timing_start_time": "20240819_153959_398996",
+    "my_timing_stop_time": "20240819_154020_028308"
+}

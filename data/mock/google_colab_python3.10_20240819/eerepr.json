@@ -1,0 +1,14 @@
+{
+    "Name": "eerepr",
+    "Version": "0.0.4",
+    "Summary": "Code Editor-style reprs for Earth Engine data in a Jupyter notebook.",
+    "Home-page": "https://github.com/aazuspan/eerepr",
+    "Author": "Aaron Zuspan",
+    "Author-email": "",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "earthengine-api",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_152558_010269",
+    "my_timing_stop_time": "20240819_152619_794326"
+}

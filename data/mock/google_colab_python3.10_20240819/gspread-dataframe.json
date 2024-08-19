@@ -1,0 +1,14 @@
+{
+    "Name": "gspread-dataframe",
+    "Version": "3.3.1",
+    "Summary": "Read/write gspread worksheets using pandas DataFrames",
+    "Home-page": "https://github.com/robin900/gspread-dataframe",
+    "Author": "Robin Thomas",
+    "Author-email": "rthomas900@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "gspread, pandas, six",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152913_990503",
+    "my_timing_stop_time": "20240819_152934_919704"
+}

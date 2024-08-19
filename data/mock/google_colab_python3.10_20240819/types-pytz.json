@@ -1,0 +1,14 @@
+{
+    "Name": "types-pytz",
+    "Version": "2024.1.0.20240417",
+    "Summary": "Typing stubs for pytz",
+    "Home-page": "https://github.com/python/typeshed",
+    "Author": "",
+    "Author-email": "",
+    "License": "Apache-2.0 license",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "pandas-stubs",
+    "my_timing_start_time": "20240819_154315_745715",
+    "my_timing_stop_time": "20240819_154336_909303"
+}

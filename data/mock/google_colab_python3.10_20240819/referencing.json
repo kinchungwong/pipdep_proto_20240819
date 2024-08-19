@@ -1,0 +1,14 @@
+{
+    "Name": "referencing",
+    "Version": "0.35.1",
+    "Summary": "JSON Referencing + Python",
+    "Home-page": "https://github.com/python-jsonschema/referencing",
+    "Author": "",
+    "Author-email": "Julian Berman <Julian+referencing@GrayVines.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "attrs, rpds-py",
+    "Required-by": "jsonschema, jsonschema-specifications",
+    "my_timing_start_time": "20240819_153855_702952",
+    "my_timing_stop_time": "20240819_153918_882343"
+}

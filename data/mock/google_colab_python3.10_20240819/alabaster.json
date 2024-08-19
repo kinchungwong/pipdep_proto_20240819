@@ -1,0 +1,14 @@
+{
+    "Name": "alabaster",
+    "Version": "0.7.16",
+    "Summary": "A light, configurable Sphinx theme",
+    "Home-page": "https://alabaster.readthedocs.io/",
+    "Author": "",
+    "Author-email": "Jeff Forcier <jeff@bitprophet.org>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "Sphinx",
+    "my_timing_start_time": "20240819_152157_792764",
+    "my_timing_stop_time": "20240819_152220_789399"
+}

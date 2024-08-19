@@ -1,0 +1,14 @@
+{
+    "Name": "python-box",
+    "Version": "7.2.0",
+    "Summary": "Advanced Python dictionaries with dot notation access",
+    "Home-page": "https://github.com/cdgriffith/Box",
+    "Author": "Chris Griffith",
+    "Author-email": "chris@cdgriffith.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_153816_210272",
+    "my_timing_stop_time": "20240819_153839_649614"
+}

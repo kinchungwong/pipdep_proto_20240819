@@ -1,0 +1,14 @@
+{
+    "Name": "launchpadlib",
+    "Version": "1.10.16",
+    "Summary": "Script Launchpad through its web services interfaces.  Officially supported.",
+    "Home-page": "https://help.launchpad.net/API/launchpadlib",
+    "Author": "The Launchpad developers",
+    "Author-email": "launchpadlib@lists.launchpad.net",
+    "License": "LGPL v3",
+    "Location": "/usr/lib/python3/dist-packages",
+    "Requires": "httplib2, keyring, lazr.restfulclient, lazr.uri, six",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153205_538912",
+    "my_timing_stop_time": "20240819_153225_357264"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "iniconfig",
+    "Version": "2.0.0",
+    "Summary": "brain-dead simple config-ini parsing",
+    "Home-page": "https://github.com/pytest-dev/iniconfig",
+    "Author": "",
+    "Author-email": "Ronny Pfannschmidt <opensource@ronnypfannschmidt.de>, Holger Krekel <holger.krekel@gmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "pytest",
+    "my_timing_start_time": "20240819_153017_955713",
+    "my_timing_stop_time": "20240819_153039_208037"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "qdldl",
+    "Version": "0.1.7.post4",
+    "Summary": "QDLDL, a free LDL factorization routine.",
+    "Home-page": "https://github.com/oxfordcontrol/qdldl-python/",
+    "Author": "Bartolomeo Stellato, Paul Goulart, Goran Banjac",
+    "Author-email": "bartolomeo.stellato@gmail.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, scipy",
+    "Required-by": "osqp",
+    "my_timing_start_time": "20240819_153844_558379",
+    "my_timing_stop_time": "20240819_153905_464012"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "pydantic",
+    "Version": "2.8.2",
+    "Summary": "Data validation using Python type hints",
+    "Home-page": "https://github.com/pydantic/pydantic",
+    "Author": "",
+    "Author-email": "Samuel Colvin <s@muelcolvin.com>, Eric Jolibois <em.jolibois@gmail.com>, Hasan Ramezani <hasan.r67@gmail.com>, Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Terrence Dorsey <terry@pydantic.dev>, David Montague <david@pydantic.dev>, Serge Matveenko <lig@countzero.co>, Marcelo Trylesinski <marcelotryle@gmail.com>, Sydney Runkle <sydneymarierunkle@gmail.com>, David Hewitt <mail@davidhewitt.io>, Alex Hall <alex.mojaki@gmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "annotated-types, pydantic-core, typing-extensions",
+    "Required-by": "albumentations, confection, google-cloud-aiplatform, google-generativeai, spacy, thinc, weasel",
+    "my_timing_start_time": "20240819_153710_092783",
+    "my_timing_stop_time": "20240819_153730_862455"
+}

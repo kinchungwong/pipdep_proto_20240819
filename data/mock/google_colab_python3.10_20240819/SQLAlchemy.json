@@ -1,0 +1,14 @@
+{
+    "Name": "SQLAlchemy",
+    "Version": "2.0.32",
+    "Summary": "Database Abstraction Library",
+    "Home-page": "https://www.sqlalchemy.org",
+    "Author": "Mike Bayer",
+    "Author-email": "mike_mp@zzzcomputing.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "greenlet, typing-extensions",
+    "Required-by": "bigframes, ipython-sql",
+    "my_timing_start_time": "20240819_154047_826258",
+    "my_timing_stop_time": "20240819_154107_716267"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "pymystem3",
+    "Version": "0.2.0",
+    "Summary": "Python wrapper for the Yandex MyStem 3.1 morpholocial analyzer of the Russian language.",
+    "Home-page": "https://github.com/nlpub/pymystem3",
+    "Author": "Denis Sukhonin",
+    "Author-email": "panchenko.alexander@gmail.com",
+    "License": "UNKNOWN",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "requests",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153748_435776",
+    "my_timing_stop_time": "20240819_153810_803924"
+}

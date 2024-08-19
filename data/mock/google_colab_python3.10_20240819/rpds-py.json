@@ -1,0 +1,14 @@
+{
+    "Name": "rpds-py",
+    "Version": "0.20.0",
+    "Summary": "Python bindings to Rust's persistent data structures (rpds)",
+    "Home-page": "https://github.com/crate-py/rpds",
+    "Author": "",
+    "Author-email": "Julian Berman <Julian+rpds@GrayVines.com>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "jsonschema, referencing",
+    "my_timing_start_time": "20240819_153918_097266",
+    "my_timing_stop_time": "20240819_153938_803889"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "ptyprocess",
+    "Version": "0.7.0",
+    "Summary": "Run a subprocess in a pseudo terminal",
+    "Home-page": "https://github.com/pexpect/ptyprocess",
+    "Author": "Thomas Kluyver",
+    "Author-email": "thomas@kluyver.me.uk",
+    "License": "UNKNOWN",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "pexpect, terminado",
+    "my_timing_start_time": "20240819_153648_643379",
+    "my_timing_stop_time": "20240819_153709_142608"
+}

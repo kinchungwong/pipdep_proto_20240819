@@ -1,0 +1,14 @@
+{
+    "Name": "six",
+    "Version": "1.16.0",
+    "Summary": "Python 2 and 3 compatibility utilities",
+    "Home-page": "https://github.com/benjaminp/six",
+    "Author": "Benjamin Peterson",
+    "Author-email": "benjamin@python.org",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "astunparse, bleach, cufflinks, fiona, geocoder, google-pasta, gspread-dataframe, html5lib, hyperopt, imgaug, ipython-sql, kaggle, launchpadlib, oauth2client, patsy, promise, PyDrive2, python-dateutil, tensorboard, tensorflow, tensorflow-probability",
+    "my_timing_start_time": "20240819_154001_710003",
+    "my_timing_stop_time": "20240819_154024_412487"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "tensorstore",
+    "Version": "0.1.64",
+    "Summary": "Read and write large, multi-dimensional arrays",
+    "Home-page": "https://github.com/google/tensorstore",
+    "Author": "Google Inc.",
+    "Author-email": "jbms@google.com",
+    "License": "Apache License 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ml-dtypes, numpy",
+    "Required-by": "flax, orbax-checkpoint",
+    "my_timing_start_time": "20240819_154150_036394",
+    "my_timing_stop_time": "20240819_154212_628507"
+}

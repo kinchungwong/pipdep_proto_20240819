@@ -1,0 +1,14 @@
+{
+    "Name": "filelock",
+    "Version": "3.15.4",
+    "Summary": "A platform independent file lock.",
+    "Home-page": "https://github.com/tox-dev/py-filelock",
+    "Author": "",
+    "Author-email": "",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "gdown, huggingface-hub, pytensor, snowflake-connector-python, torch, transformers, triton",
+    "my_timing_start_time": "20240819_152641_632268",
+    "my_timing_stop_time": "20240819_152701_466835"
+}

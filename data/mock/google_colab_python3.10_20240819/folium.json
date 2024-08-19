@@ -1,0 +1,14 @@
+{
+    "Name": "folium",
+    "Version": "0.17.0",
+    "Summary": "Make beautiful maps with Leaflet.js & Python",
+    "Home-page": "https://github.com/python-visualization/folium",
+    "Author": "Rob Story",
+    "Author-email": "wrobstory@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "branca, jinja2, numpy, requests, xyzservices",
+    "Required-by": "datascience, geemap",
+    "my_timing_start_time": "20240819_152643_771345",
+    "my_timing_stop_time": "20240819_152703_874052"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "pandocfilters",
+    "Version": "1.5.1",
+    "Summary": "Utilities for writing pandoc filters in python",
+    "Home-page": "http://github.com/jgm/pandocfilters",
+    "Author": "John MacFarlane",
+    "Author-email": "fiddlosopher@gmail.com",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "nbconvert",
+    "my_timing_start_time": "20240819_153518_723914",
+    "my_timing_stop_time": "20240819_153541_668320"
+}

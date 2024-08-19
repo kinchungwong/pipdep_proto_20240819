@@ -1,0 +1,14 @@
+{
+    "Name": "Sphinx",
+    "Version": "5.0.2",
+    "Summary": "Python documentation generator",
+    "Home-page": "https://www.sphinx-doc.org/",
+    "Author": "Georg Brandl",
+    "Author-email": "georg@python.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "alabaster, babel, docutils, imagesize, Jinja2, packaging, Pygments, requests, snowballstemmer, sphinxcontrib-applehelp, sphinxcontrib-devhelp, sphinxcontrib-htmlhelp, sphinxcontrib-jsmath, sphinxcontrib-qthelp, sphinxcontrib-serializinghtml",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154029_023998",
+    "my_timing_stop_time": "20240819_154049_955880"
+}

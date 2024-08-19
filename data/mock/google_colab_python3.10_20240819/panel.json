@@ -1,0 +1,14 @@
+{
+    "Name": "panel",
+    "Version": "1.4.5",
+    "Summary": "The powerful data exploration & web app framework for Python.",
+    "Home-page": "http://panel.holoviz.org",
+    "Author": "HoloViz",
+    "Author-email": "developers@holoviz.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "bleach, bokeh, linkify-it-py, markdown, markdown-it-py, mdit-py-plugins, pandas, param, pyviz-comms, requests, tqdm, typing-extensions, xyzservices",
+    "Required-by": "holoviews",
+    "my_timing_start_time": "20240819_153523_295212",
+    "my_timing_stop_time": "20240819_153544_570894"
+}

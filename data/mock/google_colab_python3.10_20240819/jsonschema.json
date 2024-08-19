@@ -1,0 +1,14 @@
+{
+    "Name": "jsonschema",
+    "Version": "4.23.0",
+    "Summary": "An implementation of JSON Schema validation for Python",
+    "Home-page": "https://github.com/python-jsonschema/jsonschema",
+    "Author": "",
+    "Author-email": "Julian Berman <Julian+jsonschema@GrayVines.com>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "attrs, jsonschema-specifications, referencing, rpds-py",
+    "Required-by": "altair, nbformat",
+    "my_timing_start_time": "20240819_153121_907389",
+    "my_timing_stop_time": "20240819_153144_026083"
+}

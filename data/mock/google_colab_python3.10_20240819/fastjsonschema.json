@@ -1,0 +1,14 @@
+{
+    "Name": "fastjsonschema",
+    "Version": "2.20.0",
+    "Summary": "Fastest Python implementation of JSON schema",
+    "Home-page": "https://github.com/horejsek/python-fastjsonschema",
+    "Author": "Michal Horejsek",
+    "Author-email": "fastjsonschema@horejsek.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "nbformat",
+    "my_timing_start_time": "20240819_152622_092379",
+    "my_timing_stop_time": "20240819_152643_747277"
+}

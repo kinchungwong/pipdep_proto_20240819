@@ -1,0 +1,14 @@
+{
+    "Name": "linkify-it-py",
+    "Version": "2.0.3",
+    "Summary": "Links recognition library with FULL unicode support.",
+    "Home-page": "https://github.com/tsutsu3/linkify-it-py",
+    "Author": "tsutsu3",
+    "Author-email": "",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "uc-micro-py",
+    "Required-by": "panel",
+    "my_timing_start_time": "20240819_153225_364386",
+    "my_timing_stop_time": "20240819_153246_185912"
+}

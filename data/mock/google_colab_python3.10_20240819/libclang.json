@@ -1,0 +1,14 @@
+{
+    "Name": "libclang",
+    "Version": "18.1.1",
+    "Summary": "Clang Python Bindings, mirrored from the official LLVM repo: https://github.com/llvm/llvm-project/tree/main/clang/bindings/python, to make the installation process easier.",
+    "Home-page": "https://github.com/sighingnow/libclang",
+    "Author": "Tao He",
+    "Author-email": "sighingnow@gmail.com",
+    "License": "Apache License 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "tensorflow",
+    "my_timing_start_time": "20240819_153207_687527",
+    "my_timing_stop_time": "20240819_153227_558368"
+}

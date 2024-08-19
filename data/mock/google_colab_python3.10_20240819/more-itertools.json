@@ -1,0 +1,14 @@
+{
+    "Name": "more-itertools",
+    "Version": "10.3.0",
+    "Summary": "More routines for operating on iterables, beyond itertools",
+    "Home-page": "https://github.com/more-itertools/more-itertools",
+    "Author": "",
+    "Author-email": "Erik Rose <erikrose@grinchcentral.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "inflect, music21",
+    "my_timing_start_time": "20240819_153312_714750",
+    "my_timing_stop_time": "20240819_153333_119785"
+}

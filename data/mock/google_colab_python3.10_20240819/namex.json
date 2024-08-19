@@ -1,0 +1,14 @@
+{
+    "Name": "namex",
+    "Version": "0.0.8",
+    "Summary": "A simple utility to separate the implementation of your Python package and its public API surface.",
+    "Home-page": "",
+    "Author": "Francois Chollet",
+    "Author-email": "francois.chollet@gmail.com",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "keras",
+    "my_timing_start_time": "20240819_153348_292795",
+    "my_timing_stop_time": "20240819_153409_737184"
+}

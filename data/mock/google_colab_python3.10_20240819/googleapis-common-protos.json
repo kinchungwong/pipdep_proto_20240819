@@ -1,0 +1,14 @@
+{
+    "Name": "googleapis-common-protos",
+    "Version": "1.63.2",
+    "Summary": "Common protobufs used in Google APIs",
+    "Home-page": "https://github.com/googleapis/python-api-common-protos",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "protobuf",
+    "Required-by": "google-api-core, grpc-google-iam-v1, grpcio-status",
+    "my_timing_start_time": "20240819_152850_952573",
+    "my_timing_stop_time": "20240819_152913_977538"
+}

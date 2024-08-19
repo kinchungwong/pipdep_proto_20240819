@@ -1,0 +1,14 @@
+{
+    "Name": "wheel",
+    "Version": "0.44.0",
+    "Summary": "A built-package format for Python",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Daniel Holth <dholth@fastmail.fm>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "astunparse, pip-tools",
+    "my_timing_start_time": "20240819_154400_251336",
+    "my_timing_stop_time": "20240819_154422_684720"
+}

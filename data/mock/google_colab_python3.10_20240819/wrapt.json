@@ -1,0 +1,14 @@
+{
+    "Name": "wrapt",
+    "Version": "1.16.0",
+    "Summary": "Module for decorators, wrappers and monkey patching.",
+    "Home-page": "https://github.com/GrahamDumpleton/wrapt",
+    "Author": "Graham Dumpleton",
+    "Author-email": "Graham.Dumpleton@gmail.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "smart-open, tensorflow, tensorflow-datasets",
+    "my_timing_start_time": "20240819_154405_524642",
+    "my_timing_stop_time": "20240819_154426_592406"
+}

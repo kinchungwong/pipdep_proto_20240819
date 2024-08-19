@@ -1,0 +1,14 @@
+{
+    "Name": "keyring",
+    "Version": "23.5.0",
+    "Summary": "Store and access your passwords safely.",
+    "Home-page": "https://github.com/jaraco/keyring",
+    "Author": "Kang Zhang",
+    "Author-email": "jobo.zh@gmail.com",
+    "License": "UNKNOWN",
+    "Location": "/usr/lib/python3/dist-packages",
+    "Requires": "",
+    "Required-by": "launchpadlib",
+    "my_timing_start_time": "20240819_153146_331277",
+    "my_timing_stop_time": "20240819_153207_779465"
+}

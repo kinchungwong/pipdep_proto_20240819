@@ -1,0 +1,14 @@
+{
+    "Name": "gym",
+    "Version": "0.25.2",
+    "Summary": "Gym: A universal API for reinforcement learning environments",
+    "Home-page": "https://www.gymlibrary.ml/",
+    "Author": "Gym Community",
+    "Author-email": "jkterry@umd.edu",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cloudpickle, gym-notices, numpy",
+    "Required-by": "dopamine_rl",
+    "my_timing_start_time": "20240819_152914_347067",
+    "my_timing_stop_time": "20240819_152935_218834"
+}

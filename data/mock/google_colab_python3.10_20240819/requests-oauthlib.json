@@ -1,0 +1,14 @@
+{
+    "Name": "requests-oauthlib",
+    "Version": "1.3.1",
+    "Summary": "OAuthlib authentication support for Requests.",
+    "Home-page": "https://github.com/requests/requests-oauthlib",
+    "Author": "Kenneth Reitz",
+    "Author-email": "me@kennethreitz.com",
+    "License": "ISC",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "oauthlib, requests",
+    "Required-by": "google-auth-oauthlib, tweepy",
+    "my_timing_start_time": "20240819_153900_045255",
+    "my_timing_stop_time": "20240819_153922_188560"
+}

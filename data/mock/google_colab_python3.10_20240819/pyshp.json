@@ -1,0 +1,14 @@
+{
+    "Name": "pyshp",
+    "Version": "2.3.1",
+    "Summary": "Pure Python read/write support for ESRI Shapefile format",
+    "Home-page": "https://github.com/GeospatialPython/pyshp",
+    "Author": "Joel Lawhead",
+    "Author-email": "jlawhead@geospatialpython.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_153811_634820",
+    "my_timing_stop_time": "20240819_153834_595355"
+}

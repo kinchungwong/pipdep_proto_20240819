@@ -1,0 +1,14 @@
+{
+    "Name": "jupyter-server",
+    "Version": "1.24.0",
+    "Summary": "The backend\u2014i.e. core services, APIs, and REST endpoints\u2014to Jupyter web applications.",
+    "Home-page": "https://jupyter-server.readthedocs.io",
+    "Author": "Jupyter Development Team",
+    "Author-email": "jupyter@googlegroups.com",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "anyio, argon2-cffi, jinja2, jupyter-client, jupyter-core, nbconvert, nbformat, packaging, prometheus-client, pyzmq, Send2Trash, terminado, tornado, traitlets, websocket-client",
+    "Required-by": "notebook_shim",
+    "my_timing_start_time": "20240819_153139_422757",
+    "my_timing_stop_time": "20240819_153201_760575"
+}

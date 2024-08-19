@@ -1,0 +1,14 @@
+{
+    "Name": "spacy-loggers",
+    "Version": "1.0.5",
+    "Summary": "Logging utilities for SpaCy",
+    "Home-page": "https://github.com/explosion/spacy-loggers",
+    "Author": "Explosion",
+    "Author-email": "contact@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "spacy",
+    "my_timing_start_time": "20240819_154027_085572",
+    "my_timing_stop_time": "20240819_154047_819273"
+}

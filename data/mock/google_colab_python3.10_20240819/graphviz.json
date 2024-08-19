@@ -1,0 +1,14 @@
+{
+    "Name": "graphviz",
+    "Version": "0.20.3",
+    "Summary": "Simple Python interface for Graphviz",
+    "Home-page": "https://github.com/xflr6/graphviz",
+    "Author": "Sebastian Bank",
+    "Author-email": "sebastian.bank@uni-leipzig.de",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152853_829179",
+    "my_timing_stop_time": "20240819_152915_575624"
+}

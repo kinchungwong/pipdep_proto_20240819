@@ -1,0 +1,14 @@
+{
+    "Name": "cligj",
+    "Version": "0.7.2",
+    "Summary": "Click params for commmand line interfaces to GeoJSON",
+    "Home-page": "https://github.com/mapbox/cligj",
+    "Author": "Sean Gillies",
+    "Author-email": "sean@mapbox.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "click",
+    "Required-by": "fiona",
+    "my_timing_start_time": "20240819_152411_627175",
+    "my_timing_stop_time": "20240819_152432_463709"
+}

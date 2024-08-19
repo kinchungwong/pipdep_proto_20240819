@@ -1,0 +1,14 @@
+{
+    "Name": "eval_type_backport",
+    "Version": "0.2.0",
+    "Summary": "Like `typing._eval_type`, but lets older Python versions use newer typing features.",
+    "Home-page": "https://github.com/alexmojaki/eval_type_backport",
+    "Author": "Alex Hall",
+    "Author-email": "alex.mojaki@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "albumentations",
+    "my_timing_start_time": "20240819_152619_652577",
+    "my_timing_stop_time": "20240819_152641_618364"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "pip",
+    "Version": "24.1.2",
+    "Summary": "The PyPA recommended tool for installing Python packages.",
+    "Home-page": "https://pip.pypa.io/",
+    "Author": "",
+    "Author-email": "The pip developers <distutils-sig@python.org>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "fastai, pip-tools",
+    "my_timing_start_time": "20240819_153545_261999",
+    "my_timing_stop_time": "20240819_153606_602571"
+}

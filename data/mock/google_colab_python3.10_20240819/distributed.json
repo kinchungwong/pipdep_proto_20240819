@@ -1,0 +1,14 @@
+{
+    "Name": "distributed",
+    "Version": "2024.7.1",
+    "Summary": "Distributed scheduler for Dask",
+    "Home-page": "https://distributed.dask.org",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "click, cloudpickle, dask, jinja2, locket, msgpack, packaging, psutil, pyyaml, sortedcontainers, tblib, toolz, tornado, urllib3, zict",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152517_975405",
+    "my_timing_stop_time": "20240819_152538_512238"
+}

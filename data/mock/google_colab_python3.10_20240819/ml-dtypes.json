@@ -1,0 +1,14 @@
+{
+    "Name": "ml-dtypes",
+    "Version": "0.4.0",
+    "Summary": "",
+    "Home-page": "https://github.com/jax-ml/ml_dtypes",
+    "Author": "",
+    "Author-email": "ml_dtypes authors <ml_dtypes@google.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "jax, jaxlib, keras, tensorflow, tensorstore",
+    "my_timing_start_time": "20240819_153310_935172",
+    "my_timing_stop_time": "20240819_153331_144072"
+}

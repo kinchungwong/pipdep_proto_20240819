@@ -1,0 +1,14 @@
+{
+    "Name": "ipytree",
+    "Version": "0.2.2",
+    "Summary": "A Tree Widget using jsTree",
+    "Home-page": "https://github.com/martinRenou/ipytree",
+    "Author": "Martin Renou",
+    "Author-email": "martin.renou@gmail.com",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ipywidgets",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_153055_462175",
+    "my_timing_stop_time": "20240819_153118_716179"
+}

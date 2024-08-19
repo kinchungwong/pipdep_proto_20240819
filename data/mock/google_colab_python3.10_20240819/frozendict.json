@@ -1,0 +1,14 @@
+{
+    "Name": "frozendict",
+    "Version": "2.4.4",
+    "Summary": "A simple immutable dictionary",
+    "Home-page": "https://github.com/Marco-Sulla/python-frozendict",
+    "Author": "Marco Sulla",
+    "Author-email": "marcosullaroma@gmail.com",
+    "License": "LGPL v3",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "yfinance",
+    "my_timing_start_time": "20240819_152701_477901",
+    "my_timing_stop_time": "20240819_152722_029067"
+}

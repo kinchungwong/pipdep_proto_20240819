@@ -1,0 +1,14 @@
+{
+    "Name": "opencv-contrib-python",
+    "Version": "4.10.0.84",
+    "Summary": "Wrapper package for OpenCV python bindings.",
+    "Home-page": "https://github.com/opencv/opencv-python",
+    "Author": "",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153437_067420",
+    "my_timing_stop_time": "20240819_153501_378731"
+}

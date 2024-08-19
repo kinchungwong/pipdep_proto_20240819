@@ -1,0 +1,14 @@
+{
+    "Name": "h5netcdf",
+    "Version": "1.3.0",
+    "Summary": "netCDF4 via h5py",
+    "Home-page": "https://h5netcdf.org",
+    "Author": "",
+    "Author-email": "Stephan Hoyer <shoyer@gmail.com>, Kai M\u00fchlbauer <kmuehlbauer@wradlib.org>",
+    "License": "Copyright (c) 2015, h5netcdf developers",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "h5py, packaging",
+    "Required-by": "arviz",
+    "my_timing_start_time": "20240819_152915_593439",
+    "my_timing_stop_time": "20240819_152936_256485"
+}

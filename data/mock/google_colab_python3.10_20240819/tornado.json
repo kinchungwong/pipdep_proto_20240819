@@ -1,0 +1,14 @@
+{
+    "Name": "tornado",
+    "Version": "6.3.3",
+    "Summary": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",
+    "Home-page": "http://www.tornadoweb.org/",
+    "Author": "Facebook",
+    "Author-email": "python-tornado@googlegroups.com",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "bokeh, distributed, google-colab, ipykernel, ipyparallel, jupyter-client, jupyter-server, notebook, terminado",
+    "my_timing_start_time": "20240819_154244_322077",
+    "my_timing_stop_time": "20240819_154305_091402"
+}

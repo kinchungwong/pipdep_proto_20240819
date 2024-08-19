@@ -1,0 +1,14 @@
+{
+    "Name": "rmm-cu12",
+    "Version": "24.4.0",
+    "Summary": "rmm - RAPIDS Memory Manager",
+    "Home-page": "https://github.com/rapidsai/rmm",
+    "Author": "NVIDIA Corporation",
+    "Author-email": "",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cuda-python, numba, numpy",
+    "Required-by": "cudf-cu12",
+    "my_timing_start_time": "20240819_153905_476888",
+    "my_timing_stop_time": "20240819_153926_622940"
+}

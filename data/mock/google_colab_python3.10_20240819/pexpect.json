@@ -1,0 +1,14 @@
+{
+    "Name": "pexpect",
+    "Version": "4.9.0",
+    "Summary": "Pexpect allows easy control of interactive console applications.",
+    "Home-page": "https://pexpect.readthedocs.io/",
+    "Author": "Noah Spurrier; Thomas Kluyver; Jeff Quast",
+    "Author-email": "noah@noah.org, thomas@kluyver.me.uk, contact@jeffquast.com",
+    "License": "ISC license",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ptyprocess",
+    "Required-by": "ipython",
+    "my_timing_start_time": "20240819_153544_577449",
+    "my_timing_stop_time": "20240819_153604_598768"
+}

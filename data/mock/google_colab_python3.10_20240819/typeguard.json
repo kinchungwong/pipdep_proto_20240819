@@ -1,0 +1,14 @@
+{
+    "Name": "typeguard",
+    "Version": "4.3.0",
+    "Summary": "Run-time type checker for Python",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Alex Gr\u00f6nholm <alex.gronholm@nextday.fi>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "typing-extensions",
+    "Required-by": "inflect",
+    "my_timing_start_time": "20240819_154302_045982",
+    "my_timing_stop_time": "20240819_154323_300529"
+}

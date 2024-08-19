@@ -1,0 +1,14 @@
+{
+    "Name": "google-cloud-aiplatform",
+    "Version": "1.59.0",
+    "Summary": "Vertex AI API client library",
+    "Home-page": "https://github.com/googleapis/python-aiplatform",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "docstring-parser, google-api-core, google-auth, google-cloud-bigquery, google-cloud-resource-manager, google-cloud-storage, packaging, proto-plus, protobuf, pydantic, shapely",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152807_460905",
+    "my_timing_stop_time": "20240819_152827_925383"
+}

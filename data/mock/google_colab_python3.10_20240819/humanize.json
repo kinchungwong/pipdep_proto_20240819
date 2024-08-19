@@ -1,0 +1,14 @@
+{
+    "Name": "humanize",
+    "Version": "4.10.0",
+    "Summary": "Python humanize utilities",
+    "Home-page": "https://github.com/python-humanize/humanize",
+    "Author": "",
+    "Author-email": "Jason Moiron <jmoiron@jmoiron.net>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "bigframes",
+    "my_timing_start_time": "20240819_152936_271946",
+    "my_timing_stop_time": "20240819_152956_705309"
+}

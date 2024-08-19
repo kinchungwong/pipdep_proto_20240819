@@ -1,0 +1,14 @@
+{
+    "Name": "bqplot",
+    "Version": "0.12.43",
+    "Summary": "Interactive plotting for the Jupyter notebook, using d3.js and ipywidgets.",
+    "Home-page": "https://github.com/bqplot/bqplot",
+    "Author": "The BQplot Development Team",
+    "Author-email": "",
+    "License": "Apache",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ipywidgets, numpy, pandas, traitlets, traittypes",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_152325_541830",
+    "my_timing_stop_time": "20240819_152349_793290"
+}

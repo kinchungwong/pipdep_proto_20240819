@@ -1,0 +1,14 @@
+{
+    "Name": "torchaudio",
+    "Version": "2.3.1+cu121",
+    "Summary": "An audio package for PyTorch",
+    "Home-page": "https://github.com/pytorch/audio",
+    "Author": "Soumith Chintala, David Pollack, Sean Naren, Peter Goldsborough, Moto Hira, Caroline Chen, Jeff Hwang, Zhaoheng Ni, Xiaohui Zhang",
+    "Author-email": "soumith@pytorch.org",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "torch",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154237_712264",
+    "my_timing_stop_time": "20240819_154300_866628"
+}

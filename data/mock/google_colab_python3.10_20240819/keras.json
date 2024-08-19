@@ -1,0 +1,14 @@
+{
+    "Name": "keras",
+    "Version": "3.4.1",
+    "Summary": "Multi-backend Keras.",
+    "Home-page": "https://github.com/keras-team/keras",
+    "Author": "Keras team",
+    "Author-email": "keras-users@googlegroups.com",
+    "License": "Apache License 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, h5py, ml-dtypes, namex, numpy, optree, packaging, rich",
+    "Required-by": "tensorflow",
+    "my_timing_start_time": "20240819_153146_284217",
+    "my_timing_stop_time": "20240819_153206_797723"
+}

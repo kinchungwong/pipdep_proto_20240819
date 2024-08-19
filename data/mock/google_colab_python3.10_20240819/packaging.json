@@ -1,0 +1,14 @@
+{
+    "Name": "packaging",
+    "Version": "24.1",
+    "Summary": "Core utilities for Python packages",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Donald Stufft <donald@stufft.io>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "accelerate, arviz, astropy, bokeh, build, cudf-cu12, dask, db-dtypes, distributed, fastai, fastcore, geopandas, google-cloud-aiplatform, google-cloud-bigquery, h5netcdf, holoviews, huggingface-hub, jupyter-server, kagglehub, keras, lazy_loader, matplotlib, nbconvert, nibabel, pandas-gbq, plotly, pooch, pytest, scikit-image, snowflake-connector-python, spacy, Sphinx, statsmodels, tables, tensorflow, thinc, transformers, weasel, xarray",
+    "my_timing_start_time": "20240819_153501_392108",
+    "my_timing_stop_time": "20240819_153524_303903"
+}

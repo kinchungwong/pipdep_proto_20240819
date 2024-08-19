@@ -1,0 +1,14 @@
+{
+    "Name": "defusedxml",
+    "Version": "0.7.1",
+    "Summary": "XML bomb protection for Python stdlib modules",
+    "Home-page": "https://github.com/tiran/defusedxml",
+    "Author": "Christian Heimes",
+    "Author-email": "christian@python.org",
+    "License": "PSFL",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "nbconvert",
+    "my_timing_start_time": "20240819_152517_197295",
+    "my_timing_stop_time": "20240819_152538_653585"
+}

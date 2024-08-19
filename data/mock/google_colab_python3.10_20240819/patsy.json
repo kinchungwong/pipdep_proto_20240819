@@ -1,0 +1,14 @@
+{
+    "Name": "patsy",
+    "Version": "0.5.6",
+    "Summary": "A Python package for describing statistical models and for building design matrices.",
+    "Home-page": "https://github.com/pydata/patsy",
+    "Author": "Nathaniel J. Smith",
+    "Author-email": "njs@pobox.com",
+    "License": "2-clause BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, six",
+    "Required-by": "plotnine, statsmodels",
+    "my_timing_start_time": "20240819_153527_340607",
+    "my_timing_stop_time": "20240819_153548_359266"
+}

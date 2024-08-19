@@ -1,0 +1,14 @@
+{
+    "Name": "gensim",
+    "Version": "4.3.3",
+    "Summary": "Python framework for fast Vector Space Modelling",
+    "Home-page": "https://radimrehurek.com/gensim/",
+    "Author": "Radim Rehurek",
+    "Author-email": "me@radimrehurek.com",
+    "License": "LGPL-2.1-only",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, scipy, smart-open",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152723_777494",
+    "my_timing_stop_time": "20240819_152748_530593"
+}

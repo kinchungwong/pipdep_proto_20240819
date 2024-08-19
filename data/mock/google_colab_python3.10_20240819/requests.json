@@ -1,0 +1,14 @@
+{
+    "Name": "requests",
+    "Version": "2.32.3",
+    "Summary": "Python HTTP for Humans.",
+    "Home-page": "https://requests.readthedocs.io",
+    "Author": "Kenneth Reitz",
+    "Author-email": "me@kennethreitz.org",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "certifi, charset-normalizer, idna, urllib3",
+    "Required-by": "bigframes, CacheControl, community, earthengine-api, fastai, folium, gcsfs, gdown, geocoder, google-api-core, google-cloud-bigquery, google-cloud-storage, google-colab, huggingface-hub, kaggle, kagglehub, moviepy, music21, pandas-datareader, panel, pooch, pymystem3, requests-oauthlib, snowflake-connector-python, spacy, Sphinx, tensorflow, tensorflow-datasets, torchtext, transformers, tweepy, weasel, yfinance",
+    "my_timing_start_time": "20240819_153859_911708",
+    "my_timing_stop_time": "20240819_153921_919393"
+}

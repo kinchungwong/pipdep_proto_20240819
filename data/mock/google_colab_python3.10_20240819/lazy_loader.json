@@ -1,0 +1,14 @@
+{
+    "Name": "lazy_loader",
+    "Version": "0.4",
+    "Summary": "Makes it easy to load subpackages and functions on demand.",
+    "Home-page": "",
+    "Author": "Scientific Python Developers",
+    "Author-email": "",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "packaging",
+    "Required-by": "librosa, scikit-image",
+    "my_timing_start_time": "20240819_153206_824951",
+    "my_timing_stop_time": "20240819_153226_545140"
+}

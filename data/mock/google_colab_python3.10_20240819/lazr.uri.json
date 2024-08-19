@@ -1,0 +1,14 @@
+{
+    "Name": "lazr.uri",
+    "Version": "1.0.6",
+    "Summary": "A self-contained, easily reusable library for parsing, manipulating,",
+    "Home-page": "https://launchpad.net/lazr.uri",
+    "Author": "",
+    "Author-email": "",
+    "License": "LGPL v3",
+    "Location": "/usr/lib/python3/dist-packages",
+    "Requires": "",
+    "Required-by": "launchpadlib",
+    "my_timing_start_time": "20240819_153206_236223",
+    "my_timing_stop_time": "20240819_153226_344710"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "progressbar2",
+    "Version": "4.2.0",
+    "Summary": "A Python Progressbar library to provide visual (yet text based) progress to long running operations.",
+    "Home-page": "https://github.com/WoLpH/python-progressbar",
+    "Author": "Rick van Hattem (Wolph)",
+    "Author-email": "wolph@wol.ph",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "python-utils",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153624_943923",
+    "my_timing_stop_time": "20240819_153646_318424"
+}

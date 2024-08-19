@@ -1,0 +1,14 @@
+{
+    "Name": "types-setuptools",
+    "Version": "71.1.0.20240813",
+    "Summary": "Typing stubs for setuptools",
+    "Home-page": "https://github.com/python/typeshed",
+    "Author": "",
+    "Author-email": "",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "requirements-parser",
+    "my_timing_start_time": "20240819_154317_505142",
+    "my_timing_stop_time": "20240819_154338_958726"
+}

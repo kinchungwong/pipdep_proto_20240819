@@ -1,0 +1,14 @@
+{
+    "Name": "tbb",
+    "Version": "2021.13.1",
+    "Summary": "Intel\u00ae oneAPI Threading Building Blocks (oneTBB)",
+    "Home-page": "https://github.com/oneapi-src/oneTBB",
+    "Author": "Intel Corporation",
+    "Author-email": "scripting@intel.com",
+    "License": "Intel Simplified Software License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "mkl",
+    "my_timing_start_time": "20240819_154114_375928",
+    "my_timing_stop_time": "20240819_154135_799758"
+}

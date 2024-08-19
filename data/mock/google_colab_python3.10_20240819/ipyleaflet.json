@@ -1,0 +1,14 @@
+{
+    "Name": "ipyleaflet",
+    "Version": "0.18.2",
+    "Summary": "A Jupyter widget for dynamic Leaflet maps",
+    "Home-page": "https://github.com/jupyter-widgets/ipyleaflet",
+    "Author": "Project Jupyter",
+    "Author-email": "jupyter@googlegroups.com",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "branca, ipywidgets, traittypes, xyzservices",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_153038_232941",
+    "my_timing_stop_time": "20240819_153058_621213"
+}

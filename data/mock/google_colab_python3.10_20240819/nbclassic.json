@@ -1,0 +1,14 @@
+{
+    "Name": "nbclassic",
+    "Version": "1.1.0",
+    "Summary": "Jupyter Notebook as a Jupyter Server extension.",
+    "Home-page": "https://github.com/jupyter/nbclassic",
+    "Author": "Jupyter Development Team",
+    "Author-email": "jupyter@googlegroups.com",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ipykernel, ipython-genutils, nest-asyncio, notebook-shim",
+    "Required-by": "notebook",
+    "my_timing_start_time": "20240819_153351_022033",
+    "my_timing_stop_time": "20240819_153413_741680"
+}

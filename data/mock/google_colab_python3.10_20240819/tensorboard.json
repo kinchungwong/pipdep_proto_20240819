@@ -1,0 +1,14 @@
+{
+    "Name": "tensorboard",
+    "Version": "2.17.0",
+    "Summary": "TensorBoard lets you watch Tensors Flow",
+    "Home-page": "https://github.com/tensorflow/tensorboard",
+    "Author": "Google Inc.",
+    "Author-email": "packages@tensorflow.org",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "absl-py, grpcio, markdown, numpy, protobuf, setuptools, six, tensorboard-data-server, werkzeug",
+    "Required-by": "tensorflow",
+    "my_timing_start_time": "20240819_154127_508619",
+    "my_timing_stop_time": "20240819_154150_022073"
+}

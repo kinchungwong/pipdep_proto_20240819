@@ -1,0 +1,14 @@
+{
+    "Name": "imbalanced-learn",
+    "Version": "0.12.3",
+    "Summary": "Toolbox for imbalanced dataset in machine learning.",
+    "Home-page": "https://github.com/scikit-learn-contrib/imbalanced-learn",
+    "Author": "",
+    "Author-email": "",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "joblib, numpy, scikit-learn, scipy, threadpoolctl",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152956_381403",
+    "my_timing_stop_time": "20240819_153018_730514"
+}

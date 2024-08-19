@@ -1,0 +1,14 @@
+{
+    "Name": "cachetools",
+    "Version": "5.4.0",
+    "Summary": "Extensible memoizing collections and decorators",
+    "Home-page": "https://github.com/tkem/cachetools/",
+    "Author": "Thomas Kemmer",
+    "Author-email": "tkemmer@computer.org",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "cudf-cu12, google-auth, pymc",
+    "my_timing_start_time": "20240819_152326_201508",
+    "my_timing_stop_time": "20240819_152351_123620"
+}

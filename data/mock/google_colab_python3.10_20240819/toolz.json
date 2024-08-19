@@ -1,0 +1,14 @@
+{
+    "Name": "toolz",
+    "Version": "0.12.1",
+    "Summary": "List processing tools and functional utilities",
+    "Home-page": "https://github.com/pytoolz/toolz/",
+    "Author": "https://raw.github.com/pytoolz/toolz/master/AUTHORS.md",
+    "Author-email": "",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "altair, chex, dask, distributed, ibis-framework, logical-unification, miniKanren, partd",
+    "my_timing_start_time": "20240819_154233_439324",
+    "my_timing_stop_time": "20240819_154255_802305"
+}

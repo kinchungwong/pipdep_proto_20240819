@@ -1,0 +1,14 @@
+{
+    "Name": "prometheus_client",
+    "Version": "0.20.0",
+    "Summary": "Python client for the Prometheus monitoring system.",
+    "Home-page": "https://github.com/prometheus/client_python",
+    "Author": "Brian Brazil",
+    "Author-email": "brian.brazil@robustperception.io",
+    "License": "Apache Software License 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "jupyter-server, notebook",
+    "my_timing_start_time": "20240819_153625_668218",
+    "my_timing_stop_time": "20240819_153648_607294"
+}

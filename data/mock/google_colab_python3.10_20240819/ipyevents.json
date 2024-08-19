@@ -1,0 +1,14 @@
+{
+    "Name": "ipyevents",
+    "Version": "2.0.2",
+    "Summary": "A custom widget for returning mouse and keyboard events to Python",
+    "Home-page": "https://github.com/mwcraig/ipyevents",
+    "Author": "",
+    "Author-email": "Matt Craig <mattwcraig@gmail.com>",
+    "License": "BSD 3-clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ipywidgets",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_153035_430832",
+    "my_timing_stop_time": "20240819_153055_453528"
+}

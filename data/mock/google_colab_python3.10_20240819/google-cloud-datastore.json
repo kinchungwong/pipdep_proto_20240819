@@ -1,0 +1,14 @@
+{
+    "Name": "google-cloud-datastore",
+    "Version": "2.19.0",
+    "Summary": "Google Cloud Datastore API client library",
+    "Home-page": "https://github.com/googleapis/python-datastore",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-api-core, google-cloud-core, proto-plus, protobuf",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152810_803595",
+    "my_timing_stop_time": "20240819_152831_833099"
+}

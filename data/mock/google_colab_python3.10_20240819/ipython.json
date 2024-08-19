@@ -1,0 +1,14 @@
+{
+    "Name": "ipython",
+    "Version": "7.34.0",
+    "Summary": "IPython: Productive Interactive Computing",
+    "Home-page": "https://ipython.org",
+    "Author": "The IPython Development Team",
+    "Author-email": "ipython-dev@python.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "backcall, decorator, jedi, matplotlib-inline, pexpect, pickleshare, prompt-toolkit, pygments, setuptools, traitlets",
+    "Required-by": "cufflinks, datascience, google-colab, ipykernel, ipyparallel, ipython-sql, ipywidgets, jupyter-console",
+    "my_timing_start_time": "20240819_153039_228961",
+    "my_timing_stop_time": "20240819_153059_080702"
+}

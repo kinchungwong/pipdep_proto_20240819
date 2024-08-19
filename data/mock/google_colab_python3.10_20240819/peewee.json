@@ -1,0 +1,14 @@
+{
+    "Name": "peewee",
+    "Version": "3.17.6",
+    "Summary": "a little orm",
+    "Home-page": "https://github.com/coleifer/peewee/",
+    "Author": "Charles Leifer",
+    "Author-email": "coleifer@gmail.com",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "yfinance",
+    "my_timing_start_time": "20240819_153541_675101",
+    "my_timing_stop_time": "20240819_153602_504562"
+}

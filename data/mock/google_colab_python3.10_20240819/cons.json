@@ -1,0 +1,14 @@
+{
+    "Name": "cons",
+    "Version": "0.4.6",
+    "Summary": "An implementation of Lisp/Scheme-like cons in Python.",
+    "Home-page": "https://github.com/pythological/python-cons",
+    "Author": "Brandon T. Willard",
+    "Author-email": "brandonwillard+cons@gmail.com",
+    "License": "LGPL-3",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "logical-unification",
+    "Required-by": "etuples, miniKanren, pytensor",
+    "my_timing_start_time": "20240819_152432_742974",
+    "my_timing_stop_time": "20240819_152452_590287"
+}

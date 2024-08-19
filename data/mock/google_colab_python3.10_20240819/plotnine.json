@@ -1,0 +1,14 @@
+{
+    "Name": "plotnine",
+    "Version": "0.12.4",
+    "Summary": "A Grammar of Graphics for Python",
+    "Home-page": "https://plotnine.readthedocs.io/en/stable",
+    "Author": "",
+    "Author-email": "Hassan Kibirige <has2k1@gmail.com>",
+    "License": "The MIT License (MIT)",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "matplotlib, mizani, numpy, pandas, patsy, scipy, statsmodels",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153602_516433",
+    "my_timing_stop_time": "20240819_153623_140082"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "tables",
+    "Version": "3.8.0",
+    "Summary": "Hierarchical datasets for Python",
+    "Home-page": "https://www.pytables.org",
+    "Author": "Francesc Alted, Ivan Vilata, Antonio Valentino, Anthony Scopatz et al.",
+    "Author-email": "pytables@pytables.org",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "blosc2, cython, numexpr, numpy, packaging, py-cpuinfo",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154108_404292",
+    "my_timing_stop_time": "20240819_154130_068479"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "pandas-datareader",
+    "Version": "0.10.0",
+    "Summary": "Data readers extracted from the pandas codebase,should be compatible with recent pandas versions",
+    "Home-page": "https://github.com/pydata/pandas-datareader",
+    "Author": "The PyData Development Team",
+    "Author-email": "pydata@googlegroups.com",
+    "License": "BSD License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "lxml, pandas, requests",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153502_271384",
+    "my_timing_stop_time": "20240819_153525_471039"
+}

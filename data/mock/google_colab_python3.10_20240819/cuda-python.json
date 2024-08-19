@@ -1,0 +1,14 @@
+{
+    "Name": "cuda-python",
+    "Version": "12.2.1",
+    "Summary": "Python bindings for CUDA",
+    "Home-page": "https://github.com/NVIDIA/cuda-python",
+    "Author": "NVIDIA Corporation",
+    "Author-email": "cuda-python-conduct@nvidia.com",
+    "License": "NVIDIA Proprietary License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cython",
+    "Required-by": "cudf-cu12, rmm-cu12",
+    "my_timing_start_time": "20240819_152433_930634",
+    "my_timing_stop_time": "20240819_152455_028684"
+}

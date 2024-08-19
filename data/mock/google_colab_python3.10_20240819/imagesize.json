@@ -1,0 +1,14 @@
+{
+    "Name": "imagesize",
+    "Version": "1.4.1",
+    "Summary": "Getting image size from png/jpeg/jpeg2000/gif file",
+    "Home-page": "https://github.com/shibukawa/imagesize_py",
+    "Author": "Yoshiki Shibukawa",
+    "Author-email": "yoshiki@shibu.jp",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "Sphinx",
+    "my_timing_start_time": "20240819_152955_726712",
+    "my_timing_stop_time": "20240819_153017_942643"
+}

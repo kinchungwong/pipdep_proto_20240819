@@ -1,0 +1,14 @@
+{
+    "Name": "soundfile",
+    "Version": "0.12.1",
+    "Summary": "An audio library based on libsndfile, CFFI and NumPy",
+    "Home-page": "https://github.com/bastibe/python-soundfile",
+    "Author": "Bastian Bechtold",
+    "Author-email": "basti@bastibe.de",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cffi",
+    "Required-by": "librosa",
+    "my_timing_start_time": "20240819_154020_041928",
+    "my_timing_stop_time": "20240819_154043_126206"
+}

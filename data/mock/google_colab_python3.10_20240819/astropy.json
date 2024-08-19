@@ -1,0 +1,14 @@
+{
+    "Name": "astropy",
+    "Version": "6.1.2",
+    "Summary": "Astronomy and astrophysics core library",
+    "Home-page": "https://www.astropy.org/",
+    "Author": "",
+    "Author-email": "The Astropy Developers <astropy.team@gmail.com>",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "astropy-iers-data, numpy, packaging, pyerfa, PyYAML",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152240_961213",
+    "my_timing_stop_time": "20240819_152303_830663"
+}

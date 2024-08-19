@@ -1,0 +1,14 @@
+{
+    "Name": "flax",
+    "Version": "0.8.4",
+    "Summary": "Flax: A neural network library for JAX designed for flexibility",
+    "Home-page": "https://github.com/google/flax",
+    "Author": "",
+    "Author-email": "Flax team <flax-dev@google.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "jax, msgpack, numpy, optax, orbax-checkpoint, PyYAML, rich, tensorstore, typing-extensions",
+    "Required-by": "dopamine_rl",
+    "my_timing_start_time": "20240819_152643_742783",
+    "my_timing_stop_time": "20240819_152703_772674"
+}

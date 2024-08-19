@@ -1,0 +1,14 @@
+{
+    "Name": "docstring_parser",
+    "Version": "0.16",
+    "Summary": "Parse Python docstrings in reST, Google and Numpydoc format",
+    "Home-page": "https://github.com/rr-/docstring_parser",
+    "Author": "Marcin Kurczewski",
+    "Author-email": "dash@wind.garden",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "google-cloud-aiplatform, simple_parsing",
+    "my_timing_start_time": "20240819_152537_301158",
+    "my_timing_stop_time": "20240819_152558_002870"
+}

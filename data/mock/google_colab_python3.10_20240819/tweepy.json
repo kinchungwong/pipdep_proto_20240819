@@ -1,0 +1,14 @@
+{
+    "Name": "tweepy",
+    "Version": "4.14.0",
+    "Summary": "Twitter library for Python",
+    "Home-page": "https://www.tweepy.org/",
+    "Author": "Joshua Roesslein",
+    "Author-email": "tweepy@googlegroups.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "oauthlib, requests, requests-oauthlib",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154301_370426",
+    "my_timing_stop_time": "20240819_154321_726234"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "ratelim",
+    "Version": "0.1.6",
+    "Summary": "Makes it easy to respect rate limits.",
+    "Home-page": "http://github.com/themiurgo/ratelim",
+    "Author": "Antonio Lima",
+    "Author-email": "anto87@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "decorator",
+    "Required-by": "geocoder",
+    "my_timing_start_time": "20240819_153855_211444",
+    "my_timing_stop_time": "20240819_153918_078758"
+}

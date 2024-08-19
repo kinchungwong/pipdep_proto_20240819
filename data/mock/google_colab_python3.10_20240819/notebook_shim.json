@@ -1,0 +1,14 @@
+{
+    "Name": "notebook_shim",
+    "Version": "0.2.4",
+    "Summary": "A shim layer for notebook traits and config",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Jupyter Development Team <jupyter@googlegroups.com>",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "jupyter-server",
+    "Required-by": "nbclassic",
+    "my_timing_start_time": "20240819_153414_906279",
+    "my_timing_stop_time": "20240819_153437_026894"
+}

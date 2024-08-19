@@ -1,0 +1,14 @@
+{
+    "Name": "traitlets",
+    "Version": "5.7.1",
+    "Summary": "Traitlets Python configuration system",
+    "Home-page": "https://github.com/ipython/traitlets",
+    "Author": "",
+    "Author-email": "IPython Development Team <ipython-dev@python.org>",
+    "License": "# Licensing terms",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "bqplot, ipykernel, ipyparallel, ipython, ipywidgets, jupyter-client, jupyter-server, jupyter_core, matplotlib-inline, nbclient, nbconvert, nbformat, notebook, traittypes",
+    "my_timing_start_time": "20240819_154255_830518",
+    "my_timing_stop_time": "20240819_154317_493371"
+}

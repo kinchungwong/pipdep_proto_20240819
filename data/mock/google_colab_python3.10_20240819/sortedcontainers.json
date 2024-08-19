@@ -1,0 +1,14 @@
+{
+    "Name": "sortedcontainers",
+    "Version": "2.4.0",
+    "Summary": "Sorted Containers -- Sorted List, Sorted Dict, Sorted Set",
+    "Home-page": "http://www.grantjenks.com/docs/sortedcontainers/",
+    "Author": "Grant Jenks",
+    "Author-email": "contact@grantjenks.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "distributed, snowflake-connector-python",
+    "my_timing_start_time": "20240819_154011_001958",
+    "my_timing_stop_time": "20240819_154031_670869"
+}

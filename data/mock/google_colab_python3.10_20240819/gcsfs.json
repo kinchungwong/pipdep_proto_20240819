@@ -1,0 +1,14 @@
+{
+    "Name": "gcsfs",
+    "Version": "2024.6.1",
+    "Summary": "Convenient Filesystem interface over GCS",
+    "Home-page": "https://github.com/fsspec/gcsfs",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "aiohttp, decorator, fsspec, google-auth, google-auth-oauthlib, google-cloud-storage, requests",
+    "Required-by": "bigframes",
+    "my_timing_start_time": "20240819_152703_929140",
+    "my_timing_stop_time": "20240819_152725_330145"
+}

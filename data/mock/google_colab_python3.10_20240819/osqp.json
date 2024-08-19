@@ -1,0 +1,14 @@
+{
+    "Name": "osqp",
+    "Version": "0.6.7.post0",
+    "Summary": "OSQP: The Operator Splitting QP Solver",
+    "Home-page": "https://osqp.org/",
+    "Author": "Bartolomeo Stellato, Goran Banjac",
+    "Author-email": "bartolomeo.stellato@gmail.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, qdldl, scipy",
+    "Required-by": "cvxpy",
+    "my_timing_start_time": "20240819_153501_264545",
+    "my_timing_stop_time": "20240819_153523_968883"
+}

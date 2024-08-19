@@ -1,0 +1,14 @@
+{
+    "Name": "pandas",
+    "Version": "2.1.4",
+    "Summary": "Powerful data structures for data analysis, time series, and statistics",
+    "Home-page": "https://pandas.pydata.org",
+    "Author": "",
+    "Author-email": "The Pandas Development Team <pandas-dev@python.org>",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, python-dateutil, pytz, tzdata",
+    "Required-by": "altair, arviz, bigframes, bokeh, bqplot, cmdstanpy, cudf-cu12, cufflinks, datascience, db-dtypes, dopamine_rl, fastai, geemap, geopandas, google-colab, gspread-dataframe, holoviews, ibis-framework, mizani, mlxtend, pandas-datareader, pandas-gbq, panel, plotnine, prophet, pymc, seaborn, sklearn-pandas, statsmodels, vega-datasets, xarray, yfinance",
+    "my_timing_start_time": "20240819_153501_598333",
+    "my_timing_stop_time": "20240819_153523_257891"
+}

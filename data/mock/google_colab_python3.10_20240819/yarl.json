@@ -1,0 +1,14 @@
+{
+    "Name": "yarl",
+    "Version": "1.9.4",
+    "Summary": "Yet another URL library",
+    "Home-page": "https://github.com/aio-libs/yarl",
+    "Author": "Andrew Svetlov",
+    "Author-email": "andrew.svetlov@gmail.com",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "idna, multidict",
+    "Required-by": "aiohttp",
+    "my_timing_start_time": "20240819_154424_255046",
+    "my_timing_stop_time": "20240819_154443_004314"
+}

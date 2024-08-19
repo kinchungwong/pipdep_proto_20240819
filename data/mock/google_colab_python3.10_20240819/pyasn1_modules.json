@@ -1,0 +1,14 @@
+{
+    "Name": "pyasn1_modules",
+    "Version": "0.4.0",
+    "Summary": "A collection of ASN.1-based protocols modules",
+    "Home-page": "https://github.com/pyasn1/pyasn1-modules",
+    "Author": "Ilya Etingof",
+    "Author-email": "etingof@gmail.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "pyasn1",
+    "Required-by": "google-auth, oauth2client",
+    "my_timing_start_time": "20240819_153706_616136",
+    "my_timing_stop_time": "20240819_153727_035182"
+}

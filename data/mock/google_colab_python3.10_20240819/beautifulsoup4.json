@@ -1,0 +1,14 @@
+{
+    "Name": "beautifulsoup4",
+    "Version": "4.12.3",
+    "Summary": "Screen-scraping library",
+    "Home-page": "https://www.crummy.com/software/BeautifulSoup/bs4/",
+    "Author": "",
+    "Author-email": "Leonard Richardson <leonardr@segfault.org>",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "soupsieve",
+    "Required-by": "gdown, google, nbconvert, yfinance",
+    "my_timing_start_time": "20240819_152304_587380",
+    "my_timing_stop_time": "20240819_152325_531910"
+}

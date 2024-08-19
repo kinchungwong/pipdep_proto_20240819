@@ -1,0 +1,14 @@
+{
+    "Name": "jaxlib",
+    "Version": "0.4.26+cuda12.cudnn89",
+    "Summary": "XLA library for JAX",
+    "Home-page": "https://github.com/google/jax",
+    "Author": "JAX team",
+    "Author-email": "jax-dev@google.com",
+    "License": "Apache-2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ml-dtypes, numpy, scipy",
+    "Required-by": "chex, dopamine_rl, optax, orbax-checkpoint",
+    "my_timing_start_time": "20240819_153059_098940",
+    "my_timing_stop_time": "20240819_153123_107396"
+}

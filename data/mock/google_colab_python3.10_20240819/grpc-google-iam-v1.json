@@ -1,0 +1,14 @@
+{
+    "Name": "grpc-google-iam-v1",
+    "Version": "0.13.1",
+    "Summary": "IAM API client library",
+    "Home-page": "https://github.com/googleapis/python-grpc-google-iam-v1",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "googleapis-common-protos, grpcio, protobuf",
+    "Required-by": "google-cloud-bigquery-connection, google-cloud-bigtable, google-cloud-functions, google-cloud-iam, google-cloud-pubsub, google-cloud-resource-manager",
+    "my_timing_start_time": "20240819_152909_706646",
+    "my_timing_stop_time": "20240819_152931_447167"
+}

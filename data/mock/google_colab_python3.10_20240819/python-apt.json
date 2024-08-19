@@ -1,0 +1,14 @@
+{
+    "Name": "python-apt",
+    "Version": "2.4.0",
+    "Summary": "Python bindings for APT",
+    "Home-page": "",
+    "Author": "APT Development Team",
+    "Author-email": "deity@lists.debian.org",
+    "License": "GNU GPL",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153814_871636",
+    "my_timing_stop_time": "20240819_153838_264391"
+}

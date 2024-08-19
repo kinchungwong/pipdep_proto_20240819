@@ -1,0 +1,14 @@
+{
+    "Name": "importlib_resources",
+    "Version": "6.4.0",
+    "Summary": "Read resources from Python packages",
+    "Home-page": "https://github.com/python/importlib_resources",
+    "Author": "Barry Warsaw",
+    "Author-email": "barry@python.org",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "prophet",
+    "my_timing_start_time": "20240819_153015_039247",
+    "my_timing_stop_time": "20240819_153037_298192"
+}

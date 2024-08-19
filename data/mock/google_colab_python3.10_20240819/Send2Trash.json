@@ -1,0 +1,14 @@
+{
+    "Name": "Send2Trash",
+    "Version": "1.8.3",
+    "Summary": "Send file to trash natively under Mac OS X, Windows and Linux",
+    "Home-page": "https://github.com/arsenetar/send2trash",
+    "Author": "Andrew Senetar",
+    "Author-email": "arsenetar@voltaicideas.net",
+    "License": "BSD License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "jupyter-server, notebook",
+    "my_timing_start_time": "20240819_153942_583975",
+    "my_timing_stop_time": "20240819_154003_272197"
+}

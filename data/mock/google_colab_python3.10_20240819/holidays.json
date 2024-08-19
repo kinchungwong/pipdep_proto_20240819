@@ -1,0 +1,14 @@
+{
+    "Name": "holidays",
+    "Version": "0.54",
+    "Summary": "Generate and work with holidays in Python",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Maurizio Montel <dr.prodigy.github@gmail.com>",
+    "License": "Copyright (c) Vacanza Team and individual contributors (see AUTHORS file)",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "python-dateutil",
+    "Required-by": "prophet",
+    "my_timing_start_time": "20240819_152932_482335",
+    "my_timing_stop_time": "20240819_152953_551397"
+}

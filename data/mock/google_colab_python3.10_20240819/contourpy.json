@@ -1,0 +1,14 @@
+{
+    "Name": "contourpy",
+    "Version": "1.2.1",
+    "Summary": "Python library for calculating contours of 2D quadrilateral grids",
+    "Home-page": "https://github.com/contourpy/contourpy",
+    "Author": "",
+    "Author-email": "Ian Thomas <ianthomas23@gmail.com>",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "bokeh, matplotlib",
+    "my_timing_start_time": "20240819_152433_288709",
+    "my_timing_stop_time": "20240819_152453_554721"
+}

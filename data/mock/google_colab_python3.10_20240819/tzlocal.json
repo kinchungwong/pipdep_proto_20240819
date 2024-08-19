@@ -1,0 +1,14 @@
+{
+    "Name": "tzlocal",
+    "Version": "5.2",
+    "Summary": "tzinfo object for the local timezone",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Lennart Regebro <regebro@gmail.com>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "rpy2",
+    "my_timing_start_time": "20240819_154321_211766",
+    "my_timing_stop_time": "20240819_154342_589973"
+}

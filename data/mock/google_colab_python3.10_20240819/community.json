@@ -1,0 +1,14 @@
+{
+    "Name": "community",
+    "Version": "1.0.0b1",
+    "Summary": "merge together wellness checks to unify your shit",
+    "Home-page": "https://github.com/ewdurbin/community",
+    "Author": "Ernest W. Durbin III",
+    "Author-email": "ewdurbin@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "Flask, requests",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152432_081869",
+    "my_timing_stop_time": "20240819_152453_393289"
+}

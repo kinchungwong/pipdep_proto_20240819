@@ -1,0 +1,14 @@
+{
+    "Name": "shellingham",
+    "Version": "1.5.4",
+    "Summary": "Tool to Detect Surrounding Shell",
+    "Home-page": "https://github.com/sarugaku/shellingham",
+    "Author": "Tzu-ping Chung",
+    "Author-email": "uranusjr@gmail.com",
+    "License": "ISC License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "typer",
+    "my_timing_start_time": "20240819_153948_368347",
+    "my_timing_stop_time": "20240819_154010_984638"
+}

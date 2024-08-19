@@ -1,0 +1,14 @@
+{
+    "Name": "einops",
+    "Version": "0.8.0",
+    "Summary": "A new flavour of deep learning operations",
+    "Home-page": "https://github.com/arogozhnikov/einops",
+    "Author": "Alex Rogozhnikov",
+    "Author-email": "",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152558_328523",
+    "my_timing_stop_time": "20240819_152619_643347"
+}

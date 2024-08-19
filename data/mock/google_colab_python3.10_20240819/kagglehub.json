@@ -1,0 +1,14 @@
+{
+    "Name": "kagglehub",
+    "Version": "0.2.9",
+    "Summary": "Access Kaggle resources anywhere",
+    "Home-page": "https://github.com/Kaggle/kagglehub",
+    "Author": "",
+    "Author-email": "Kaggle <support@kaggle.com>",
+    "License": "Apache License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "packaging, requests, tqdm",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153144_465421",
+    "my_timing_stop_time": "20240819_153206_171999"
+}

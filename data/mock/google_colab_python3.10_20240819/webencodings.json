@@ -1,0 +1,14 @@
+{
+    "Name": "webencodings",
+    "Version": "0.5.1",
+    "Summary": "Character encoding aliases for legacy web content",
+    "Home-page": "https://github.com/SimonSapin/python-webencodings",
+    "Author": "Geoffrey Sneddon",
+    "Author-email": "me@gsnedders.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "bleach, html5lib, tinycss2",
+    "my_timing_start_time": "20240819_154345_751252",
+    "my_timing_stop_time": "20240819_154406_905173"
+}

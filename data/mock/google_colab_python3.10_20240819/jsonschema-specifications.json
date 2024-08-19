@@ -1,0 +1,14 @@
+{
+    "Name": "jsonschema-specifications",
+    "Version": "2023.12.1",
+    "Summary": "The JSON Schema meta-schemas and vocabularies, exposed as a Registry",
+    "Home-page": "https://github.com/python-jsonschema/jsonschema-specifications",
+    "Author": "Julian Berman",
+    "Author-email": "Julian+jsonschema-specifications@GrayVines.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "referencing",
+    "Required-by": "jsonschema",
+    "my_timing_start_time": "20240819_153123_120894",
+    "my_timing_stop_time": "20240819_153146_269098"
+}

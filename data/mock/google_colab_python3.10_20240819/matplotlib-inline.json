@@ -1,0 +1,14 @@
+{
+    "Name": "matplotlib-inline",
+    "Version": "0.1.7",
+    "Summary": "Inline Matplotlib backend for Jupyter",
+    "Home-page": "https://github.com/ipython/matplotlib-inline",
+    "Author": "",
+    "Author-email": "IPython Development Team <ipython-dev@python.org>",
+    "License": "BSD 3-Clause License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "traitlets",
+    "Required-by": "ipython",
+    "my_timing_start_time": "20240819_153247_669073",
+    "my_timing_stop_time": "20240819_153310_762269"
+}

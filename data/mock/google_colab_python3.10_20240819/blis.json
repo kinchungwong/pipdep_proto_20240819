@@ -1,0 +1,14 @@
+{
+    "Name": "blis",
+    "Version": "0.7.11",
+    "Summary": "The Blis BLAS-like linear algebra library, as a self-contained C-extension.",
+    "Home-page": "https://github.com/explosion/cython-blis",
+    "Author": "Matthew Honnibal",
+    "Author-email": "matt@explosion.ai",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "thinc",
+    "my_timing_start_time": "20240819_152305_126713",
+    "my_timing_stop_time": "20240819_152325_875872"
+}

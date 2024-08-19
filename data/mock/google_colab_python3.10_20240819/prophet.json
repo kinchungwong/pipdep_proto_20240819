@@ -1,0 +1,14 @@
+{
+    "Name": "prophet",
+    "Version": "1.1.5",
+    "Summary": "Automatic Forecasting Procedure",
+    "Home-page": "https://facebook.github.io/prophet/",
+    "Author": "",
+    "Author-email": "\"Sean J. Taylor\" <sjtz@pm.me>, Ben Letham <bletham@fb.com>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cmdstanpy, holidays, importlib-resources, matplotlib, numpy, pandas, tqdm",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153627_253209",
+    "my_timing_stop_time": "20240819_153649_809047"
+}

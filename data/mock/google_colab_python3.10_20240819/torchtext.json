@@ -1,0 +1,14 @@
+{
+    "Name": "torchtext",
+    "Version": "0.18.0",
+    "Summary": "Text utilities, models, transforms, and datasets for PyTorch.",
+    "Home-page": "https://github.com/pytorch/text",
+    "Author": "PyTorch Text Team",
+    "Author-email": "packages@pytorch.org",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, requests, torch, tqdm",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154239_579726",
+    "my_timing_stop_time": "20240819_154301_355772"
+}

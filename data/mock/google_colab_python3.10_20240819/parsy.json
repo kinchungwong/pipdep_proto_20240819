@@ -1,0 +1,14 @@
+{
+    "Name": "parsy",
+    "Version": "2.1",
+    "Summary": "Easy-to-use parser combinators, for parsing in pure Python",
+    "Home-page": "https://github.com/python-parsy/parsy",
+    "Author": "Jeanine Adkisson",
+    "Author-email": "jneen@jneen.net",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "ibis-framework",
+    "my_timing_start_time": "20240819_153524_325265",
+    "my_timing_stop_time": "20240819_153545_234637"
+}

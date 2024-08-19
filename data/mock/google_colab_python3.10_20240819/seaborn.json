@@ -1,0 +1,14 @@
+{
+    "Name": "seaborn",
+    "Version": "0.13.1",
+    "Summary": "Statistical data visualization",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Michael Waskom <mwaskom@gmail.com>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "matplotlib, numpy, pandas",
+    "Required-by": "missingno",
+    "my_timing_start_time": "20240819_153940_492468",
+    "my_timing_stop_time": "20240819_154001_702995"
+}

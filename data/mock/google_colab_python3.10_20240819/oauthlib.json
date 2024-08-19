@@ -1,0 +1,14 @@
+{
+    "Name": "oauthlib",
+    "Version": "3.2.2",
+    "Summary": "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic",
+    "Home-page": "https://github.com/oauthlib/oauthlib",
+    "Author": "The OAuthlib Community",
+    "Author-email": "idan@gazit.me",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "requests-oauthlib, tweepy",
+    "my_timing_start_time": "20240819_153436_236351",
+    "my_timing_stop_time": "20240819_153500_733764"
+}

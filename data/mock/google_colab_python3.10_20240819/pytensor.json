@@ -1,0 +1,14 @@
+{
+    "Name": "pytensor",
+    "Version": "2.18.6",
+    "Summary": "Optimizing compiler for evaluating mathematical expressions on CPUs and GPUs.",
+    "Home-page": "https://github.com/pymc-devs/pytensor",
+    "Author": "",
+    "Author-email": "pymc-devs <pymc.devs@gmail.com>",
+    "License": ".. _license:",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "cons, etuples, filelock, logical-unification, miniKanren, numpy, scipy, setuptools, typing-extensions",
+    "Required-by": "pymc",
+    "my_timing_start_time": "20240819_153814_370847",
+    "my_timing_stop_time": "20240819_153838_195671"
+}

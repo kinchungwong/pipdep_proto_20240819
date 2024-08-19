@@ -1,0 +1,14 @@
+{
+    "Name": "colorlover",
+    "Version": "0.3.0",
+    "Summary": "Color scales for IPython notebook",
+    "Home-page": "https://github.com/jackparmer/colorlover",
+    "Author": "Jack Parmer",
+    "Author-email": "jack@plot.ly",
+    "License": "UNKNOWN",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "cufflinks",
+    "my_timing_start_time": "20240819_152413_270937",
+    "my_timing_stop_time": "20240819_152433_587570"
+}

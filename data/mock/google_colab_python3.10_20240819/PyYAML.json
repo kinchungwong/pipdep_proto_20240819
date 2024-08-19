@@ -1,0 +1,14 @@
+{
+    "Name": "PyYAML",
+    "Version": "6.0.2",
+    "Summary": "YAML parser and emitter for Python",
+    "Home-page": "https://pyyaml.org/",
+    "Author": "Kirill Simonov",
+    "Author-email": "xi@resolvent.net",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "accelerate, albumentations, astropy, bokeh, dask, distributed, fastai, flax, huggingface-hub, orbax-checkpoint, PyDrive, PyDrive2, transformers",
+    "my_timing_start_time": "20240819_153838_281119",
+    "my_timing_stop_time": "20240819_153900_076006"
+}

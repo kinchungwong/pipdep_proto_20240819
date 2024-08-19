@@ -1,0 +1,14 @@
+{
+    "Name": "google-api-python-client",
+    "Version": "2.137.0",
+    "Summary": "Google API Client Library for Python",
+    "Home-page": "https://github.com/googleapis/google-api-python-client/",
+    "Author": "Google LLC",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-api-core, google-auth, google-auth-httplib2, httplib2, uritemplate",
+    "Required-by": "earthengine-api, firebase-admin, google-generativeai, PyDrive, PyDrive2",
+    "my_timing_start_time": "20240819_152749_334321",
+    "my_timing_stop_time": "20240819_152810_101203"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "cffi",
+    "Version": "1.17.0",
+    "Summary": "Foreign Function Interface for Python calling C code.",
+    "Home-page": "http://cffi.readthedocs.org",
+    "Author": "Armin Rigo, Maciej Fijalkowski",
+    "Author-email": "python-cffi@googlegroups.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "pycparser",
+    "Required-by": "argon2-cffi-bindings, cryptography, rpy2, snowflake-connector-python, soundfile",
+    "my_timing_start_time": "20240819_152348_908664",
+    "my_timing_stop_time": "20240819_152412_394226"
+}

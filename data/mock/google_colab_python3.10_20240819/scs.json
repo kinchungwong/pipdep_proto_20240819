@@ -1,0 +1,14 @@
+{
+    "Name": "scs",
+    "Version": "3.2.6",
+    "Summary": "Splitting conic solver",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Brendan O'Donoghue <bodonoghue85@gmail.com>",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, scipy",
+    "Required-by": "cvxpy",
+    "my_timing_start_time": "20240819_153938_823309",
+    "my_timing_stop_time": "20240819_153959_391297"
+}

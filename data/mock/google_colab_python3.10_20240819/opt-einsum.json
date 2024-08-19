@@ -1,0 +1,14 @@
+{
+    "Name": "opt-einsum",
+    "Version": "3.3.0",
+    "Summary": "Optimizing numpys einsum function",
+    "Home-page": "https://github.com/dgasmith/opt_einsum",
+    "Author": "Daniel Smith",
+    "Author-email": "dgasmith@icloud.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy",
+    "Required-by": "jax, tensorflow",
+    "my_timing_start_time": "20240819_153440_493281",
+    "my_timing_stop_time": "20240819_153504_697693"
+}

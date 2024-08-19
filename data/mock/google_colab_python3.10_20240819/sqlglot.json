@@ -1,0 +1,14 @@
+{
+    "Name": "sqlglot",
+    "Version": "20.11.0",
+    "Summary": "An easily customizable SQL parser and transpiler",
+    "Home-page": "https://github.com/tobymao/sqlglot",
+    "Author": "Toby Mao",
+    "Author-email": "toby.mao@gmail.com",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "bigframes, ibis-framework",
+    "my_timing_start_time": "20240819_154049_969578",
+    "my_timing_stop_time": "20240819_154110_383304"
+}

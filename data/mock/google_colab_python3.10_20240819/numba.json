@@ -1,0 +1,14 @@
+{
+    "Name": "numba",
+    "Version": "0.60.0",
+    "Summary": "compiling Python code using LLVM",
+    "Home-page": "https://numba.pydata.org",
+    "Author": "",
+    "Author-email": "",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "llvmlite, numpy",
+    "Required-by": "cudf-cu12, librosa, rmm-cu12",
+    "my_timing_start_time": "20240819_153415_876646",
+    "my_timing_stop_time": "20240819_153438_400394"
+}

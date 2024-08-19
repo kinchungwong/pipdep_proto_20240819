@@ -1,0 +1,14 @@
+{
+    "Name": "tabulate",
+    "Version": "0.9.0",
+    "Summary": "Pretty-print tabular data",
+    "Home-page": "https://github.com/astanin/python-tabulate",
+    "Author": "",
+    "Author-email": "Sergey Astanin <s.astanin@gmail.com>",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "bigframes",
+    "my_timing_start_time": "20240819_154110_391299",
+    "my_timing_stop_time": "20240819_154133_304780"
+}

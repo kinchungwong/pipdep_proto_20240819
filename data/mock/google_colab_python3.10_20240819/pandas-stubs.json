@@ -1,0 +1,14 @@
+{
+    "Name": "pandas-stubs",
+    "Version": "2.1.4.231227",
+    "Summary": "Type annotations for pandas",
+    "Home-page": "https://pandas.pydata.org",
+    "Author": "The Pandas Development Team",
+    "Author-email": "pandas-dev@python.org",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, types-pytz",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153504_831441",
+    "my_timing_stop_time": "20240819_153526_614635"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "psutil",
+    "Version": "5.9.5",
+    "Summary": "Cross-platform lib for process and system monitoring in Python.",
+    "Home-page": "https://github.com/giampaolo/psutil",
+    "Author": "Giampaolo Rodola",
+    "Author-email": "g.rodola@gmail.com",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "accelerate, distributed, ipyparallel, portpicker, tensorflow-datasets",
+    "my_timing_start_time": "20240819_153644_704398",
+    "my_timing_stop_time": "20240819_153706_596241"
+}

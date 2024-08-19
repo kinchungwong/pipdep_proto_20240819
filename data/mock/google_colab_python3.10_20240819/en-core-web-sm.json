@@ -1,0 +1,14 @@
+{
+    "Name": "en-core-web-sm",
+    "Version": "3.7.1",
+    "Summary": "English pipeline optimized for CPU. Components: tok2vec, tagger, parser, senter, ner, attribute_ruler, lemmatizer.",
+    "Home-page": "https://explosion.ai",
+    "Author": "Explosion",
+    "Author-email": "contact@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "spacy",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_152559_344230",
+    "my_timing_stop_time": "20240819_152621_670888"
+}

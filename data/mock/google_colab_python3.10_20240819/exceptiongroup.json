@@ -1,0 +1,14 @@
+{
+    "Name": "exceptiongroup",
+    "Version": "1.2.2",
+    "Summary": "Backport of PEP 654 (exception groups)",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "Alex Gr\u00f6nholm <alex.gronholm@nextday.fi>",
+    "License": "",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "anyio, pytest",
+    "my_timing_start_time": "20240819_152619_803824",
+    "my_timing_stop_time": "20240819_152642_609682"
+}

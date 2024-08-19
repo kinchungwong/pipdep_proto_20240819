@@ -1,0 +1,14 @@
+{
+    "Name": "google-auth-httplib2",
+    "Version": "0.2.0",
+    "Summary": "Google Authentication Library: httplib2 transport",
+    "Home-page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-httplib2",
+    "Author": "Google Cloud Platform",
+    "Author-email": "googleapis-packages@google.com",
+    "License": "Apache 2.0",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "google-auth, httplib2",
+    "Required-by": "earthengine-api, google-api-python-client",
+    "my_timing_start_time": "20240819_152749_600507",
+    "my_timing_stop_time": "20240819_152809_607820"
+}

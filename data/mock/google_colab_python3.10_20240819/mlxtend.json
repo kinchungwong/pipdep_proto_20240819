@@ -1,0 +1,14 @@
+{
+    "Name": "mlxtend",
+    "Version": "0.23.1",
+    "Summary": "Machine Learning Library Extensions",
+    "Home-page": "https://github.com/rasbt/mlxtend",
+    "Author": "",
+    "Author-email": "Sebastian Raschka <mail@sebastianraschka.com>",
+    "License": "BSD 3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "joblib, matplotlib, numpy, pandas, scikit-learn, scipy",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153311_834359",
+    "my_timing_stop_time": "20240819_153332_477885"
+}

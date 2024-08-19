@@ -1,0 +1,14 @@
+{
+    "Name": "scooby",
+    "Version": "0.10.0",
+    "Summary": "A Great Dane turned Python environment detective",
+    "Home-page": "https://github.com/banesullivan/scooby",
+    "Author": "Dieter Werthm\u00fcller, Bane Sullivan, Alex Kaszynski, and contributors",
+    "Author-email": "info@pyvista.org",
+    "License": "UNKNOWN",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "geemap",
+    "my_timing_start_time": "20240819_153926_631577",
+    "my_timing_stop_time": "20240819_153948_344550"
+}

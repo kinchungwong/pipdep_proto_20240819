@@ -1,0 +1,14 @@
+{
+    "Name": "catalogue",
+    "Version": "2.0.10",
+    "Summary": "Super lightweight function registries for your library",
+    "Home-page": "https://github.com/explosion/catalogue",
+    "Author": "Explosion",
+    "Author-email": "contact@explosion.ai",
+    "License": "MIT",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "spacy, srsly, thinc",
+    "my_timing_start_time": "20240819_152326_934887",
+    "my_timing_stop_time": "20240819_152352_375622"
+}

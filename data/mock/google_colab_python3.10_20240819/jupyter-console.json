@@ -1,0 +1,14 @@
+{
+    "Name": "jupyter-console",
+    "Version": "6.1.0",
+    "Summary": "Jupyter terminal console",
+    "Home-page": "https://jupyter.org",
+    "Author": "Jupyter Development Team",
+    "Author-email": "jupyter@googlegroups.com",
+    "License": "BSD",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "ipykernel, ipython, jupyter-client, prompt-toolkit, pygments",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_153123_311295",
+    "my_timing_stop_time": "20240819_153146_312795"
+}

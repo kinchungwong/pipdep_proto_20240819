@@ -1,0 +1,14 @@
+{
+    "Name": "pooch",
+    "Version": "1.8.2",
+    "Summary": "A friend to fetch your data files",
+    "Home-page": "",
+    "Author": "",
+    "Author-email": "The Pooch Developers <fatiandoaterra@protonmail.com>",
+    "License": "BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "packaging, platformdirs, requests",
+    "Required-by": "librosa",
+    "my_timing_start_time": "20240819_153605_879904",
+    "my_timing_stop_time": "20240819_153626_705906"
+}

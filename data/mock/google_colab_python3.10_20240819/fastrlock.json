@@ -1,0 +1,14 @@
+{
+    "Name": "fastrlock",
+    "Version": "0.8.2",
+    "Summary": "Fast, re-entrant optimistic lock implemented in Cython",
+    "Home-page": "https://github.com/scoder/fastrlock",
+    "Author": "Stefan Behnel",
+    "Author-email": "stefan_ml@behnel.de",
+    "License": "MIT style",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "",
+    "Required-by": "cupy-cuda12x",
+    "my_timing_start_time": "20240819_152640_832501",
+    "my_timing_stop_time": "20240819_152701_213952"
+}

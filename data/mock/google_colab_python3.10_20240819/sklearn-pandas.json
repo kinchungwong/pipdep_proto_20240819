@@ -1,0 +1,14 @@
+{
+    "Name": "sklearn-pandas",
+    "Version": "2.2.0",
+    "Summary": "Pandas integration with sklearn",
+    "Home-page": "https://github.com/scikit-learn-contrib/sklearn-pandas",
+    "Author": "",
+    "Author-email": "",
+    "License": "MIT License",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "numpy, pandas, scikit-learn, scipy",
+    "Required-by": "",
+    "my_timing_start_time": "20240819_154003_140849",
+    "my_timing_stop_time": "20240819_154027_078560"
+}

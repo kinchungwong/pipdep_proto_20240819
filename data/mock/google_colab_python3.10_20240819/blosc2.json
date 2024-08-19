@@ -1,0 +1,14 @@
+{
+    "Name": "blosc2",
+    "Version": "2.0.0",
+    "Summary": "Python wrapper for the C-Blosc2 library.",
+    "Home-page": "https://github.com/Blosc/python-blosc2",
+    "Author": "Blosc Development Team",
+    "Author-email": "blosc@blosc.org",
+    "License": "https://opensource.org/licenses/BSD-3-Clause",
+    "Location": "/usr/local/lib/python3.10/dist-packages",
+    "Requires": "msgpack",
+    "Required-by": "tables",
+    "my_timing_start_time": "20240819_152324_664854",
+    "my_timing_stop_time": "20240819_152348_202928"
+}
