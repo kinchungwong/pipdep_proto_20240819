@@ -1,47 +1,20 @@
-import collections.abc
-from collections.abc import Iterable, Mapping
-import datetime
-from datetime import timezone
+from collections.abc import Iterable
 import json
 import multiprocessing
 import multiprocessing.pool
-import os
-from os.path import isfile, isdir
 from os.path import join as path_join
 import pprint
-from queue import Queue
-import shutil
-import subprocess
-import sys
-import tempfile
-import time
-import typing
-from typing import Any, Callable, Optional, Union
+from typing import Optional
 
-UTC = timezone.utc
+from pipdep_proto_20240819._internals.utils import (
+    print_banner, 
+    make_timestamp_string,
+)
 
-
-def subprocess_run_with_outtext(args: Iterable[str]) -> list[str]:
-    returncode: int
-    text: Iterable[str] = []
-    tmp_fd, tmp_name = tempfile.mkstemp(text=True)
-    try:
-        tmp_file = os.fdopen(tmp_fd, "w+")
-        subp_result = subprocess.run(args, stderr=subprocess.STDOUT, stdout=tmp_file)
-        returncode = subp_result.returncode
-        if returncode == 0:
-            tmp_file.seek(0)
-            text = tmp_file.readlines()
-    finally:
-        tmp_file.close()
-        try:
-            os.remove(tmp_name)
-        except:
-            pass
-        pass
-    if returncode != 0:
-        raise Exception(f"command {args} failed with code {returncode}.")
-    return [line.rstrip("\n") for line in text]
+from pipdep_proto_20240819._internals.executor_funcs import (
+    subprocess_run_with_outtext, 
+    multiprocess_map_async_then,
+)
 
 
 def pip_list_installed_packages() -> list[str]:
@@ -78,10 +51,6 @@ def pip_get_installed_props(package_name: str, prop_names: Optional[Iterable[str
     return prop_dict
 
 
-def make_timestamp_string() -> str:
-    return datetime.datetime.now(UTC).strftime(r"%Y%m%d_%H%M%S_%f")
-
-
 def fn_get_requires(package_name: str) -> dict[str, str]:
     # prop_names = ["name", "requires", "required-by"]
     prop_names = None
@@ -100,50 +69,6 @@ def fn_save_to_drive(package_name: str) -> dict[str, str]:
     with open(output_file, "w") as f:
         json.dump(prop_dict, f, indent=4)
     return prop_dict
-
-
-def print_banner(c: str = "="):
-    assert len(c) == 1
-    print(c * 80)
-
-
-def multiprocess_map_async_then(
-    pool: Any, 
-    fn: Callable, 
-    args: Iterable, 
-    fn_success: Callable, 
-    fn_failure: Callable,
-    fn_patience: Callable,
-    wait_time: float=1.0,
-) -> None:
-    pool_apply_async = pool.apply_async
-    count = len(args)
-    args = list(args)
-    async_results: list[multiprocessing.pool.ApplyResult] = [None] * count
-    for idx, arg in enumerate(args):
-        if not isinstance(arg, tuple):
-            arg = (arg,)
-        async_results[idx] = pool_apply_async(fn, args=arg)
-    idx_pending = set[int](range(count))
-    while len(idx_pending) > 0 and fn_patience():
-        new_idx_outcomes = list[tuple[int, bool]]()
-        for idx in idx_pending:
-            async_result = async_results[idx]
-            if not async_result.ready():
-                continue
-            outcome = async_result.successful()
-            new_idx_outcomes.append((idx, outcome))
-        for idx, outcome in new_idx_outcomes:
-            if outcome:
-                fn_success(args[idx], async_results[idx].get())
-            else:
-                async_result = async_results[idx]
-                try:
-                    exc = async_result.get()
-                except Exception as exc:
-                    fn_failure(args[idx], exc)
-            idx_pending.remove(idx)
-        time.sleep(wait_time)
 
 
 if __name__ == "__main__":
