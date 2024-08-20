@@ -2,7 +2,7 @@ from collections.abc import Mapping
 import json
 from os.path import isdir
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Union
 
 from pipdep_proto_20240819._internals.package_info import PackageInfo
 
@@ -23,9 +23,11 @@ class DependencyGraph:
     lookup: dict[str, int]
     deps: dict[int, set[int]]
 
-    def __init__(self, source_dir: str):
-        assert isdir(source_dir)
-        self.source_dir = Path(source_dir)
+    def __init__(self, source_dir: Union[Path, str]):
+        if not isinstance(source_dir, Path):
+            source_dir = Path(source_dir)
+        assert source_dir.is_dir()
+        self.source_dir = source_dir
         self.json_files = None
         self.installed = list[PackageInfo]()
         self.lookup = dict[str, int]()
