@@ -19,7 +19,6 @@ class TaskListExecutor:
     """External process execution controller for a fixed list of tasks,
     with concurrent text output handling.
     """
-    _pool: PoolProtocol
     _tasks: list[TaskProtocol]
     _fios: list[TaskPipeReader]
     _ar: list[multiprocessing.pool.ApplyResult]
@@ -35,7 +34,6 @@ class TaskListExecutor:
 
     def __init__(
         self, 
-        pool: PoolProtocol, 
         tasks: Iterable[TaskProtocol], 
         max_in_flight: int,
         text_callback: Optional[Callable[[str], None]] = None,
@@ -44,11 +42,9 @@ class TaskListExecutor:
         """ Initialize the executor with a multiprocessing.Pool, a list of tasks, and the 
         maximum number of tasks to run concurrently.
         """
-        assert isinstance(pool, PoolProtocol)
         assert all(isinstance(task, TaskProtocol) for task in tasks)
         assert isinstance(max_in_flight, int) and max_in_flight >= 1
         assert isinstance(sleep_secs, (int, float)) and sleep_secs > 0.0
-        self._pool = pool
         self._tasks = list(tasks)
         count = len(self._tasks)
         self._fios = [None] * count
@@ -63,25 +59,27 @@ class TaskListExecutor:
         self._sleep_secs = float(sleep_secs)
         self._text_callback = text_callback or self._text_callback_default
 
-    def run(self):
+    def run(self, pool: PoolProtocol) -> None:
         if self._self_is_running:
             raise Exception("Already running.")
+        assert isinstance(pool, PoolProtocol)
         self._self_is_running = True
         with self._fio_folder:
             while not self._has_completed():
-                self._try_start_more()
+                self._try_start_more(pool)
                 self._process_output()
                 time.sleep(self._sleep_secs)
         self._self_is_running = False
 
-    def _try_start_more(self) -> None:
+    def _try_start_more(self, pool: PoolProtocol) -> None:
+        assert isinstance(pool, PoolProtocol)
         while self._has_startable() and self._can_start_more():
             idx = self._not_started.popleft()
             task = self._tasks[idx]
             fio = TaskPipeReader(folder=Path(self._fio_folder.name))
             self._fios[idx] = fio
             task.set_fio_paths(fio._out_path, fio._err_path)
-            self._ar[idx] = self._pool.apply_async(task.run)
+            self._ar[idx] = pool.apply_async(task.run)
             self._in_flight.add(idx)
 
     def _process_output(self) -> None:
