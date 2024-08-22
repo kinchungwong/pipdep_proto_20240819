@@ -90,7 +90,7 @@ class DependencyGraph:
             pkinfo.aliases.add(name)
             return pkinfo
         idx = len(self.installed)
-        pkinfo = PackageInfo(name)
+        pkinfo = PackageInfo(name, path_safe_name=n_name)
         pkinfo._internal_id = idx
         self.installed.append(pkinfo)
         self.lookup[n_name] = idx

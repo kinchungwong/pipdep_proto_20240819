@@ -24,6 +24,7 @@ class PackageInfo:
             Internal identifier for the package.
     """
     name: str
+    path_safe_name: str
     version: VerStr = None
     aliases: set[str] = dataclasses.field(default_factory=set[str])
     dependencies: set[str] = dataclasses.field(default_factory=set[str])

@@ -1,6 +1,8 @@
 from pathlib import Path
 
 from pipdep_proto_20240819._internals.utils import print_banner
+from pipdep_proto_20240819._internals.package_info import PackageInfo
+from pipdep_proto_20240819._internals.package_set import PackageSet
 from pipdep_proto_20240819._internals.dependency_graph import DependencyGraph
 from pipdep_proto_20240819._internals.dependency_graph_exporter import DependencyGraphExporter
 
@@ -20,10 +22,21 @@ if __name__ == "__main__":
         "numba",
         "Cython",
         "pandas",
+        "requests",
     ]
-
-    dg_exp = DependencyGraphExporter(dg, packages)
-    dot = dg_exp.export_digraph()
-    dot.render(filename="dependency_graph", format="png", cleanup=False)
+    png_output_dir = "do_not_commit/outputs"
+    fn_png_output_name = lambda name: (name + "_deps")
+    for package in packages:
+        included = PackageSet()
+        included.add_resolved(dg, package)
+        png_output_name = fn_png_output_name(included._infos[0].path_safe_name)
+        dg_exp = DependencyGraphExporter(dg, included)
+        dot = dg_exp.export_digraph()
+        dot.render(
+            directory=png_output_dir, 
+            filename=png_output_name, 
+            format="png", 
+            cleanup=False,
+        )
 
     print_banner()
