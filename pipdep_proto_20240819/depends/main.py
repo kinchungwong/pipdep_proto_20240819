@@ -11,3 +11,6 @@ if __name__ == "__main__":
     source_dir = path_join(workspace_dir, "data/mock/google_colab_python3.10_20240819")
     dg = DependencyGraph(source_dir)
     print_banner()
+    for pkinfo in dg.installed:
+        print(pkinfo)
+    print_banner()

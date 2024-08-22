@@ -36,6 +36,16 @@ class DependencyGraph:
         self._parse_json_files()
         self._compute_dependencies()
 
+    def search_alike(self, pattern: str) -> list[PackageInfo]:
+        patterns = self._normalize_name(pattern).split("_")
+        idx_matches = set[int]()
+        for lookup_name, idx in self.lookup.items():
+            if all((sub_pattern in lookup_name) for sub_pattern in patterns):
+                idx_matches.add(idx)
+        return [
+            self.installed[idx] for idx in sorted(idx_matches)
+        ]
+
     def _list_json_files(self):
         self.json_files = list[Path]()
         for entry in self.source_dir.iterdir():
