@@ -28,8 +28,9 @@ class PackageSet(Collection[PackageInfo]):
         assert items is not None
         if isinstance(items, (int, str, PackageInfo)):
             items = [items]
-        assert isinstance(items, Iterable)
-        assert all(isinstance(item, (int, str, PackageInfo)) for item in items)
+        else:
+            assert isinstance(items, Iterable)
+            assert all(isinstance(item, (int, str, PackageInfo)) for item in items)
         dg_count = len(dg.installed)
         invalid_items = list[Any]()
         for item in items:
@@ -45,6 +46,8 @@ class PackageSet(Collection[PackageInfo]):
                     self.add(dg.installed[dg.lookup[item]])
                 else:
                     invalid_items.append(item)
+            else:
+                invalid_items.append(item)
         if invalid_items:
             for item in invalid_items:
                 if isinstance(item, int):
