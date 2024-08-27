@@ -7,9 +7,11 @@ import os
 from pathlib import Path
 import tempfile
 import time
-from typing import Callable, Optional
+import traceback
+from typing import Callable, Optional, Union
 
 
+from pipdep_proto_20240819._internals._subprocs.shell_task import ShellTask, ShellTaskReturnCode
 from pipdep_proto_20240819._internals._subprocs.task_protocol import TaskProtocol
 from pipdep_proto_20240819._internals._subprocs.pool_protocol import PoolProtocol
 from pipdep_proto_20240819._internals._subprocs.task_pipe_reader import TaskPipeReader
@@ -69,6 +71,7 @@ class TaskListExecutor:
                 self._try_start_more(pool)
                 self._process_output()
                 time.sleep(self._sleep_secs)
+        self._report_cleanup_failures()
         self._self_is_running = False
 
     def _try_start_more(self, pool: PoolProtocol) -> None:
@@ -106,17 +109,28 @@ class TaskListExecutor:
         self._failed.update(failure_set)
 
     def _classify_status(self) -> tuple[set[int], set[int], set[int]]:
-        running_set = set()
-        success_set = set()
-        failure_set = set()
+        running_set = set[int]()
+        success_set = set[int]()
+        failure_set = set[int]()
         for idx in self._in_flight:
             ar = self._ar[idx]
             if not ar.ready():
                 running_set.add(idx)
-            elif ar.successful():
-                success_set.add(idx)
-            else:
+                continue
+            if not ar.successful():
                 failure_set.add(idx)
+                continue
+            outcome: Union[None, ShellTaskReturnCode, Exception] = None
+            try:
+                outcome = ar.get()
+            except Exception as e:
+                outcome = e
+            if isinstance(outcome, ShellTaskReturnCode):
+                if outcome == 0:
+                    success_set.add(idx)
+                    continue
+            failure_set.add(idx)
+            continue
         return running_set, success_set, failure_set
 
     def _has_startable(self) -> bool:
@@ -136,3 +150,13 @@ class TaskListExecutor:
 
     def _text_callback_default(self, s: str) -> None:
         builtins.print(s)
+
+    def _report_cleanup_failures(self) -> None:
+        for idx, fio in enumerate(self._fios):
+            if fio is None:
+                continue
+            for exc in fio.get_exceptions():
+                text = traceback.format_exception(exc)
+                for line in text:
+                    line2 = line.rstrip("\r\n")
+                    self._text_callback(f"[{idx}] EXC {line2}")

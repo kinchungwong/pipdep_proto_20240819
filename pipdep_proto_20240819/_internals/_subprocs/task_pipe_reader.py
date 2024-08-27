@@ -23,6 +23,7 @@ class TaskPipeReader:
     _err_reader: CatchUpReader
     _out_text_deque: deque[str]
     _err_text_deque: deque[str]
+    _excs: list[Exception]
 
     def __init__(self, folder: Path, keep_ends: bool = False) -> None:
         self._fio_folder = folder if folder is not None else Path(tempfile.mkdtemp())
@@ -34,13 +35,19 @@ class TaskPipeReader:
         self._err_reader = CatchUpReader(seekable=True, keepends=keep_ends)
         self._out_text_deque = deque()
         self._err_text_deque = deque()
+        self._excs = list[Exception]()
 
     def mark_closed(self):
         self._is_closed = True
 
     def catch_up(self):
-        self._catch_up_internal(self._out_path, self._out_reader, self._out_text_deque)
-        self._catch_up_internal(self._err_path, self._err_reader, self._err_text_deque)
+        if len(self._excs) > 0:
+            return
+        try:
+            self._catch_up_internal(self._out_path, self._out_reader, self._out_text_deque)
+            self._catch_up_internal(self._err_path, self._err_reader, self._err_text_deque)
+        except Exception as e:
+            self._excs.append(e)
 
     def _catch_up_internal(self, path: Path, reader: CatchUpReader, text_deque: deque[str]):
         if self._is_closed:
@@ -70,3 +77,6 @@ class TaskPipeReader:
             self._out_path.unlink()
         if self._err_path.is_file():
             self._err_path.unlink()
+
+    def get_exceptions(self) -> list[Exception]:
+        return self._excs.copy()
