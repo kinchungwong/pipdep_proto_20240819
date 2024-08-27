@@ -10,7 +10,7 @@ import time
 
 from pipdep_proto_20240819._internals._subprocs.task_protocol import TaskProtocol
 from pipdep_proto_20240819._internals._subprocs.pool_protocol import PoolProtocol
-from pipdep_proto_20240819._internals._subprocs.catch_up_reader import CatchUpReader
+from catchup_reader_20240825.catchup_reader.src.catchup_reader import CatchUpReader
 
 
 class TaskPipeReader:
@@ -30,8 +30,8 @@ class TaskPipeReader:
         self._is_closed = False
         self._out_path = self._mkstemp_internal()
         self._err_path = self._mkstemp_internal()
-        self._out_reader = CatchUpReader()
-        self._err_reader = CatchUpReader()
+        self._out_reader = CatchUpReader(seekable=True, keepends=keep_ends)
+        self._err_reader = CatchUpReader(seekable=True, keepends=keep_ends)
         self._out_text_deque = deque()
         self._err_text_deque = deque()
 
@@ -43,13 +43,14 @@ class TaskPipeReader:
         self._catch_up_internal(self._err_path, self._err_reader, self._err_text_deque)
 
     def _catch_up_internal(self, path: Path, reader: CatchUpReader, text_deque: deque[str]):
-        keep_ends = self._keep_ends
-        take_all = self._is_closed
-        if not path.is_file():
-            return
-        reader.catch_up(path)
-        for line in reader.produce_lines(take_all=take_all, keep_ends=keep_ends):
-            text_deque.append(line)
+        if self._is_closed:
+            reader.set_writer_as_stopped()
+        if path.is_file():
+            with path.open("rb") as file:
+                reader.read(file)
+        else:
+            reader.read(None)
+        text_deque.extend(reader.readlines())
 
     def _mkstemp_internal(self) -> Path:
         filehandle, filepath = tempfile.mkstemp(dir=self._fio_folder.as_posix())
